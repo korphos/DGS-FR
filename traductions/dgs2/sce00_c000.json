@@ -1,0 +1,746 @@
+{
+  "_sce00_c000_0000_eng": [
+    {
+      "id": "001",
+      "en": "<E567 0>Standing here in the bright sunshine,<E003 18>\r\n<E042><CNTR>looking out over the vast ocean...<E003 45><E566><E024>",
+      "fr": "<E567 0>Debout ici, sous ce soleil éclatant,<E003 18>\r\n<E042><CNTR>à contempler l'immensité de l'océan...<E003 45><E566><E024>"
+    },
+    {
+      "id": "002",
+      "en": "<E567 2>...those days in London<E003 20> <E025 4>seem like a dream.<E003 40><E566><E024>",
+      "fr": "<E567 2>...ces jours passés à Londres<E003 20> <E025 4>me semblent un rêve.<E003 40><E566><E024>"
+    },
+    {
+      "id": "003",
+      "en": "<E567 4>But I do miss my time<E003 4> in England's<E003 2> vast capital...<E003 40><E566><E024>",
+      "fr": "<E567 4>Pourtant, ce séjour<E003 4> dans l'immense<E003 2> capitale anglaise me manque terriblement...<E003 40><E566><E024>"
+    },
+    {
+      "id": "004",
+      "en": "<E567 6>You know...<E003 14><E025 3>he's flourished into\r\n<E042><CNTR>a<E003 4> truly wonderful lawyer.<E003 30><E566><E024>",
+      "fr": "<E567 6>Vous savez...<E003 14><E025 3>il est devenu\r\n<E042><CNTR>un<E003 4> avocat vraiment remarquable.<E003 30><E566><E024>"
+    },
+    {
+      "id": "005",
+      "en": "<E567 8>I've no doubt that at this very moment,<E003 14>\r\n<E042><CNTR><E025 4>he's fighting some noble cause in court.<E003 30><E566><E024>",
+      "fr": "<E567 8>Je n'ai aucun doute qu'en ce moment même,<E003 14>\r\n<E042><CNTR><E025 4>il défend quelque noble cause devant un tribunal.<E003 30><E566><E024>"
+    },
+    {
+      "id": "006",
+      "en": "<E567 10>Forgive me<E003 22> <E025 4>for taking so long\r\n<E042><CNTR>to come <E025 3>to visit you.<E003 30><E566><E024>",
+      "fr": "<E567 10>Pardonnez-moi<E003 22> <E025 4>de m'être fait si longtemps attendre\r\n<E042><CNTR>avant de <E025 3>venir vous rendre visite.<E003 30><E566><E024>"
+    },
+    {
+      "id": "007",
+      "en": "<E567 12>My life has been <E025 3>such a\r\n<E042><CNTR>whirlwind<E003 4> since I returned.<E003 40><E566><E024>",
+      "fr": "<E567 12>Ma vie a été <E025 3>un tel tourbillon<E003 4>\r\n<E042><CNTR>depuis mon retour.<E003 40><E566><E024>"
+    },
+    {
+      "id": "008",
+      "en": "<E567 14>And no one <E025 3>could have predicted<E003 40>\r\n<E042><CNTR>what has happened.<E003 50><E566><E024>",
+      "fr": "<E567 14>Et personne <E025 3>n'aurait pu prédire<E003 40>\r\n<E042><CNTR>ce qui allait arriver.<E003 50><E566><E024>"
+    },
+    {
+      "id": "009",
+      "en": "<E567 16>Just two months<E003 24> <E025 4>after arriving home...<E003 56><E566><E024>",
+      "fr": "<E567 16>Seulement deux mois<E003 24> <E025 4>après mon retour au pays...<E003 56><E566><E024>"
+    },
+    {
+      "id": "010",
+      "en": "...I find myself faced<E003 12> with another awful crime.<E003 50><E024>",
+      "fr": "...me voilà confrontée<E003 12> à un nouveau crime horrible.<E003 50><E024>"
+    },
+    {
+      "id": "011",
+      "en": "<E567 20>So I came here today\r\n<E042><CNTR><E025 3>to ask something of you.<E003 50><E566><E024>",
+      "fr": "<E567 20>C'est pourquoi je suis venue aujourd'hui\r\n<E042><CNTR><E025 3>vous demander quelque chose.<E003 50><E566><E024>"
+    },
+    {
+      "id": "012",
+      "en": "<E567 22>Tomorrow,<E003 20> <E025 2>I shall be standing in court.<E003 50><E566><E024>",
+      "fr": "<E567 22>Demain,<E003 20> <E025 2>je me tiendrai devant un tribunal.<E003 50><E566><E024>"
+    },
+    {
+      "id": "013",
+      "en": "<E567 24>For the only time in my life...<E003 30><E566><E024>",
+      "fr": "<E567 24>Pour la seule et unique fois de ma vie...<E003 30><E566><E024>"
+    },
+    {
+      "id": "014",
+      "en": "...<E169 102 2><E567 25>as a lawyer.<E169 102 0><E003 60><E566><E169 102 3><E054 1><E024>",
+      "fr": "...<E169 102 2><E567 25>en tant qu'avocate.<E169 102 0><E003 60><E566><E169 102 3><E054 1><E024>"
+    },
+    {
+      "id": "015",
+      "en": "<E567 26>So please...<E003 44><E299 4>I ask for your guidance.<E156 102 1 -60><E003 60><E566><E024>",
+      "fr": "<E567 26>Alors je vous en prie...<E003 44><E299 4>guidez mes pas.<E156 102 1 -60><E003 60><E566><E024>"
+    },
+    {
+      "id": "016",
+      "en": "<E567 28>...Kazuma-sama.<E003 50><E566><E024>",
+      "fr": "...Kazuma-sama."
+    },
+    {
+      "id": "017",
+      "en": "Review the game system before you start playing?<E027><E800 513><E221><E800 514><E222 2 9><E800 515><E222 3 10><E800 517><E220 30><E800 518><E024>",
+      "fr": "Consulter le tutoriel avant de commencer ?<E027><E800 513><E221><E800 514><E222 2 9><E800 515><E222 3 10><E800 517><E220 30><E800 518><E024>"
+    },
+    {
+      "id": "018",
+      "en": "<E007>Saving Your Progress",
+      "fr": "<E007>Sauvegarder votre progression"
+    },
+    {
+      "id": "019",
+      "en": "You can touch save at any time to record your progress\r\nin the game so far.",
+      "fr": "Vous pouvez sauvegarder à tout moment pour enregistrer votre avancement."
+    },
+    {
+      "id": "020",
+      "en": "Select one of the two save slots on the save screen.",
+      "fr": "Sélectionnez l'un des deux emplacements de sauvegarde sur l'écran prévu à cet effet."
+    },
+    {
+      "id": "021",
+      "en": "When you select 'Continue a game' on the title screen, you can pick a save slot to start playing from.",
+      "fr": "Sur l'écran titre, choisissez « Continuer » pour reprendre une partie depuis l'emplacement souhaité."
+    },
+    {
+      "id": "022",
+      "en": "<E007>The History Screen",
+      "fr": "<E007>L'Historique"
+    },
+    {
+      "id": "023",
+      "en": "By pressing the Y Button during the game, or by touching the 'History' panel on the save screen...",
+      "fr": "En appuyant sur le bouton Y pendant le jeu, ou en touchant le panneau « Historique » sur l'écran de sauvegarde..."
+    },
+    {
+      "id": "024",
+      "en": "...you can open the history screen and review the content\r\nof recent conversations.",
+      "fr": "...vous pouvez ouvrir l'historique et consulter les dialogues récents."
+    },
+    {
+      "id": "025",
+      "en": "<E007>The Settings Button",
+      "fr": "<E007>Les Options"
+    },
+    {
+      "id": "026",
+      "en": "Touch the settings icon on the save screen to alter the\r\nskip-ahead setting.",
+      "fr": "Appuyez sur l'icône des options sur l'écran de sauvegarde pour modifier le paramètre de défilement rapide."
+    },
+    {
+      "id": "027",
+      "en": "If you change the setting to 'on', you'll be able to skip ahead even on text you haven't read before.",
+      "fr": "Si vous activez cette option, vous pourrez faire défiler rapidement même les textes non encore lus."
+    },
+    {
+      "id": "028",
+      "en": "The default setting is 'off', meaning that you can only skip ahead on text you've already read before.",
+      "fr": "Par défaut, cette option est désactivée : seuls les textes déjà lus peuvent être passés rapidement."
+    },
+    {
+      "id": "029",
+      "en": "That's the end of the system review.<E003 8>\r\nNow enjoy the game!",
+      "fr": "C'est tout pour le tutoriel.<E003 8>\r\nBonne partie !"
+    }
+  ],
+  "_sce00_c000_0010_eng": [
+    {
+      "id": "001",
+      "en": "<E003 10>13th August, 8:26 a.m.\r\n<CNTR><E003 5>Supreme Court of Judicature, Defendants' Antechamber 3",
+      "fr": "<E003 10>13 août, 8h26\r\n<CNTR><E003 5>Cour suprême de Judicature, Antichambre accusés n°3"
+    },
+    {
+      "id": "002",
+      "en": "<E007>(Here I am again after nine months...<E003 12>\r\n<E025 2>The Supreme Court of Judicature of Japan.)",
+      "fr": "<E007>(Me voilà de retour après neuf mois...<E003 12>\r\n<E025 2>La Cour Suprême de Judicature du Japon.)"
+    },
+    {
+      "id": "003",
+      "en": "<E007>(I feel so nervous.<E003 10> <E025 2>But I must steel my nerves and find a\r\nway to compose myself.)",
+      "fr": "<E007>(Je suis si nerveuse.<E003 10> <E025 2>Mais je dois me ressaisir\r\net trouver un moyen de me calmer.)"
+    },
+    {
+      "id": "004",
+      "en": "Ah good,<E003 8> you're here.<E049><E003 16>\r\n<E025 3>It doesn't do for a lawyer to be late.",
+      "fr": "Ah,<E003 8> vous voilà.<E049><E003 16>\r\n<E025 3>Un avocat ne peut pas se permettre d'être en retard."
+    },
+    {
+      "id": "005",
+      "en": "<E333>Oh!<E003 10> <E025 2>Yes, <E003 6>um...<E003 14>\r\n<E025 1><E335><E342>Good morning, sir!",
+      "fr": "<E333>Oh !<E003 10> <E025 2>Oui, <E003 6>euh...<E003 14>\r\n<E025 1><E335><E342>Bonjour, Professeur !"
+    },
+    {
+      "id": "006",
+      "en": "I hardly recognise you.<E049><E003 10>\r\n<E025 3>You cut a fine figure, <E003 6>Counsel.",
+      "fr": "Je vous reconnais à peine.<E049><E003 10>\r\n<E025 3>Vous avez fière allure, <E003 6>Maître."
+    },
+    {
+      "id": "007",
+      "en": "But you look as white as a sheet.<E049><E003 12> <E025 2>And those wide eyes\r\naren't doing you any favours, either.",
+      "fr": "Mais vous êtes blanche comme un linge.<E049><E003 12> <E025 2>Et ces grands yeux écarquillés ne vous aident pas non plus."
+    },
+    {
+      "id": "008",
+      "en": "<E341>Oh dear...",
+      "fr": "<E341>Oh, vraiment..."
+    },
+    {
+      "id": "009",
+      "en": "The truth is<E025 7>...<E003 8><E025 2>I'm so incredibly nervous, <E145 13 64><E003 10><E025 3>I feel utterly\r\nnauseated.",
+      "fr": "La vérité, c'est<E025 7>...<E003 8><E025 2>que je suis si terriblement nerveuse, <E145 13 64><E003 10><E025 3>que j'en ai la nausée."
+    },
+    {
+      "id": "010",
+      "en": "I almost wish <E003 8><E025 2><E333><E145 13 67><E149 13 0 0>that I'd never been born.",
+      "fr": "J'en viendrais presque <E003 8><E025 2><E333><E145 13 67><E149 13 0 0>à regretter d'être venue au monde."
+    },
+    {
+      "id": "011",
+      "en": "<E341>Goodness.<E003 10> <E025 2>Not the sort of thing a father hopes to hear\r\nfrom his daughter, <E003 6>I must say.",
+      "fr": "<E341>Bonté divine.<E003 10> <E025 2>Ce n'est pas ce qu'un père espère entendre\r\nde sa fille, <E003 6>je dois dire."
+    },
+    {
+      "id": "012",
+      "en": "<E007>(...<E006>Yujin Mikotoba<E007>.<E003 12>\r\n<E025 2>Professor of Medicine at the Imperial Yumei University.)",
+      "fr": "<E007>(...<E006>Yujin Mikotoba<E007>.<E003 12>\r\n<E025 2>Professeur de médecine à l'Université Impériale Yumei.)"
+    },
+    {
+      "id": "013",
+      "en": "<E007>(A man who, earlier in his life, <E003 6><E145 13 68>travelled to Great Britain\r\nto study the latest advances in forensic medical science.)",
+      "fr": "<E007>(Dans sa jeunesse, <E003 6><E145 13 68>il se rendit en Grande-Bretagne pour y étudier les avancées en médecine légale.)"
+    },
+    {
+      "id": "014",
+      "en": "<E007>(And of course...<E003 8>my brilliant father.)",
+      "fr": "<E007>(Et bien sûr...<E003 8>mon brillant père.)"
+    },
+    {
+      "id": "015",
+      "en": "<E330><E089 10 2>...Um, <E003 8>excuse me...",
+      "fr": "<E330><E089 10 2>...Euh, <E003 8>excusez-moi..."
+    },
+    {
+      "id": "016",
+      "en": "Would I be correct in thinking that you're to be my\r\nlawyer in court today?",
+      "fr": "Suis-je bien en face de... l'avocat qui me représentera au tribunal aujourd'hui ?"
+    },
+    {
+      "id": "017",
+      "en": "Hm...<E003 10><E334><E025 1> Oh!<E003 10> Um...<E003 10>yes.<E003 12>\r\n<E025 1><E335><E145 41 69><E117 41 5>Yes, <E003 8>that's right...<E003 10>miss!",
+      "fr": "Hm...<E003 10><E334><E025 1> Oh !<E003 10> Euh...<E003 10>oui.<E003 12>\r\n<E025 1><E335><E145 41 69><E117 41 5>Oui, <E003 8>c'est exact...<E003 10>mademoiselle !"
+    },
+    {
+      "id": "018",
+      "en": "<E341>Well...<E003 8><E025 3>I, <E003 8><E025 2>um...<E049><E003 10> <E164 41 76 1 2 8 0 1 1><E118 41 1.2><E139 41><E025 1>I want to thank you for agreeing to\r\nrepresent me!",
+      "fr": "<E341>Eh bien...<E003 8><E025 3>je, <E003 8><E025 2>euh...<E049><E003 10> <E164 41 76 1 2 8 0 1 1><E118 41 1.2><E139 41><E025 1>je voulais vous remercier d'avoir accepté de me défendre !"
+    },
+    {
+      "id": "019",
+      "en": "I swear...<E049><E003 8>\r\n<E341><E025 2>I swear on my life...",
+      "fr": "Je le jure...<E049><E003 8>\r\n<E341><E025 2>Je le jure sur ma vie..."
+    },
+    {
+      "id": "020",
+      "en": "<E089 10 1>...it's <E006>a complete fabrication<E005>!<E049><E003 6><E145 41 71><E118 41 1.3><E003 8>\r\n<E346>This whole thing!<E089 0 6>",
+      "fr": "<E089 10 1>...c'est <E006>une pure invention<E005> !<E049><E003 6><E145 41 71><E118 41 1.3><E003 8>\r\n<E346>Tout ça, c'est du flan !<E089 0 6>"
+    },
+    {
+      "id": "021",
+      "en": "<E007>(...<E006>Rei Membami<E007>.<E003 10>\r\n<E025 2>Born the same year as I, <E003 6>and my greatest friend.)",
+      "fr": "<E007>(...<E006>Rei Membami<E007>.<E003 10>\r\n<E025 2>Née la même année que moi, <E003 6>et ma plus grande amie.)"
+    },
+    {
+      "id": "022",
+      "en": "<E007>(Though unusual for a woman in our time, <E003 6>she works at\r\nthe university research laboratory, <E003 6>helping my father.)",
+      "fr": "<E007>(Chose rarissime pour une femme, <E003 6>elle travaille au laboratoire de l'université, <E003 6>en aidant mon père.)"
+    },
+    {
+      "id": "023",
+      "en": "<E007>(And sadly...<E003 12><E145 41 67><E330><E025 3>she's <E006>the defendant<E007> in today's trial.)",
+      "fr": "<E007>(Et malheureusement...<E003 12><E145 41 67><E330><E025 3>elle est <E006>l'accusée<E007> du procès d'aujourd'hui.)"
+    },
+    {
+      "id": "024",
+      "en": "<E007>(Accused of committing a truly awful <E006>murder<E007>.)",
+      "fr": "<E007>(Accusée d'avoir commis un <E006>meurtre<E007> des plus odieux.)"
+    },
+    {
+      "id": "025",
+      "en": "<E341>Are you feeling alright?",
+      "fr": "<E341>Vous sentez-vous bien ?"
+    },
+    {
+      "id": "026",
+      "en": "Since we started talking, <E003 6><E025 3>you seem<E145 41 64><E118 41 0.5><E025 7>...<E003 8><E025 3>well, <E003 8><E025 2><E333>to have become\r\na little flushed.",
+      "fr": "Depuis que nous parlons, <E003 6><E025 3>vous semblez<E145 41 64><E118 41 0.5><E025 7>...<E003 8><E025 3>eh bien, <E003 8><E025 2><E333>avoir les joues un peu roses."
+    },
+    {
+      "id": "027",
+      "en": "<E331><E343>Oh my!<E003 10> <E169 41 0><E025 2>Um...<E003 8><E169 41 3>well...<E003 10><E169 41 0>erm...<E003 12><E169 41 3>\r\n<E341><E025 3>It's just that...",
+      "fr": "<E331><E343>Oh là !<E003 10> <E169 41 0><E025 2>Euh...<E003 8><E169 41 3>eh bien...<E003 10><E169 41 0>hm...<E003 12><E169 41 3>\r\n<E341><E025 3>C'est que..."
+    },
+    {
+      "id": "028",
+      "en": "<E330>...you look so gallant and dashing.",
+      "fr": "<E330>...vous avez l'air si vaillant et si séduisant."
+    },
+    {
+      "id": "029",
+      "en": "<E333>Sorry?",
+      "fr": "<E333>Pardon ?"
+    },
+    {
+      "id": "030",
+      "en": "<E341>And when I fall under your intense gaze, <E003 6>it<E049><E025 7>...<E003 10><E145 41 68><E003 15>\r\n<E025 2><E043>Well, <E003 6>it makes me feel rather bashful.",
+      "fr": "<E341>Et quand je croise votre regard intense, <E003 6>ça<E049><E025 7>...<E003 10><E145 41 68><E003 15>\r\n<E025 2><E043>Eh bien, <E003 6>ça me rend toute timide."
+    },
+    {
+      "id": "031",
+      "en": "...<E003 2>...<E003 4>...",
+      "fr": "........."
+    },
+    {
+      "id": "032",
+      "en": "<E007>(Goodness...<E003 8> <E025 3>I don't think she knows.)",
+      "fr": "<E007>(Seigneur...<E003 8> <E025 3>Je ne crois pas qu'elle me reconnaisse.)"
+    },
+    {
+      "id": "033",
+      "en": "<E007><E238>(She hasn't realised <E006>who I am<E007>.)",
+      "fr": "<E007><E238>(Elle n'a pas compris <E006>qui je suis<E007>.)"
+    },
+    {
+      "id": "034",
+      "en": "<E345>Wa <E003 5>ha <E003 5>ha <E003 5>ha <E003 5>ha!",
+      "fr": "<E345>Ha <E003 5>ha <E003 5>ha <E003 5>ha <E003 5>ha !"
+    },
+    {
+      "id": "035",
+      "en": "It would seem our little plan for this trial is going to work.",
+      "fr": "Il semblerait que notre petit stratagème pour ce procès va fonctionner."
+    },
+    {
+      "id": "036",
+      "en": "Oh!<E003 12> What, <E003 8><E341>what do you mean, <E003 8>Professor Mikotoba?",
+      "fr": "Oh !<E003 12> Que, <E003 8><E341>que voulez-vous dire, <E003 8>Professeur Mikotoba ?"
+    },
+    {
+      "id": "037",
+      "en": "If even your best friend can't see through the disguise,<E049><E003 10>\r\n<E025 3>I think we can relax.",
+      "fr": "Si même votre meilleure amie ne perce pas le déguisement,<E049><E003 10>\r\n<E025 3>je crois que nous pouvons nous détendre."
+    },
+    {
+      "id": "038",
+      "en": "<E341>Disguise...?",
+      "fr": "<E341>Déguisement... ?"
+    },
+    {
+      "id": "039",
+      "en": "Yes...<E003 10> I've never tried dressing this way before, <E003 6>of course,<E003 10>\r\nso I wasn't sure how convincing it would be.",
+      "fr": "Oui...<E003 10> Je n'avais jamais essayé de m'habiller ainsi, <E003 6>bien sûr,<E003 10>\r\ndonc je n'étais pas sûre du résultat."
+    },
+    {
+      "id": "040",
+      "en": "But this does make me feel a little relieved, as you say,<E145 13 69><E003 8><E025 3>\r\nFather.",
+      "fr": "Mais cela me rassure un peu, comme vous le dites,<E145 13 69><E003 8><E025 3>\r\nPère."
+    },
+    {
+      "id": "041",
+      "en": "<E341>F-<E003 8><E330>Father?",
+      "fr": "<E341>P-<E003 8><E330>Père ?"
+    },
+    {
+      "id": "042",
+      "en": "...<E003 2>...<E003 4>...",
+      "fr": "........."
+    },
+    {
+      "id": "043",
+      "en": "WHAAAAAA?!<E049><E003 20>\r\n<E025 3>Is, <E003 8><E025 1><E603>is that...?",
+      "fr": "QUOOOOOI ?!<E049><E003 20>\r\n<E025 3>C'est, <E003 8><E025 1><E603>c'est... ?"
+    },
+    {
+      "id": "044",
+      "en": "<E330>Is that you, <E049><E003 10><E025 2>Susato?",
+      "fr": "<E330>C'est toi, <E049><E003 10><E025 2>Susato ?"
+    },
+    {
+      "id": "045",
+      "en": "I'm so sorry I didn't say something sooner, <E003 6>Rei.<E145 41 69><E118 41 0.6><E003 15>\r\n<E025 3>It's just that–<E003 6><E024>",
+      "fr": "Je suis désolée de ne pas t'avoir parlé plus tôt, <E003 6>Rei.<E145 41 69><E118 41 0.6><E003 15>\r\n<E025 3>C'est que–<E003 6><E024>"
+    },
+    {
+      "id": "046",
+      "en": "<E606>NOOOOOOOOO!<E003 10> <E607>What are you doing?<E003 6>\r\nWhat's going on?<E003 6> What what what what what?",
+      "fr": "<E606>NOOOOOOON !<E003 10> <E607>Mais qu'est-ce que tu fais ?<E003 6>\r\nQu'est-ce qui se passe ?<E003 6> Quoi quoi quoi quoi quoi ?"
+    },
+    {
+      "id": "047",
+      "en": "That varsity uniform!<E003 8> That varsity cap!<E003 8>\r\nThat varsity cape!<E003 8> That varsity badge!",
+      "fr": "Cette tenue d'université !<E003 8> Cette casquette d'université !<E003 8>\r\nCette cape d'université !<E003 8> Ce badge d'université !"
+    },
+    {
+      "id": "048",
+      "en": "Look at you!<E049><E003 15> <E346>You look for all the world just like a student\r\nof the Imperial Yumei University!<E049><E003 10> <E006>A male student<E005>!<E085 0 17>",
+      "fr": "Regarde-toi !<E049><E003 15> <E346>Tu as tout l'air d'une étudiante de l'Université Impériale Yumei !<E049><E003 10> D'<E006>un étudiant masculin<E005> !<E085 0 17>"
+    },
+    {
+      "id": "049",
+      "en": "...I'm so glad you think so.",
+      "fr": "...Je suis ravie que tu le penses."
+    },
+    {
+      "id": "050",
+      "en": "It means all my preparations have been worthwhile.<E003 12>\r\n<E145 41 69><E118 41 0.3>I woke at four this morning to make a start.",
+      "fr": "Cela signifie que tous mes préparatifs en valaient la peine.<E003 12>\r\n<E145 41 69><E118 41 0.3>Je me suis levée à quatre heures pour commencer."
+    },
+    {
+      "id": "051",
+      "en": "<E341>But, <E003 8>but I don't understand.<E003 10>\r\n<E025 3>Why are you dressed like that?",
+      "fr": "<E341>Mais, <E003 8>mais je ne comprends pas.<E003 10>\r\n<E025 3>Pourquoi tu t'es habillée comme ça ?"
+    },
+    {
+      "id": "052",
+      "en": "Well...<E003 6>you see...",
+      "fr": "Eh bien...<E003 6>tu vois..."
+    },
+    {
+      "id": "053",
+      "en": "It was the only way.",
+      "fr": "C'était le seul moyen."
+    },
+    {
+      "id": "054",
+      "en": "The only way she would be permitted into the Supreme\r\nCourt to take on your defence in this trial.",
+      "fr": "Le seul moyen pour elle d'être admise dans la Cour Suprême afin d'assurer ta défense lors de ce procès."
+    },
+    {
+      "id": "055",
+      "en": "<E342><E333>My...<E003 10>\r\n<E342>My defence?",
+      "fr": "<E342><E333>Ma...<E003 10>\r\n<E342>Ma défense ?"
+    },
+    {
+      "id": "056",
+      "en": "...<E003 2>...<E003 4>...",
+      "fr": "........."
+    },
+    {
+      "id": "057",
+      "en": "<E007>(Never before in my life have I felt so frustrated at\r\nhaving been born into this body.)",
+      "fr": "<E007>(Jamais de toute ma vie je n'avais ressenti une telle frustration d'être née dans ce corps.)"
+    },
+    {
+      "id": "058",
+      "en": "<E007><E330>(Courts in Japan are <E006>barred to women<E007>.<E003 10> <E025 2>We're not even\r\nallowed to set foot inside the courtroom.)",
+      "fr": "<E007><E330>(Les tribunaux du Japon sont <E006>interdits aux femmes<E007>.<E003 10> <E025 2>On ne nous laisse même pas y entrer.)"
+    },
+    {
+      "id": "059",
+      "en": "<E007>(Despite the fact that the laws of the land apply to all\r\npeople –<E003 6> male and female –<E003 4> alike...)",
+      "fr": "<E007>(Et pourtant, les lois du pays s'appliquent à tous,<E003 6>\r\nhommes et femmes –<E003 4> confondus...)"
+    },
+    {
+      "id": "060",
+      "en": "<E341>But<E025 7>...<E003 8><E025 3>women are forbidden...",
+      "fr": "<E341>Mais<E025 7>...<E003 8><E025 3>les femmes sont interdites..."
+    },
+    {
+      "id": "061",
+      "en": "Just for today, <E003 12>I'll be leaving my true self at the courtroom\r\ndoor.",
+      "fr": "Juste pour aujourd'hui, <E003 12>je laisserai mon vrai moi sur le pas de la porte."
+    },
+    {
+      "id": "062",
+      "en": "<E333>So that I can act as your lawyer.",
+      "fr": "<E333>Pour pouvoir agir en tant que ton avocate."
+    },
+    {
+      "id": "063",
+      "en": "Oh, <E003 8><E341>Susato...<E049><E003 12>\r\n<E330><E025 3>You'd go to such lengths for me?",
+      "fr": "Oh, <E003 8><E341>Susato...<E049><E003 12>\r\n<E330><E025 3>Tu ferais tout ça pour moi ?"
+    },
+    {
+      "id": "064",
+      "en": "Of course.<E003 12> You're my greatest friend.",
+      "fr": "Bien sûr.<E003 12> Tu es ma meilleure amie."
+    },
+    {
+      "id": "065",
+      "en": "I just worry that I shan't be the lawyer you deserve.",
+      "fr": "Je crains simplement de ne pas être l'avocate que tu mérites."
+    },
+    {
+      "id": "066",
+      "en": "Oh no!<E003 12> I have complete faith in you!",
+      "fr": "Mais non !<E003 12> J'ai une confiance totale en toi !"
+    },
+    {
+      "id": "067",
+      "en": "Rei...",
+      "fr": "Rei..."
+    },
+    {
+      "id": "068",
+      "en": ".........<E003 10>\r\n<E025 3>It's so strange, though.",
+      "fr": ".........<E003 10>\r\n<E025 3>C'est tout de même bizarre, tu sais."
+    },
+    {
+      "id": "069",
+      "en": "I mean, <E003 6>you're such an accomplished judicial assistant\r\nalready.",
+      "fr": "Enfin, <E003 6>tu es déjà une assistante judiciaire tellement accomplie."
+    },
+    {
+      "id": "070",
+      "en": "And yet just because you're a woman<E025 7>...<E049><E003 10>\r\n<E164 41 72 1 2 5 0 3 1><E118 41 1.6><E139 41><E025 1>What a wretched reason!",
+      "fr": "Et pourtant, juste parce que tu es une femme<E025 7>...<E049><E003 10>\r\n<E164 41 72 1 2 5 0 3 1><E118 41 1.6><E139 41><E025 1>Quelle raison minable !"
+    },
+    {
+      "id": "071",
+      "en": "I mean, <E003 10>why shouldn't you be allowed in court?!<E049><E003 8><E145 41 73><E003 16>\r\n<E330><E025 2><E341>...You're so gallant and dashing!",
+      "fr": "Pourquoi<E003 10> n'as-tu pas le droit d'aller au tribunal ?!<E049><E003 8><E145 41 73><E003 16>\r\n<E330><E025 2><E341>...Tu es si vaillante et si séduisante !"
+    },
+    {
+      "id": "072",
+      "en": "Um...<E003 8>Rei...",
+      "fr": "Euh...<E003 8>Rei..."
+    },
+    {
+      "id": "073",
+      "en": "...please don't look at me like that, <E003 9><E238>with those flushed\r\ncheeks and doting eyes.",
+      "fr": "...s'il te plaît, ne me regarde pas comme ça, <E003 9><E238>avec ces joues roses et ces yeux langoureux."
+    },
+    {
+      "id": "074",
+      "en": "Oh!<E003 12> I'm, <E003 6>I'm sorry.<E003 10> <E025 3>It's just<E025 10>...<E003 12><E025 3>you really do look so dashing...",
+      "fr": "Oh !<E003 12> Je, <E003 6>je suis désolée.<E003 10> <E025 3>C'est juste<E025 10>...<E003 12><E025 3>tu as vraiment l'air si séduisant..."
+    },
+    {
+      "id": "075",
+      "en": "<E335>Y-<E003 8>Yes,<E003 12> you mentioned that once or twice.",
+      "fr": "<E335>O-<E003 8>Oui,<E003 12> tu l'as mentionné une ou deux fois."
+    },
+    {
+      "id": "076",
+      "en": "<E145 13 71><E169 13 0><E345>Wa <E003 5>ha <E003 5>ha <E003 5>ha <E003 5>ha!<E003 12> <E169 13 3><E025 2>You should be pleased.<E003 10>\r\nIt means you look convincing as a man.",
+      "fr": "<E145 13 71><E169 13 0><E345>Ha <E003 5>ha <E003 5>ha <E003 5>ha <E003 5>ha !<E003 12> <E169 13 3><E025 2>Tu devrais être contente.<E003 10>\r\nCela signifie que tu es convaincante en tant qu'homme."
+    },
+    {
+      "id": "077",
+      "en": "I am pleased<E025 7>...<E003 8><E025 3>I think.<E003 12> <E025 2>It's certainly helped to bolster my\r\nconfidence today.",
+      "fr": "Je suis contente<E025 7>...<E003 8><E025 3>je crois.<E003 12> <E025 2>Ça m'a bien aidée à renforcer\r\nma confiance aujourd'hui."
+    },
+    {
+      "id": "078",
+      "en": "<E007>(Rei...)",
+      "fr": "<E007>(Rei...)"
+    },
+    {
+      "id": "079",
+      "en": "<E007>(You're managing to put on a brave face in all this, <E145 41 67><E118 41 0.7><E003 8>but I\r\ncan see through it.)",
+      "fr": "<E007>(Tu fais bonne figure malgré tout, <E145 41 67><E118 41 0.7><E003 8>mais je te vois à travers.)"
+    },
+    {
+      "id": "080",
+      "en": "<E330><E007>(I've noticed how your shoulders are slumped <E003 8><E025 3>and how\r\nyou're trembling ever so slightly.)",
+      "fr": "<E330><E007>(J'ai vu que tes épaules sont affaissées <E003 8><E025 3>et que\r\ntu trembles imperceptiblement.)"
+    },
+    {
+      "id": "081",
+      "en": "<E341>Susato...",
+      "fr": "<E341>Susato..."
+    },
+    {
+      "id": "082a",
+      "en": "...<E003 8><E025 3>you<E025 7>...<E003 8><E025 3>do believe me, <E003 8>don't you?",
+      "fr": "...<E003 8><E025 3>tu<E025 7>...<E003 8><E025 3>tu me crois, <E003 8>n'est-ce pas ?"
+    },
+    {
+      "id": "082b",
+      "en": "I didn't do it.<E003 8> I, <E003 8>I couldn't have!<E049><E003 10>\r\n<E025 3>I mean<E025 7>...<E003 10><E342><E025 3>murder...",
+      "fr": "Je ne l'ai pas fait.<E003 8> Je, <E003 8>je n'aurais pas pu !<E049><E003 10>\r\n<E025 3>Enfin<E025 7>...<E003 10><E342><E025 3>un meurtre..."
+    },
+    {
+      "id": "083",
+      "en": "Of course.",
+      "fr": "Bien sûr que si."
+    },
+    {
+      "id": "084",
+      "en": "You have nothing to worry about.<E003 10>\r\n<E338><E342><E025 2>Your conscience is perfectly clean!",
+      "fr": "Tu n'as aucune raison de t'inquiéter.<E003 10>\r\n<E338><E342><E025 2>Ta conscience est parfaitement claire !"
+    },
+    {
+      "id": "085",
+      "en": "...Isn't that right?",
+      "fr": "...N'est-ce pas ?"
+    },
+    {
+      "id": "086",
+      "en": "Yes<E025 7>...<E049><E003 6><E145 41 65><E118 41 2.0><E025 3><E003 8>yes it is.<E049><E003 15>\r\n<E164 41 71 1 2 5 0 1 1><E118 41 1.6><E139 41><E025 1>Perfectly clean!",
+      "fr": "Oui<E025 7>...<E049><E003 6><E145 41 65><E118 41 2.0><E025 3><E003 8>oui, c'est vrai.<E049><E003 15>\r\n<E164 41 71 1 2 5 0 1 1><E118 41 1.6><E139 41><E025 1>Parfaitement claire !"
+    },
+    {
+      "id": "087",
+      "en": "I have absolutely no doubt in my mind about your\r\ninnocence.",
+      "fr": "Je n'ai pas le moindre doute quant à ton innocence."
+    },
+    {
+      "id": "088",
+      "en": "Which is why I'll stand by you until the bitter end in this\r\ntrial.",
+      "fr": "C'est pourquoi je serai à tes côtés jusqu'au bout dans ce procès."
+    },
+    {
+      "id": "089",
+      "en": "Whatever happens<E025 7>...<E003 12><E346><E025 1>I'll always be on your side!",
+      "fr": "Quoi qu'il arrive<E025 7>...<E003 12><E346><E025 1>je serai toujours de ton côté !"
+    },
+    {
+      "id": "090",
+      "en": "<E007>(Because that's what it means <E003 10><E025 1><E338><E342>to be a defence lawyer!)",
+      "fr": "<E007>(Car c'est ça,<E003 10><E025 1><E338><E342> être avocat de la défense !)"
+    },
+    {
+      "id": "091",
+      "en": "That means so much to me, <E003 8>Susato.",
+      "fr": "Ça compte énormément pour moi, <E003 8>Susato."
+    },
+    {
+      "id": "092",
+      "en": "<E346>Defendant!<E003 12> Counsel!",
+      "fr": "<E346>L'accusée !<E003 12> Maître !"
+    },
+    {
+      "id": "093",
+      "en": "Court is about to begin.<E003 10>\r\n<E025 1><E332>Proceed to the courtroom at once!",
+      "fr": "L'audience va commencer.<E003 10>\r\n<E025 1><E332>Rendez-vous immédiatement dans la salle !"
+    },
+    {
+      "id": "094",
+      "en": "You should go in at once, <E049><E003 6>Rei.",
+      "fr": "Tu devrais entrer tout de suite, <E049><E003 6>Rei."
+    },
+    {
+      "id": "095",
+      "en": "If you're late, <E003 8><E333>the judge won't hesitate to pronounce you\r\nguilty.",
+      "fr": "Si tu es en retard, <E003 8><E333>le juge n'hésitera pas à te déclarer coupable."
+    },
+    {
+      "id": "096",
+      "en": "<E341>Oh...",
+      "fr": "<E341>Oh..."
+    },
+    {
+      "id": "097",
+      "en": "STAND ASIIIIIIDE!<E003 26><E338><E086 2 14><E342><E141 41 4><E024>",
+      "fr": "LAISSEZ-MOI PAAAASSER !<E003 26><E338><E086 2 14><E342><E141 41 4><E024>"
+    },
+    {
+      "id": "098",
+      "en": "<E007>(I don't think I've ever seen her run so fast...)",
+      "fr": "<E007>(Je crois que je ne l'ai jamais vue courir aussi vite...)"
+    },
+    {
+      "id": "099",
+      "en": "...Well, <E003 8>Susato, <E049><E003 10><E025 2>you've certainly surprised your father.",
+      "fr": "...Eh bien, <E003 8>Susato, <E049><E003 10><E025 2>tu as certainement surpris ton père."
+    },
+    {
+      "id": "100",
+      "en": "Going to such lengths to be admitted into the courtroom,<E049><E003 8>\r\n<E025 3>and with no prior experience of being a lawyer...",
+      "fr": "Se donner tant de mal pour entrer dans la salle d'audience,<E049><E003 8>\r\n<E025 3>sans aucune expérience en tant qu'avocate..."
+    },
+    {
+      "id": "101",
+      "en": "There was simply no other way.<E003 12>\r\n<E025 2>That's all there is to it.",
+      "fr": "Il n'y avait tout simplement pas d'autre moyen.<E003 12>\r\n<E025 2>Voilà tout."
+    },
+    {
+      "id": "102",
+      "en": "But Father...",
+      "fr": "Mais Père..."
+    },
+    {
+      "id": "103",
+      "en": "...you haven't told her, <E003 8>have you?<E003 12> <E025 2><E330>I mean, <E003 6>I'm right in\r\nassuming that Rei doesn't know <E006>how it came to this<E005>?",
+      "fr": "...vous ne lui avez pas dit, <E003 8>n'est-ce pas ?<E003 12> <E025 2><E330>J'ai raison<E003 6> de supposer que Rei ignore <E006>comment on en est arrivé là<E005> ?"
+    },
+    {
+      "id": "104",
+      "en": "Yes, <E003 8>quite right.<E049><E003 10>\r\nI've kept that information from her.",
+      "fr": "Oui, <E003 8>tout à fait.<E049><E003 10>\r\nJe lui ai caché cette information."
+    },
+    {
+      "id": "105",
+      "en": "It would only worry her if she found out that no other\r\nlawyer would agree to take her case.",
+      "fr": "Cela ne ferait que l'inquiéter si elle apprenait qu'aucun autre avocat n'a accepté de prendre son affaire."
+    },
+    {
+      "id": "106",
+      "en": "I didn't want to burden her with that.",
+      "fr": "Je ne voulais pas lui imposer ce fardeau."
+    },
+    {
+      "id": "107",
+      "en": "And is it true?<E003 10> <E025 2>The reason why every other lawyer is\r\nrefusing to take the case?",
+      "fr": "Et c'est vrai ?<E003 10> <E025 2>La raison pour laquelle tous les autres avocats refusent de prendre l'affaire ?"
+    },
+    {
+      "id": "108",
+      "en": "Is it really because of who the victim was?",
+      "fr": "Est-ce vraiment à cause de l'identité de la victime ?"
+    },
+    {
+      "id": "109",
+      "en": "...<E003 2>...<E003 4>...",
+      "fr": "........."
+    },
+    {
+      "id": "110",
+      "en": "We should be making a move now, too.",
+      "fr": "Nous devrions y aller également, maintenant."
+    },
+    {
+      "id": "111",
+      "en": "As you know, <E003 6>law isn't my field, <E049><E003 8><E025 2>but I'll do what I can to\r\nsupport my student.",
+      "fr": "Comme tu le sais, <E003 6>le droit m'est étranger, <E049><E003 8><E025 2>mais je ferai\r\nde mon mieux pour te soutenir."
+    },
+    {
+      "id": "112",
+      "en": "Thank you, <E003 6>Father.",
+      "fr": "Merci, <E003 6>Père."
+    },
+    {
+      "id": "113",
+      "en": "<E007>(I'm Susato Mikotoba, <E003 10>a judicial assistant.)",
+      "fr": "<E007>(Je m'appelle Susato Mikotoba, <E003 10>assistante judiciaire.)"
+    },
+    {
+      "id": "114",
+      "en": "<E007>(Eight months ago, <E003 10><E025 2>I accompanied a student of law on a\r\nstudy trip to Great Britain.)",
+      "fr": "<E007>(Il y a huit mois, <E003 10><E025 2>j'ai accompagné un étudiant en droit\r\nen voyage d'études en Grande-Bretagne.)"
+    },
+    {
+      "id": "115",
+      "en": "<E007>(But two months ago, <E003 8>due to unforeseen circumstances,<E003 10>\r\n<E025 3>I found myself back in Japan.)",
+      "fr": "<E007>(Mais il y a deux mois, <E003 8>pour des raisons imprévues,<E003 10>\r\n<E025 3>je me suis retrouvée de retour au Japon.)"
+    },
+    {
+      "id": "116",
+      "en": "How many times have I wished that he were here,<E003 10> I\r\nwonder?",
+      "fr": "Combien de fois ai-je souhaité qu'il soit ici,<E003 10> je\r\nme demande ?"
+    },
+    {
+      "id": "117",
+      "en": "Still...<E003 8>I have no choice now but to steel myself for the\r\ntrial ahead.",
+      "fr": "Pourtant...<E003 8>je n'ai d'autre choix que de m'armer de courage\r\npour le procès qui m'attend."
+    },
+    {
+      "id": "118",
+      "en": "Wish me luck...<E003 15><E025 5>Naruhodo-san.",
+      "fr": "Souhaitez-moi bonne chance...<E003 15><E025 5>Naruhodo-san."
+    }
+  ]
+}
