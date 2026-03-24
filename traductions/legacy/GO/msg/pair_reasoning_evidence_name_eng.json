@@ -1,0 +1,84 @@
+{
+  "pair_reasoning_evidence_name_eng": [
+    {
+      "id": "001",
+      "en": "University Collar Pin",
+      "fr": "emblème de l'université"
+    },
+    {
+      "id": "002",
+      "en": "Kazuma's Diary",
+      "fr": "journal de Kiyô"
+    },
+    {
+      "id": "003",
+      "en": "Crime Scene Photograph",
+      "fr": "photographie du lieu du crime"
+    },
+    {
+      "id": "004",
+      "en": "Article About Revolutionary",
+      "fr": "article sur un révolutionnaire"
+    },
+    {
+      "id": "005",
+      "en": "Article About Ballerina",
+      "fr": "article sur une danseuse de ballet"
+    },
+    {
+      "id": "006",
+      "en": "Post-Mortem Report",
+      "fr": "rapport d'autopsie"
+    },
+    {
+      "id": "007",
+      "en": "Ship's Log",
+      "fr": "journal de bord du navire"
+    },
+    {
+      "id": "008",
+      "en": "Armband",
+      "fr": "brassard"
+    },
+    {
+      "id": "009",
+      "en": "Paper Seal",
+      "fr": "note \"ne pas ouvrir\""
+    },
+    {
+      "id": "010",
+      "en": "Mark on Floor",
+      "fr": "traces sur le sol"
+    },
+    {
+      "id": "011",
+      "en": "Pavlova & Darka Photograph",
+      "fr": "photographie de Liliya avec un chat"
+    },
+    {
+      "id": "012",
+      "en": "Music Box Disk",
+      "fr": "disque de boîte à musique"
+    },
+    {
+      "id": "013",
+      "en": "Autopsy Report",
+      "fr": "rapport d'autopsie"
+    },
+    {
+      "id": "014",
+      "en": "Article About Revolutionary",
+      "fr": "article sur un révolutionnaire"
+    },
+    {
+      "id": "015",
+      "en": "Article About Ballerina",
+      "fr": "article sur une danseuse de ballet"
+    },
+    {
+      "id": "016",
+      "en": "Ship's Log",
+      "fr": "journal de bord du navire"
+    }
+  ]
+}

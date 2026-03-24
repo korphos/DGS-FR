@@ -1,0 +1,159 @@
+{
+  "pair_reasoning_topic_message_eng": [
+    {
+      "id": "001",
+      "en": "A revolutionary on the run",
+      "fr": "Un révolutionnaire en fuite"
+    },
+    {
+      "id": "002",
+      "en": "A ballerina on the run",
+      "fr": "Une danseuse en fuite"
+    },
+    {
+      "id": "003",
+      "en": "Kidnapping of a young ballerina",
+      "fr": "Une jeune danseuse kidnappée"
+    },
+    {
+      "id": "004",
+      "en": "Possession of a prohibited animal",
+      "fr": "Un animal passé en contrebande"
+    },
+    {
+      "id": "005",
+      "en": "A beloved speckled snake",
+      "fr": "L'ami est un serpent tacheté"
+    },
+    {
+      "id": "006",
+      "en": "A beloved kitten",
+      "fr": "L'ami est un chaton noir"
+    },
+    {
+      "id": "007",
+      "en": "Death by a venomous snake's bite",
+      "fr": "Mort d'une morsure de serpent venimeux"
+    },
+    {
+      "id": "008",
+      "en": "Death by tripping over a cat",
+      "fr": "Mort en trébuchant sur un chat"
+    },
+    {
+      "id": "009",
+      "en": "A rampaging Asiatic lion",
+      "fr": "Dévasté par un lion de cirque"
+    },
+    {
+      "id": "010",
+      "en": "The raging wife of Mr Garrideb",
+      "fr": "Dévasté par Mme Garrideb"
+    },
+    {
+      "id": "011",
+      "en": "Carpet gnawed on by the starving lion",
+      "fr": "Tapis dévoré"
+    },
+    {
+      "id": "012",
+      "en": "Carpet scorched by a small fire",
+      "fr": "Des traces d'un incendie"
+    },
+    {
+      "id": "013",
+      "en": "To tunnel underneath the pawnbrokery",
+      "fr": "Creuser un tunnel sous l'échoppe"
+    },
+    {
+      "id": "014",
+      "en": "To abscond with a redeemed item",
+      "fr": "S'emparer d'un objet déposé"
+    },
+    {
+      "id": "015",
+      "en": "To steal the Great Exhibition's reserve funds",
+      "fr": "Voler une réserve spéciale d'argent"
+    },
+    {
+      "id": "016",
+      "en": "To acquire an item deposited by Mr McGilded",
+      "fr": "Voler les affaires de Fortune"
+    },
+    {
+      "id": "017",
+      "en": "Invalid Message",
+      "fr": "Ｘ"
+    },
+    {
+      "id": "018",
+      "en": "Invalid Message",
+      "fr": "ＸＸ"
+    },
+    {
+      "id": "019",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸ"
+    },
+    {
+      "id": "020",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸ"
+    },
+    {
+      "id": "021",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸ"
+    },
+    {
+      "id": "022",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸ"
+    },
+    {
+      "id": "023",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "024",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "025",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "026",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "027",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "028",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "029",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "030",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸＸＸＸＸ"
+    },
+    {
+      "id": "031",
+      "en": "Invalid Message",
+      "fr": "ＸＸＸＸＸＸＸＸＸＸＸＸＸＸＸ"
+    }
+  ]
+}

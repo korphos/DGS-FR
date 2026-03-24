@@ -1,0 +1,84 @@
+{
+  "pair_reasoning_sce04_eng": [
+    {
+      "id": "001",
+      "en": "staff recruitment flyer",
+      "fr": "annonce de recrutement"
+    },
+    {
+      "id": "002",
+      "en": "info about Miss Lestrade",
+      "fr": "portrait de Gina"
+    },
+    {
+      "id": "003",
+      "en": "cane",
+      "fr": "canne"
+    },
+    {
+      "id": "004",
+      "en": "stylish hat",
+      "fr": "chapeau en soie"
+    },
+    {
+      "id": "005",
+      "en": "missing ferrule",
+      "fr": "pointe de la canne"
+    },
+    {
+      "id": "006",
+      "en": "initialling",
+      "fr": "initiales sur la canne"
+    },
+    {
+      "id": "007",
+      "en": "handle",
+      "fr": "pommeau de la canne"
+    },
+    {
+      "id": "008",
+      "en": "split seam",
+      "fr": "couture déchirée"
+    },
+    {
+      "id": "009",
+      "en": "council notice",
+      "fr": "circulaire municipale"
+    },
+    {
+      "id": "010",
+      "en": "notelet",
+      "fr": "mémo de Gage"
+    },
+    {
+      "id": "011",
+      "en": "pawnbroker's revolver",
+      "fr": "revolver de Gage"
+    },
+    {
+      "id": "012",
+      "en": "old lamp",
+      "fr": "vieille lampe"
+    },
+    {
+      "id": "013",
+      "en": "scribbled writing",
+      "fr": "mot griffonné"
+    },
+    {
+      "id": "014",
+      "en": "Dummy H",
+      "fr": "※ダミーＨ"
+    },
+    {
+      "id": "015",
+      "en": "Dummy I",
+      "fr": "※ダミーＩ"
+    },
+    {
+      "id": "016",
+      "en": "picture postcard",
+      "fr": "carte postale"
+    }
+  ]
+}

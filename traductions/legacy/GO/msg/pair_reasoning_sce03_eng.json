@@ -1,0 +1,109 @@
+{
+  "pair_reasoning_sce03_eng": [
+    {
+      "id": "001",
+      "en": "lion statue",
+      "fr": "statue de lion"
+    },
+    {
+      "id": "002",
+      "en": "newlywed bride",
+      "fr": "Mrs Garrideb"
+    },
+    {
+      "id": "003",
+      "en": "photograph frame",
+      "fr": "photo encadrée"
+    },
+    {
+      "id": "004",
+      "en": "mortar shells",
+      "fr": "obus d'artillerie"
+    },
+    {
+      "id": "005",
+      "en": "pocket",
+      "fr": "poche"
+    },
+    {
+      "id": "006",
+      "en": "wedding ring",
+      "fr": "alliance"
+    },
+    {
+      "id": "007",
+      "en": "teapot",
+      "fr": "théière"
+    },
+    {
+      "id": "008",
+      "en": "slapped cheek",
+      "fr": "trace de gifle"
+    },
+    {
+      "id": "009",
+      "en": "supporting arm",
+      "fr": "main sur la joue"
+    },
+    {
+      "id": "010",
+      "en": "pile of bills",
+      "fr": "tas de factures"
+    },
+    {
+      "id": "011",
+      "en": "love note",
+      "fr": "mot d'amour"
+    },
+    {
+      "id": "012",
+      "en": "bookmark",
+      "fr": "marque-page"
+    },
+    {
+      "id": "013",
+      "en": "broken plate",
+      "fr": "tas de débris"
+    },
+    {
+      "id": "014",
+      "en": "stack of books",
+      "fr": "tas de livres"
+    },
+    {
+      "id": "015",
+      "en": "tower of cakes",
+      "fr": "plateau de gâteaux"
+    },
+    {
+      "id": "016",
+      "en": "candlestick",
+      "fr": "bougeoir"
+    },
+    {
+      "id": "017",
+      "en": "carpet",
+      "fr": "tapis"
+    },
+    {
+      "id": "018",
+      "en": "circus handbill",
+      "fr": "brochure du cirque"
+    },
+    {
+      "id": "019",
+      "en": "maid",
+      "fr": "servante"
+    },
+    {
+      "id": "020",
+      "en": "Dummy E",
+      "fr": "※ダミーＥ"
+    },
+    {
+      "id": "021",
+      "en": "Dummy F",
+      "fr": "※ダミーＦ"
+    }
+  ]
+}

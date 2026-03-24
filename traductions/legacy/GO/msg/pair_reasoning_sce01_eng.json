@@ -1,0 +1,164 @@
+{
+  "pair_reasoning_sce01_eng": [
+    {
+      "id": "001",
+      "en": "thick hat",
+      "fr": "chapeau en fourrure"
+    },
+    {
+      "id": "002",
+      "en": "copious beard",
+      "fr": "barbe prodigieuse"
+    },
+    {
+      "id": "003",
+      "en": "golden locks",
+      "fr": "beaux cheveux blonds"
+    },
+    {
+      "id": "004",
+      "en": "coat buttons",
+      "fr": "bouton de manteau"
+    },
+    {
+      "id": "005",
+      "en": "tiara",
+      "fr": "diadème"
+    },
+    {
+      "id": "006",
+      "en": "travelling case",
+      "fr": "malle"
+    },
+    {
+      "id": "007",
+      "en": "books on the shelf",
+      "fr": "livres"
+    },
+    {
+      "id": "008",
+      "en": "Rules of Passage",
+      "fr": "règlement"
+    },
+    {
+      "id": "009",
+      "en": "claw scratch",
+      "fr": "griffures"
+    },
+    {
+      "id": "010",
+      "en": "writhing serpent",
+      "fr": "serpent"
+    },
+    {
+      "id": "011",
+      "en": "photograph frame",
+      "fr": "cadre de photo"
+    },
+    {
+      "id": "012",
+      "en": "little kitten",
+      "fr": "chaton"
+    },
+    {
+      "id": "013",
+      "en": "snake's sloughed skin",
+      "fr": "mue de serpent"
+    },
+    {
+      "id": "014",
+      "en": "cat's toy",
+      "fr": "jouet pour chat"
+    },
+    {
+      "id": "015",
+      "en": "wastepaper basket",
+      "fr": "corbeille"
+    },
+    {
+      "id": "016",
+      "en": "small picture",
+      "fr": "petit tableau"
+    },
+    {
+      "id": "017",
+      "en": "cabin door",
+      "fr": "porte du navire"
+    },
+    {
+      "id": "018",
+      "en": "aching heart",
+      "fr": "cœur"
+    },
+    {
+      "id": "019",
+      "en": "Miss Pavlova",
+      "fr": "Liliya"
+    },
+    {
+      "id": "020",
+      "en": "teapot",
+      "fr": "théière"
+    },
+    {
+      "id": "021",
+      "en": "ink stain",
+      "fr": "tache d'encre"
+    },
+    {
+      "id": "022",
+      "en": "sailor's hat",
+      "fr": "béret de marin"
+    },
+    {
+      "id": "023",
+      "en": "right ear",
+      "fr": "oreille droite"
+    },
+    {
+      "id": "024",
+      "en": "wardrobe",
+      "fr": "armoire"
+    },
+    {
+      "id": "025",
+      "en": "bell cord",
+      "fr": "sonnette d'appel"
+    },
+    {
+      "id": "026",
+      "en": " ",
+      "fr": "Invalid Message"
+    },
+    {
+      "id": "027",
+      "en": "bed",
+      "fr": "lit"
+    },
+    {
+      "id": "028",
+      "en": "Seaman Strogenov",
+      "fr": "Stroganov"
+    },
+    {
+      "id": "029",
+      "en": "left ear",
+      "fr": "oreille gauche"
+    },
+    {
+      "id": "030",
+      "en": "chunky arms",
+      "fr": "bras massif"
+    },
+    {
+      "id": "031",
+      "en": "terrible venom",
+      "fr": "poison mortel"
+    },
+    {
+      "id": "032",
+      "en": "deceased's body",
+      "fr": "contours du cadavre"
+    }
+  ]
+}

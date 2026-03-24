@@ -1,0 +1,59 @@
+{
+  "title_launcher_eng": [
+    {
+      "id": "001",
+      "en": "Continue",
+      "fr": "Continuer"
+    },
+    {
+      "id": "002",
+      "en": "Select Adventure",
+      "fr": "Sélectionner le jeu"
+    },
+    {
+      "id": "003",
+      "en": "Load Game",
+      "fr": "Charger une partie"
+    },
+    {
+      "id": "004",
+      "en": "Special Contents",
+      "fr": "Contenu spécial"
+    },
+    {
+      "id": "005",
+      "en": "Start playing from your latest save.",
+      "fr": "Continuer la sauvegarde la plus récente."
+    },
+    {
+      "id": "006",
+      "en": "Pick an adventure to play.",
+      "fr": "Choisir le jeu."
+    },
+    {
+      "id": "007",
+      "en": "Load a saved game.",
+      "fr": "Charger une partie sauvegardée."
+    },
+    {
+      "id": "008",
+      "en": "View special contents.",
+      "fr": "Voir le contenu spécial."
+    },
+    {
+      "id": "009",
+      "en": "Change various game options.",
+      "fr": "Modifier les options du jeu."
+    },
+    {
+      "id": "010",
+      "en": "GAA: Adventures",
+      "fr": "TCAA - AGE: Aventures"
+    },
+    {
+      "id": "011",
+      "en": "GAA2: Resolve",
+      "fr": "TCAA - AGE: Détermination"
+    }
+  ]
+}

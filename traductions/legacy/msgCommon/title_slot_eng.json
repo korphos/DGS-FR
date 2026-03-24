@@ -1,0 +1,224 @@
+{
+  "title_slot_eng": [
+    {
+      "id": "001",
+      "en": "Ep. 1",
+      "fr": "Ép. 1"
+    },
+    {
+      "id": "002",
+      "en": "Ep. 2",
+      "fr": "Ép. 2"
+    },
+    {
+      "id": "003",
+      "en": "Ep. 3",
+      "fr": "Ép. 3"
+    },
+    {
+      "id": "004",
+      "en": "Ep. 4",
+      "fr": "Ép. 4"
+    },
+    {
+      "id": "005",
+      "en": "Ep. 5",
+      "fr": "Ép. 5"
+    },
+    {
+      "id": "006",
+      "en": "The Adventure of the Blossoming Attorney",
+      "fr": "L'aventure de l'avocat en herbe"
+    },
+    {
+      "id": "007",
+      "en": "The Memoirs of the Clouded Kokoro",
+      "fr": "Carnets de souvenirs de mon Kokoro"
+    },
+    {
+      "id": "008",
+      "en": "The Return of the Great Departed Soul",
+      "fr": "Le retour de la grand âme égarée"
+    },
+    {
+      "id": "009",
+      "en": "Twisted Karma and His Last Bow",
+      "fr": "Karma tordu et son dernier coup d'archet"
+    },
+    {
+      "id": "010",
+      "en": "The Resolve of Ryunosuke Naruhodo",
+      "fr": "La détermination de Hikari Yûno"
+    },
+    {
+      "id": "011",
+      "en": "The Adventure of the Great Departure",
+      "fr": "L'aventure du Grand Départ"
+    },
+    {
+      "id": "012",
+      "en": "The Adventure of the Unbreakable Speckled Band",
+      "fr": "L'aventure de l'incassable bande mouchetée"
+    },
+    {
+      "id": "013",
+      "en": "The Adventure of the Runaway Room",
+      "fr": "L'aventure de la Chambre close mouvante"
+    },
+    {
+      "id": "014",
+      "en": "The Adventure of the Clouded Kokoro",
+      "fr": "L'aventure de mon Kokoro un soir de brume"
+    },
+    {
+      "id": "015",
+      "en": "The Adventure of the Unspeakable Story",
+      "fr": "L'aventure du Récit indicible"
+    },
+    {
+      "id": "016",
+      "en": "Trial",
+      "fr": "Procès "
+    },
+    {
+      "id": "017",
+      "en": "Trial, Part 1",
+      "fr": "Procès, partie 1 "
+    },
+    {
+      "id": "018",
+      "en": "Trial, Part 2",
+      "fr": "Procès, partie 2 "
+    },
+    {
+      "id": "019",
+      "en": "Trial, Part 3",
+      "fr": "Procès, partie 3 "
+    },
+    {
+      "id": "020",
+      "en": "Trial, Part 4",
+      "fr": "Procès, partie 4 "
+    },
+    {
+      "id": "021",
+      "en": "Trial, Part 5",
+      "fr": "Procès, partie 5 "
+    },
+    {
+      "id": "022",
+      "en": "Investigation",
+      "fr": "Enquête "
+    },
+    {
+      "id": "023",
+      "en": "Investigation, Part 1",
+      "fr": "Enquête, partie 1 "
+    },
+    {
+      "id": "024",
+      "en": "Investigation, Part 2",
+      "fr": "Enquête, partie 2 "
+    },
+    {
+      "id": "025",
+      "en": "Investigation, Part 3",
+      "fr": "Enquête, partie 3 "
+    },
+    {
+      "id": "026",
+      "en": "Investigation, Part 4",
+      "fr": "Enquête, partie 4 "
+    },
+    {
+      "id": "027",
+      "en": "Investigation, Part 5",
+      "fr": "Enquête, partie 5 "
+    },
+    {
+      "id": "028",
+      "en": "Epilogue",
+      "fr": "Épilogue "
+    },
+    {
+      "id": "029",
+      "en": "Ep. 1",
+      "fr": "Ép. 1"
+    },
+    {
+      "id": "030",
+      "en": "Ep. 2",
+      "fr": "Ép. 2"
+    },
+    {
+      "id": "031",
+      "en": "Ep. 3",
+      "fr": "Ép. 3"
+    },
+    {
+      "id": "032",
+      "en": "Ep. 4",
+      "fr": "Ép. 4"
+    },
+    {
+      "id": "033",
+      "en": "Ep. 5",
+      "fr": "Ép. 5"
+    },
+    {
+      "id": "034",
+      "en": "Ep. 6",
+      "fr": "Ép. 6"
+    },
+    {
+      "id": "035",
+      "en": "Ep. 7",
+      "fr": "Ép. 7"
+    },
+    {
+      "id": "036",
+      "en": "Ep. 8",
+      "fr": "Ép. 8"
+    },
+    {
+      "id": "037",
+      "en": "In the Defendants' Antechamber",
+      "fr": "Dans la salle d'attente"
+    },
+    {
+      "id": "038",
+      "en": "In a First-Class Cabin",
+      "fr": "Dans la cabine de première classe"
+    },
+    {
+      "id": "039",
+      "en": "At the British Supreme Court",
+      "fr": "Dans le bureau du Ministre"
+    },
+    {
+      "id": "040",
+      "en": "In Sholmes's Suite",
+      "fr": "Chez Holmes"
+    },
+    {
+      "id": "041",
+      "en": "At Naruhodo's Legal Consultancy",
+      "fr": "Au cabinet d'avocat Yûno"
+    },
+    {
+      "id": "042",
+      "en": "In Mr Natsume's Room",
+      "fr": "Dans la chambre de Sôsséki"
+    },
+    {
+      "id": "043",
+      "en": "On Briar Road",
+      "fr": "Sur Briar Road"
+    },
+    {
+      "id": "044",
+      "en": "In the Bailey",
+      "fr": "Au tribunal de Old Bailey"
+    }
+  ]
+}

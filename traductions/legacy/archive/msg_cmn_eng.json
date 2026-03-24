@@ -1,0 +1,621 @@
+{
+  "UI_eng": [
+    {
+      "id": "001",
+      "en": "A new location has been added.",
+      "fr": "Un nouveau lieu est disponible."
+    },
+    {
+      "id": "002",
+      "en": "Converse",
+      "fr": "Converser"
+    },
+    {
+      "id": "003",
+      "en": "Examine",
+      "fr": "Examiner"
+    },
+    {
+      "id": "004",
+      "en": "Move",
+      "fr": "Se déplacer"
+    },
+    {
+      "id": "005",
+      "en": "Present",
+      "fr": "Présenter"
+    }
+  ],
+  "title_eng": [
+    {
+      "id": "001",
+      "en": "Episode 1",
+      "fr": "Épisode 1"
+    },
+    {
+      "id": "002",
+      "en": "Episode 2",
+      "fr": "Épisode 2"
+    },
+    {
+      "id": "003",
+      "en": "Episode 3",
+      "fr": "Épisode 3"
+    },
+    {
+      "id": "004",
+      "en": "Episode 4",
+      "fr": "Épisode 4"
+    },
+    {
+      "id": "005",
+      "en": "Episode 5",
+      "fr": "Épisode 5"
+    },
+    {
+      "id": "006",
+      "en": "The Adventure of the Great Departure",
+      "fr": "L'aventure du Grand Départ"
+    },
+    {
+      "id": "007",
+      "en": "The Adventure of the Unbreakable Speckled Band",
+      "fr": "L'aventure de l'incassable bande mouchetée"
+    },
+    {
+      "id": "008",
+      "en": "The Adventure of the Runaway Room",
+      "fr": "L'aventure de la Chambre close mouvante"
+    },
+    {
+      "id": "009",
+      "en": "The Adventure of the Clouded Kokoro",
+      "fr": "L'aventure de mon Kokoro un soir de brume"
+    },
+    {
+      "id": "010",
+      "en": "The Adventure of the Unspeakable Story",
+      "fr": "L'aventure du Récit indicible"
+    },
+    {
+      "id": "011",
+      "en": "Trial",
+      "fr": "Procès"
+    },
+    {
+      "id": "012",
+      "en": "Trial, Part 1",
+      "fr": "Procès, partie 1 "
+    },
+    {
+      "id": "013",
+      "en": "Trial, Part 2",
+      "fr": "Procès, partie 2 "
+    },
+    {
+      "id": "014",
+      "en": "Trial, Part 3",
+      "fr": "Procès, partie 3 "
+    },
+    {
+      "id": "015",
+      "en": "Trial, Part 4",
+      "fr": "Procès, partie 4 "
+    },
+    {
+      "id": "016",
+      "en": "Trial, Part 5",
+      "fr": "Procès, partie 5 "
+    },
+    {
+      "id": "017",
+      "en": "Investigation",
+      "fr": "Enquête "
+    },
+    {
+      "id": "018",
+      "en": "Investigation, Part 1",
+      "fr": "Enquête, partie 1 "
+    },
+    {
+      "id": "019",
+      "en": "Investigation, Part 2",
+      "fr": "Enquête, partie 2 "
+    },
+    {
+      "id": "020",
+      "en": "Investigation, Part 3",
+      "fr": "Enquête, partie 3 "
+    },
+    {
+      "id": "021",
+      "en": "Investigation, Part 4",
+      "fr": "Enquête, partie 4 "
+    },
+    {
+      "id": "022",
+      "en": "Investigation, Part 5",
+      "fr": "Enquête, partie 5 "
+    }
+  ],
+  "chapter0_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "003",
+      "en": "Recess",
+      "fr": "Suspension d'audience"
+    },
+    {
+      "id": "004",
+      "en": "Miss Brett's Appearance",
+      "fr": "Gizelle fait son entrée"
+    },
+    {
+      "id": "005",
+      "en": "Susato's Sudden Entrance",
+      "fr": "Amimo s'immisce"
+    },
+    {
+      "id": "006",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "007",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "008",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "009",
+      "en": "Recess",
+      "fr": "Suspension d'audience"
+    },
+    {
+      "id": "010",
+      "en": "Miss Brett's Appearance",
+      "fr": "Gizelle fait son entrée"
+    },
+    {
+      "id": "011",
+      "en": "Susato's Sudden Entrance",
+      "fr": "Amimo s'immisce"
+    },
+    {
+      "id": "012",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter1_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Sholmes's Appearance",
+      "fr": "Holmes entre en scène"
+    },
+    {
+      "id": "003",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement, 1er acte"
+    },
+    {
+      "id": "004",
+      "en": "Further Investigation",
+      "fr": "Reprise de l'enquête"
+    },
+    {
+      "id": "005",
+      "en": "Second Dance of Deduction",
+      "fr": "Raisonnement, 2ème acte"
+    },
+    {
+      "id": "006",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "007",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "008",
+      "en": "Sholmes's Appearance",
+      "fr": "Holmes entre en scène"
+    },
+    {
+      "id": "009",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement, 1er acte"
+    },
+    {
+      "id": "010",
+      "en": "Further Investigation",
+      "fr": "Reprise de l'enquête"
+    },
+    {
+      "id": "011",
+      "en": "Second Dance of Deduction",
+      "fr": "Raisonnement, 2ème acte"
+    },
+    {
+      "id": "012",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter2_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "003",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "004",
+      "en": "Summation Examination",
+      "fr": "Ultime plaidoyer"
+    },
+    {
+      "id": "005",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "006",
+      "en": "Gina's Entrance",
+      "fr": "Gina entre en scène"
+    },
+    {
+      "id": "007",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "008",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "009",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "011",
+      "en": "Summation Examination",
+      "fr": "Ultime plaidoyer"
+    },
+    {
+      "id": "012",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "013",
+      "en": "Gina's Entrance",
+      "fr": "Gina entre en scène"
+    },
+    {
+      "id": "014",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter3_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Investigation Start",
+      "fr": "Enquête - début"
+    },
+    {
+      "id": "003",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Vers chez Sôsséki"
+    },
+    {
+      "id": "004",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "005",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "006",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "007",
+      "en": "The Beates' Entrance",
+      "fr": "Le couple Cademy"
+    },
+    {
+      "id": "008",
+      "en": "Second Summation Examination",
+      "fr": "Ultime plaidoyer, acte 2"
+    },
+    {
+      "id": "009",
+      "en": "Mrs Garrideb Testifies",
+      "fr": "<HD>Mrs Garrideb appelée à la barre</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "011",
+      "en": "New Office",
+      "fr": "Notre nouveau cabinet"
+    },
+    {
+      "id": "012",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "013",
+      "en": "Investigation Start",
+      "fr": "Enquête - début"
+    },
+    {
+      "id": "014",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Vers chez Sôsséki"
+    },
+    {
+      "id": "015",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "016",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "017",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "018",
+      "en": "The Beates' Entrance",
+      "fr": "Le couple Cademy"
+    },
+    {
+      "id": "019",
+      "en": "Second Summation Examination",
+      "fr": "Ultime plaidoyer, acte 2"
+    },
+    {
+      "id": "020",
+      "en": "Mrs Garrideb Testifies",
+      "fr": "<HD>Mrs Garrideb appelée à la barre</HD>"
+    },
+    {
+      "id": "021",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "022",
+      "en": "New Office",
+      "fr": "Notre nouveau cabinet"
+    }
+  ],
+  "chapter4_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Office Morning",
+      "fr": "Matinée au cabinet Yûno"
+    },
+    {
+      "id": "003",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "004",
+      "en": "After the Pawnbrokery",
+      "fr": "Après le prêteur sur gages"
+    },
+    {
+      "id": "005",
+      "en": "Shocking Incident!",
+      "fr": "Un nouveau meurtre !"
+    },
+    {
+      "id": "006",
+      "en": "The Following Day",
+      "fr": "L'aube"
+    },
+    {
+      "id": "007",
+      "en": "To the Crime Scene",
+      "fr": "Vers le lieu du crime"
+    },
+    {
+      "id": "008",
+      "en": "Eve of Susato's Departure",
+      "fr": "<HD>Le soir avant le retour au pays</HD>"
+    },
+    {
+      "id": "009",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "011",
+      "en": "Eyewitness Testimony",
+      "fr": "<HD>Témoignage sur la nuit du crime</HD>"
+    },
+    {
+      "id": "012",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "013",
+      "en": "Graydon is Subpoenaed",
+      "fr": "<HD>Greynoir appelé à comparaître</HD>"
+    },
+    {
+      "id": "014",
+      "en": "New Evidence",
+      "fr": "Nouvelle pièce à conviction"
+    },
+    {
+      "id": "015",
+      "en": "Final Cross-Examination",
+      "fr": "Contre-interrogatoire final"
+    },
+    {
+      "id": "016",
+      "en": "Grand Finale",
+      "fr": "Conclusion"
+    },
+    {
+      "id": "017",
+      "en": "Farewell For Now",
+      "fr": "Jusqu'à nos retrouvailles..."
+    },
+    {
+      "id": "018",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "019",
+      "en": "Office Morning",
+      "fr": "Matinée au cabinet Yûno"
+    },
+    {
+      "id": "020",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "021",
+      "en": "After the Pawnbrokery",
+      "fr": "Après le prêteur sur gages"
+    },
+    {
+      "id": "022",
+      "en": "Shocking Incident!",
+      "fr": "Un nouveau meurtre !"
+    },
+    {
+      "id": "023",
+      "en": "The Following Day",
+      "fr": "L'aube"
+    },
+    {
+      "id": "024",
+      "en": "To the Crime Scene",
+      "fr": "Vers le lieu du crime"
+    },
+    {
+      "id": "025",
+      "en": "Eve of Susato's Departure",
+      "fr": "<HD>Le soir avant le retour au pays</HD>"
+    },
+    {
+      "id": "026",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "027",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "028",
+      "en": "Eyewitness Testimony",
+      "fr": "<HD>Témoignage sur la nuit du crime</HD>"
+    },
+    {
+      "id": "029",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "030",
+      "en": "Graydon is Subpoenaed",
+      "fr": "<HD>Greynoir appelé à comparaître</HD>"
+    },
+    {
+      "id": "031",
+      "en": "New Evidence",
+      "fr": "Nouvelle pièce à conviction"
+    },
+    {
+      "id": "032",
+      "en": "Final Cross-Examination",
+      "fr": "Contre-interrogatoire final"
+    },
+    {
+      "id": "033",
+      "en": "Grand Finale",
+      "fr": "Conclusion"
+    },
+    {
+      "id": "034",
+      "en": "Farewell For Now",
+      "fr": "Jusqu'à nos retrouvailles..."
+    }
+  ]
+}

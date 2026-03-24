@@ -1,0 +1,44 @@
+{
+  "pair_reasoning_topic_title_eng": [
+    {
+      "id": "001",
+      "en": "Old Man's Identity",
+      "fr": "La vraie identité du vieil homme"
+    },
+    {
+      "id": "002",
+      "en": "Wrongdoing",
+      "fr": "Le crime commis"
+    },
+    {
+      "id": "003",
+      "en": "Intruder's Identity",
+      "fr": "La véritable identité de l'intrus"
+    },
+    {
+      "id": "004",
+      "en": "How Mr Asogi Died",
+      "fr": "Une blessure mortelle"
+    },
+    {
+      "id": "005",
+      "en": "Nature of the Beast",
+      "fr": "La nature du monstre"
+    },
+    {
+      "id": "006",
+      "en": "Aftermath",
+      "fr": "Les ravages commis"
+    },
+    {
+      "id": "007",
+      "en": "Mystery Man's Aim",
+      "fr": "Le but du mystérieux gentleman"
+    },
+    {
+      "id": "008",
+      "en": "Great Crime",
+      "fr": "Le crime"
+    }
+  ]
+}

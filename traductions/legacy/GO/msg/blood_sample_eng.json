@@ -1,0 +1,84 @@
+{
+  "blood_sample_eng": [
+    {
+      "id": "001",
+      "en": "Name:",
+      "fr": "Individu : "
+    },
+    {
+      "id": "002",
+      "en": "Location:",
+      "fr": "Lieu :"
+    },
+    {
+      "id": "003",
+      "en": "Object:",
+      "fr": "Objet :"
+    },
+    {
+      "id": "004",
+      "en": "Colour:",
+      "fr": "Couleur :   "
+    },
+    {
+      "id": "005",
+      "en": "Pop Windibank",
+      "fr": "Gage Pressure"
+    },
+    {
+      "id": "006",
+      "en": "‘Thrice-Fired’Mason",
+      "fr": "Morty \"est cuit trois fois\""
+    },
+    {
+      "id": "007",
+      "en": "Unknown",
+      "fr": "???"
+    },
+    {
+      "id": "008",
+      "en": "Eggert Benedict",
+      "fr": "D. E. Benedictine"
+    },
+    {
+      "id": "009",
+      "en": "Ashley Graydon",
+      "fr": "Rupert Greynoir"
+    },
+    {
+      "id": "010",
+      "en": "Windibank's Main Shop",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "011",
+      "en": "Windibank's Storeroom",
+      "fr": "Boutique de Pressure - Entrepôt"
+    },
+    {
+      "id": "012",
+      "en": "Pawnbroker's Ticket (Coat)",
+      "fr": "Récépissé de dépôt (manteau)"
+    },
+    {
+      "id": "013",
+      "en": "Music Box Disk",
+      "fr": "Disque de boîte à musique"
+    },
+    {
+      "id": "014",
+      "en": "Green",
+      "fr": "Vert"
+    },
+    {
+      "id": "015",
+      "en": "Purple",
+      "fr": "Mauve"
+    },
+    {
+      "id": "016",
+      "en": "Blue",
+      "fr": "Bleu"
+    }
+  ]
+}

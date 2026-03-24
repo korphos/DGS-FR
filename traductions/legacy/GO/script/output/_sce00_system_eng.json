@@ -1,0 +1,149 @@
+{
+  "_sce00_system_eng": [
+    {
+      "id": "001",
+      "en": "<RDFG -1><E800 24><E041 0 68><E006>Objection!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 24><E041 0 68><E006>Objection !<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "002",
+      "en": "<RDFG -1><E800 25><E041 0 68><E006>Hold it!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 25><E041 0 68><E006>Un instant !<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "003",
+      "en": "<RDFG -1><E800 26><E041 0 68><E006>Take that!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 26><E041 0 68><E006>Prends ça !<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "004",
+      "en": "<RDFG -1><E800 27><E041 0 68><E006>Got it!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 27><E041 0 68><E006>C'est là !<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "005",
+      "en": "<RDFG -1><E800 28><E041 0 68><E006>Yes!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 28><E041 0 68><E006>Hein ?!<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "006",
+      "en": "<RDFG -1><E800 29><E041 0 68><E006>'Scuse me!<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 29><E041 0 68><E006>Hé là !<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "007",
+      "en": "<RDFG -1><E800 33><E041 0 68><E006>Hold it!<E005>\r\n(Press)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 33><E041 0 68><E006>Un instant !<E005>\r\n(Attaquer)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "008",
+      "en": "<RDFG -1><E800 34><E041 0 68><E006>Take that!<E005>\r\n(Present: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 34><E041 0 68><E006>Prends ça !<E005>\r\n(Présenter : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "009",
+      "en": "<RDFG -1><E800 35><E041 0 68><E006>Objection!<E005>\r\n(Present: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 35><E041 0 68><E006>Objection !<E005>\r\n(Présenter : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "010",
+      "en": "<RDFG -1><E800 36><E041 0 68><E006>Take that!<E005>\r\n(Present)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 36><E041 0 68><E006>Prends ça !<E005>\r\n(Présenter)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "011",
+      "en": "<RDFG -1><E800 37><E041 0 68><E006>Take that!<E005>\r\n(Present: Blood results)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 37><E041 0 68><E006>Prends ça !<E005>\r\n(Présenter : traces de sang)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "012",
+      "en": "<RDFG -1><E800 38><E041 0 68><E006>Objection!<E005>\r\n(Pit: %s, %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 38><E041 0 68><E006>Objection !<E005>\r\n(Confronter : %s, %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "013",
+      "en": "<RDFG -1><E800 39><E041 0 68><E006>'Scuse me!<E005>\r\n(Pursue: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 39><E041 0 68><E006>Hé là !<E005>\r\n(Interroger : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "014",
+      "en": "<RDFG -1><E800 40><E041 0 68><E006>Got it!<E005>\r\n(Present)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 40><E041 0 68><E006>C'est là !<E005>\r\n(Présenter)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "015",
+      "en": "<RDFG -1><E800 43><E041 0 68><E006>Yes!<E005>\r\n(Press)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 43><E041 0 68><E006>Hein ?!<E005>\r\n(Attaquer)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "016",
+      "en": "<RDFG -1><E800 44><E041 0 68><E006>Yes!<E005>\r\n(Present: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 44><E041 0 68><E006>Hein ?!<E005>\r\n(Présenter : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "017",
+      "en": "<RDFG -1><E800 45><E041 0 68><E006>Yes!<E005>\r\n(Present: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 45><E041 0 68><E006>Hein ?!<E005>\r\n(Présenter : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "018",
+      "en": "<RDFG -1><E800 46><E041 0 68><E006>Yes!<E005>\r\n(Present)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 46><E041 0 68><E006>Hein ?!<E005>\r\n(Présenter)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "019",
+      "en": "<RDFG -1><E800 47><E041 0 68><E006>Yes!<E005>\r\n(Present: Blood results)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 47><E041 0 68><E006>Hein ?!<E005>\r\n(Présenter : traces de sang)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "020",
+      "en": "<RDFG -1><E800 48><E041 0 68><E006>Yes!<E005>\r\n(Pit: %s, %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 48><E041 0 68><E006>Hein ?!<E005>\r\n(Confronter : %s, %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "021",
+      "en": "<RDFG -1><E800 49><E041 0 68><E006>'Scuse me!<E005>\r\n(Pursue: %s)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 49><E041 0 68><E006>Hé là !<E005>\r\n(Interroger : %s)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "022",
+      "en": "<RDFG -1><E800 50><E041 0 68><E006>Yes!<E005>\r\n(Present)<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 50><E041 0 68><E006>Hein ?!<E005>\r\n(Présenter)<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "023",
+      "en": "<RDFG -1><E800 53><E041 0 68><E006>Trust gauge damage!<E005><E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 53><E041 0 68><E006>Prise de dégâts dans la jauge !<E005><E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "024",
+      "en": "<RDFG -1><E800 54><E041 0 68>To be continued...<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 54><E041 0 68>À suivre...<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "025",
+      "en": "<RDFG -1><E800 55><E041 0 68>End<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 55><E041 0 68>Fin<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "026",
+      "en": "<RDFG -1><E800 56><E041 0 68><E010>Choice<E005> %s<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 56><E041 0 68><E010>Sélectionner<E005> %s<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "027",
+      "en": "<RDFG -1><E800 57><E041 0 68><E010>Converse<E005> %s<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 57><E041 0 68><E010>Converser<E005> %s<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "028",
+      "en": "<RDFG -1><E800 58><E041 0 68><E010>Move<E005> %s<E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 58><E041 0 68><E010>Se déplacer<E005> %s<E023><PAGE>\r\n<E001>"
+    },
+    {
+      "id": "029",
+      "en": "<RDFG -1><E800 61><E041 0 68><E006>No history available.<E005><E023><PAGE>\r\n<E001>",
+      "fr": "<RDFG -1><E800 61><E041 0 68><E006>Aucune archive de texte disponible.<E005><E023><PAGE>\r\n<E001>"
+    }
+  ]
+}

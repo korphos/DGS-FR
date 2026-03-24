@@ -1,0 +1,1947 @@
+{
+  "system_eng": [
+    {
+      "id": "001",
+      "en": "<PRGI>Loading...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGI>Chargement...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "002",
+      "en": "<PRGI>Loading...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGI>Chargement...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "003",
+      "en": "<PRGI>Loading...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGI>Chargement...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "004",
+      "en": "<CHOI 1><CLS>Failed to load save data.",
+      "fr": "<CHOI 1><CLS>Échec du chargement des données de sauvegarde."
+    },
+    {
+      "id": "005",
+      "en": "<PRGS>Saving...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGS>Sauvegarde...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "006",
+      "en": "<PRGS>Saving...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGS>Sauvegarde...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "007",
+      "en": "<PRGS>Saving...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGS>Sauvegarde...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "008",
+      "en": "<PRGS>Saving system data...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGS>Sauvegarde des données système...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "009",
+      "en": "<PRGS>Saving system data...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGS>Sauvegarde des données système...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "010",
+      "en": "<PRGS>Saving system data...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGS>Sauvegarde des données système...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "011",
+      "en": "<CHOI 1><CLS>Save complete.",
+      "fr": "<CHOI 1><CLS>Sauvegarde terminée."
+    },
+    {
+      "id": "012",
+      "en": "<PRGS>Creating system save data...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGS>Création des données système...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "013",
+      "en": "<PRGS>Creating system save data...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGS>Création des données système...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "014",
+      "en": "<PRGS>Creating system save data...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGS>Création des données système...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "015",
+      "en": "<PRGS>Creating save data...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGS>Création des données de sauvegarde...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "016",
+      "en": "<PRGS>Creating save data...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGS>Création des données de sauvegarde...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "017",
+      "en": "<PRGS>Creating save data...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGS>Création des données de sauvegarde...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "018",
+      "en": "<CHOI 1><CLS>System save data saved.",
+      "fr": "<CHOI 1><CLS>Sauvegarde système terminée."
+    },
+    {
+      "id": "019",
+      "en": "<CHOI 1><CLS>Save data saved.",
+      "fr": "<CHOI 1><CLS>Sauvegarde terminée."
+    },
+    {
+      "id": "020",
+      "en": "<PRGD>Deleting system save data...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGD>Suppression des données système...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "021",
+      "en": "<PRGD>Deleting system save data...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGD>Suppression des données système...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "022",
+      "en": "<PRGD>Deleting system save data...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGD>Suppression des données système...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "023",
+      "en": "<PRGD>Deleting save data...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGD>Suppression des données de sauvegarde...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "024",
+      "en": "<PRGD>Deleting save data...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGD>Suppression des données de sauvegarde...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "025",
+      "en": "<PRGD>Deleting save data...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGD>Suppression des données de sauvegarde...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "026",
+      "en": "<CHOI 2 1 1>The system save data appears to be corrupt.\r\nDelete it now?",
+      "fr": "<CHOI 2 1 1>Les données système semblent être corrompues.\r\nLes supprimer maintenant ?"
+    },
+    {
+      "id": "027",
+      "en": "<CHOI 2 1 1>The save data appears to be corrupt.\r\nDelete it now?",
+      "fr": "<CHOI 2 1 1>Les données de sauvegarde semblent être corrompues.\r\nLes supprimer maintenant ?"
+    },
+    {
+      "id": "028",
+      "en": "<CHOI 1><CLS>The system save data could not be saved.",
+      "fr": "<CHOI 1><CLS>Les données systèmes n'ont pas pu être sauvegardées."
+    },
+    {
+      "id": "029",
+      "en": "<CHOI 1><CLS>The save data could not be saved.",
+      "fr": "<CHOI 1><CLS>Les données n'ont pas pu être sauvegardées."
+    },
+    {
+      "id": "030",
+      "en": "<CHOI 1><CLS>There is insufficient free space for the save data.\r\nPlease ensure there is enough space\r\nin order to play the game. ",
+      "fr": "<CHOI 1><CLS>Il n'y a pas assez d'espace\r\ndisponible pour la sauvegarde.\r\nVeuillez vérifier qu'il y a assez d'espace\r\npour pouvoir jouer au jeu. "
+    },
+    {
+      "id": "031",
+      "en": "Yes",
+      "fr": "Oui"
+    },
+    {
+      "id": "032",
+      "en": "No",
+      "fr": "Non"
+    },
+    {
+      "id": "033",
+      "en": "Delete",
+      "fr": "Supprimer"
+    },
+    {
+      "id": "034",
+      "en": "Cancel",
+      "fr": "Annuler"
+    },
+    {
+      "id": "035",
+      "en": "Save",
+      "fr": "Sauvegarder"
+    },
+    {
+      "id": "036",
+      "en": "Don't Save",
+      "fr": "Ne pas sauvegarder"
+    },
+    {
+      "id": "037",
+      "en": "<CHOI 2 0 1>Start playing from this saved game data?",
+      "fr": "<CHOI 2 0 1>Commencer le jeu à partir de cette sauvegarde ?"
+    },
+    {
+      "id": "038",
+      "en": "<CHOI 2 0 1>Save in this slot?",
+      "fr": "<CHOI 2 0 1>Sauvegarder à cet emplacement ?"
+    },
+    {
+      "id": "039",
+      "en": "<CHOI 2 0 1>Overwrite the save already in this slot?",
+      "fr": "<CHOI 2 0 1>Écraser la sauvegarde existante à cet emplacement ?"
+    },
+    {
+      "id": "040",
+      "en": "<CHOI 2 1 1><CLS>Return to the Title screen?",
+      "fr": "<CHOI 2 1 1><CLS>Retourner à l'écran titre ?"
+    },
+    {
+      "id": "041",
+      "en": "<CHOI 2 1 1><CLS>You haven't saved your game.\r\nAny progress since your previous save will be lost.\r\nAre you sure you want to return to the Title screen?",
+      "fr": "<CHOI 2 1 1><CLS>La partie n'a pas été sauvegardée.\r\nVotre progression depuis la dernière sauvegarde sera perdue.\r\nÊtes-vous sur de vouloir retourner à l'écran titre ?"
+    },
+    {
+      "id": "042",
+      "en": "<CHOI 3 0 1><CLS>Save your current progress and\r\nreturn to the Title screen?",
+      "fr": "<CHOI 3 0 1><CLS>Sauvegarder la progression et\r\nretourner à l'écran titre ?"
+    },
+    {
+      "id": "043",
+      "en": "<CHOI 2 1 1><CLS>You haven't saved your game.\r\nAny progress since your previous save will be lost.\r\nAre you sure you want to return to Escapades selection?",
+      "fr": "<CHOI 2 1 1><CLS>La partie n'a pas été sauvegardée.\r\nVotre progression depuis la dernière sauvegarde sera perdue.\r\nÊtes-vous sur de vouloir retourner à la sélection Escapades ?"
+    },
+    {
+      "id": "044",
+      "en": "<CHOI 3 0 1><CLS>Save your current progress and\r\nreturn to Escapades selection?",
+      "fr": "<CHOI 3 0 1><CLS>Sauvegarder la progression et\r\nretourner à la sélection Escapades ?"
+    },
+    {
+      "id": "045",
+      "en": "<CHOI 2 1 1><CLS>You haven't saved your game.\r\nAny progress since your previous save will be lost.\r\nAre you sure you want to quit the game?",
+      "fr": "<CHOI 2 1 1><CLS>La partie n'a pas été sauvegardée.\r\nVotre progression depuis la dernière sauvegarde sera perdue.\r\nÊtes-vous sur de vouloir quitter le jeu ?"
+    },
+    {
+      "id": "046",
+      "en": "<CHOI 3 0 1><CLS>Save your current progress and\r\nquit the game?",
+      "fr": "<CHOI 3 0 1><CLS>Sauvegarder la progression et\r\nquitter le jeu ?"
+    },
+    {
+      "id": "047",
+      "en": "<CHOI 1><CLS>A new episode has been added.",
+      "fr": "<CHOI 1><CLS>Un nouvel épisode a été ajouté."
+    },
+    {
+      "id": "048",
+      "en": "<CHOI 2 1 1>Retry from the start of the current scene?",
+      "fr": "<CHOI 2 1 1>Réessayer depuis le début de la scène ?"
+    },
+    {
+      "id": "049",
+      "en": "Retry from this scene",
+      "fr": "Réessayer à partir de cette scène"
+    },
+    {
+      "id": "050",
+      "en": "Resume a saved game",
+      "fr": "Charger une sauvegarde"
+    },
+    {
+      "id": "051",
+      "en": "Return to Title screen",
+      "fr": "Retourner à l'écran titre"
+    },
+    {
+      "id": "052",
+      "en": "<CHOI 2 0 1>Save your current progress?",
+      "fr": "<CHOI 2 0 1>Sauvegarder la progression ?"
+    },
+    {
+      "id": "053",
+      "en": "<CHOI 2 0 1><CLS>Start playing from the start of this episode?",
+      "fr": "<CHOI 2 0 1><CLS>Commencer à partir de cet épisode ?"
+    },
+    {
+      "id": "054",
+      "en": "<CHOI 2 0 1><CLS>Start playing from here?",
+      "fr": "<CHOI 2 0 1><CLS>Commencer le jeu à partir de ce chapitre ?"
+    },
+    {
+      "id": "055",
+      "en": "<CHOI 2 1 1>Any unsaved progress will be lost.\r\nAre you sure you want to return to the Title screen?",
+      "fr": "<CHOI 2 1 1>Toute progression non sauvegardée sera perdue.\r\nÊtes-vous sûr de vouloir retourner à l'écran titre ?"
+    },
+    {
+      "id": "056",
+      "en": "Retry from ‘The Great Deduction’",
+      "fr": "Réessayer à partir de la \"Grande Déduction\""
+    },
+    {
+      "id": "057",
+      "en": "Retry from ‘Course Correction’",
+      "fr": "Réessayer à partir de la \"Rectification\""
+    },
+    {
+      "id": "058",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 1: In the Defendants' Antechamber’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 1 : Dans la salle d'attente\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "059",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 2: In a First-Class Cabin’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 2 : Dans la cabine de première classe\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "060",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 3: At the British Supreme Court’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 3 : Dans le bureau du Ministre\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "061",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 4: In Sholmes's Suite’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 4 : Chez Holmes\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "062",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 5: At Naruhodo's Legal Consultancy’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 5 : Au cabinet d'avocat Yûno\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "063",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 6: In Mr Natsume's Room’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 6 : Dans la chambre de Sôsséki\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "064",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 7: On Briar Road’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 7 : Sur Briar Road\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "065",
+      "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 8: In the Bailey’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 8 : Au tribunal de Old Bailey\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+    },
+    {
+      "id": "066",
+      "en": "<CHOI 1><PRGS>This game supports an auto-save feature.\r\nPlease do not turn the system off whilst the\r\nicon is displayed at the top of the screen.",
+      "fr": "<CHOI 1><PRGS>Ce jeu possède une fonctionnalité\r\nde sauvegarde automatique.\r\nVeuillez ne pas éteindre le système\r\npendant que l'icône est affichée\r\nen haut de l'écran."
+    },
+    {
+      "id": "067",
+      "en": "<CHOI 1><PRGS>This game supports an auto-save feature.\r\nPlease do not turn the console off whilst the\r\nicon is displayed at the top of the screen.",
+      "fr": "<CHOI 1><PRGS>Ce jeu possède une fonctionnalité\r\nde sauvegarde automatique.\r\nVeuillez ne pas éteindre la console\r\npendant que l'icône est affichée\r\nen haut de l'écran."
+    },
+    {
+      "id": "068",
+      "en": "<CHOI 1><PRGS>This game supports an auto-save feature.\r\nPlease do not turn off your PC whilst the\r\nicon is displayed at the top of the screen.",
+      "fr": "<CHOI 1><PRGS>Ce jeu possède une fonctionnalité\r\nde sauvegarde automatique.\r\nVeuillez ne pas éteindre le PC\r\npendant que l'icône est affichée\r\nen haut de l'écran."
+    },
+    {
+      "id": "069",
+      "en": "<CHOI 2 1 1>Restore default settings?",
+      "fr": "<CHOI 2 1 1>Restorer les paramètres par défaut ?"
+    },
+    {
+      "id": "070",
+      "en": "<CHOI 2 0 1>Apply key assignment changes?",
+      "fr": "<CHOI 2 0 1>Appliquer les changements d'association de touches ?"
+    },
+    {
+      "id": "071",
+      "en": "<CHOI 2 1 1>Restore default key assignments?",
+      "fr": "<CHOI 2 1 1>Restorer les associations de touches par défaut ?"
+    },
+    {
+      "id": "072",
+      "en": "<CHOI 2 1 1>Finish playing the game?",
+      "fr": "<CHOI 2 1 1>Fini de jouer au jeu ?"
+    },
+    {
+      "id": "073",
+      "en": "<PRGI>Checking for add-on content...\r\nPlease do not turn the system off.<STAY>",
+      "fr": "<PRGI>Recherche de contenu bonus...\r\nVeuillez ne pas éteindre le système.<STAY>"
+    },
+    {
+      "id": "074",
+      "en": "<PRGI>Checking for downloadable content...\r\nPlease do not turn the console off.<STAY>",
+      "fr": "<PRGI>Recherche de contenu téléchargeable...\r\nVeuillez ne pas éteindre la console.<STAY>"
+    },
+    {
+      "id": "075",
+      "en": "<PRGI>Checking for DLC...\r\nPlease do not turn off your PC.<STAY>",
+      "fr": "<PRGI>Recherche des DLCs...\r\nVeuillez ne pas éteindre le PC.<STAY>"
+    },
+    {
+      "id": "076",
+      "en": "<CHOI 1><CLS>Add-on content has been found\r\nand added to Special Contents.",
+      "fr": "<CHOI 1><CLS>Contenu bonus présent et ajouté au\r\nContenu Spécial."
+    },
+    {
+      "id": "077",
+      "en": "<CHOI 1><CLS>Downloadable content has been found\r\nand added to Special Contents.",
+      "fr": "<CHOI 1><CLS>Contenu téléchargeable présent et ajouté au\r\nContenu Spécial."
+    },
+    {
+      "id": "078",
+      "en": "<CHOI 1><CLS>DLC has been found and added to\r\nSpecial Contents.",
+      "fr": "<CHOI 1><CLS>DLC présent et ajouté au\r\nContenu Spécial."
+    },
+    {
+      "id": "079",
+      "en": "<CHOI 1><CLS>Couldn't load add-on content.\r\nPlease quit the game and\r\nredownload it in order to view it.",
+      "fr": "<CHOI 1><CLS>Impossible de charger le contenu bonus.\r\nVeuillez quitter le jeu\r\net le télécharger de nouveau pour continuer."
+    },
+    {
+      "id": "080",
+      "en": "<CHOI 1><CLS>Couldn't load downloadable content.\r\nPlease quit the game and\r\nredownload it in order to view it.",
+      "fr": "<CHOI 1><CLS>Impossible de charger le contenu téléchargeable.\r\nVeuillez quitter le jeu\r\net le télécharger de nouveau pour continuer."
+    },
+    {
+      "id": "081",
+      "en": "<CHOI 1><CLS>Couldn't load DLC data.\r\nPlease quit the game and\r\nredownload it in order to view it.",
+      "fr": "<CHOI 1><CLS>Impossible de charger les données de DLC.\r\nVeuillez quitter le jeu\r\net le télécharger de nouveau pour continuer."
+    },
+    {
+      "id": "082",
+      "en": "<CHOI 1><CLS><RGB AA0B0B>Spoiler Alert</RGB>\r\nThere are story spoilers in this add-on content.\r\nIt's recommended that you first finish both titles\r\nbefore proceeding.",
+      "fr": "<CHOI 1><CLS><RGB AA0B0B>Avertissement spoiler</RGB>\r\nIl y a des spoilers sur l'histoire principale dans ce contenu bonus.\r\nIl est recommandé d'avoir terminé\r\nles deux jeux au préalable."
+    },
+    {
+      "id": "083",
+      "en": "<CHOI 1><CLS><RGB AA0B0B>Spoiler Alert</RGB>\r\nThere are story spoilers in this downloadable content.\r\nIt's recommended that you first finish both titles\r\nbefore proceeding.",
+      "fr": "<CHOI 1><CLS><RGB AA0B0B>Avertissement spoiler</RGB>\r\nIl y a des spoilers sur l'histoire principale dans ce contenu téléchargeable.\r\nIl est recommandé d'avoir terminé\r\nles deux jeux au préalable."
+    },
+    {
+      "id": "084",
+      "en": "<CHOI 1><CLS><RGB AA0B0B>Spoiler Alert</RGB>\r\nThere are story spoilers in this DLC.\r\nIt's recommended that you first finish\r\nboth titles before proceeding.",
+      "fr": "<CHOI 1><CLS><RGB AA0B0B>Avertissement spoiler</RGB>\r\nIl y a des spoilers sur l'histoire principale dans ce DLC.\r\nIl est recommandé d'avoir terminé\r\nles deux jeux au préalable."
+    }
+  ],
+  "system_title_eng": [
+    {
+      "id": "001",
+      "en": "To be continued...",
+      "fr": "À suivre..."
+    },
+    {
+      "id": "002",
+      "en": "End",
+      "fr": "Fin"
+    }
+  ],
+  "text_window_eng": [
+    {
+      "id": "001",
+      "en": "<CHOI 2 1 1><CLS>Do you want to skip this?",
+      "fr": "<CHOI 2 1 1><CLS>Passer ?"
+    },
+    {
+      "id": "002",
+      "en": "<CHOI 2 1 1><CLS>Do you want to close the credits?",
+      "fr": "<CHOI 2 1 1><CLS>Fermer les crédits ?"
+    },
+    {
+      "id": "003",
+      "en": "<CHOI 2 1 1><CLS>Do you want to stop watching the video?",
+      "fr": "<CHOI 2 1 1><CLS>Arrêter la vidéo ?"
+    }
+  ],
+  "place_eng": [
+    {
+      "id": "001",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "002",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "003",
+      "en": "Kazuma's Cabin",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "004",
+      "en": "Miss Pavlova's Cabin",
+      "fr": "Cabine de Liliya"
+    },
+    {
+      "id": "005",
+      "en": "First-Class Passageway",
+      "fr": "Navire - couloir"
+    },
+    {
+      "id": "006",
+      "en": "Lord Chief Justice's Office",
+      "fr": "Bureau du Ministre de la Justice"
+    },
+    {
+      "id": "007",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "008",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "009",
+      "en": "Sholmes's Suite",
+      "fr": "Chez Holmes"
+    },
+    {
+      "id": "010",
+      "en": "Mr Natsume's Room",
+      "fr": "Chambre de Natsumé Sôsséki"
+    },
+    {
+      "id": "011",
+      "en": "The Garridebs' Room",
+      "fr": "Chez Mr Garrideb"
+    },
+    {
+      "id": "012",
+      "en": "St Bartholomew's Hospital, Olive's Bed",
+      "fr": "Hôp. St Bartholomew, chambre de Ms Greene"
+    },
+    {
+      "id": "013",
+      "en": "Shamspeare's Room",
+      "fr": "Chez Jakespeare"
+    },
+    {
+      "id": "014",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "015",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "016",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "017",
+      "en": "Windibank's Storeroom",
+      "fr": "Boutique de Pressure - Entrepôt"
+    },
+    {
+      "id": "018",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    },
+    {
+      "id": "019",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "020",
+      "en": "Kazuma's Cabin (At Night)",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "021",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "022",
+      "en": "Backup Cabin",
+      "fr": "Cabine de secours"
+    },
+    {
+      "id": "023",
+      "en": "Mr Roylott's Cabin",
+      "fr": "Cabine de Roylott"
+    },
+    {
+      "id": "024",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Appartement de Natsumé Sôsséki"
+    },
+    {
+      "id": "025",
+      "en": "Windibank's Main Shop",
+      "fr": "Boutique de Pressure - Intérieur"
+    },
+    {
+      "id": "026",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "027",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    }
+  ],
+  "title_launcher_eng": [
+    {
+      "id": "001",
+      "en": "Continue",
+      "fr": "Continuer"
+    },
+    {
+      "id": "002",
+      "en": "Select Adventure",
+      "fr": "Sélectionner le jeu"
+    },
+    {
+      "id": "003",
+      "en": "Load Game",
+      "fr": "Charger une partie"
+    },
+    {
+      "id": "004",
+      "en": "Special Contents",
+      "fr": "Contenu spécial"
+    },
+    {
+      "id": "005",
+      "en": "Start playing from your latest save.",
+      "fr": "Continuer la sauvegarde la plus récente."
+    },
+    {
+      "id": "006",
+      "en": "Pick an adventure to play.",
+      "fr": "Choisir le jeu."
+    },
+    {
+      "id": "007",
+      "en": "Load a saved game.",
+      "fr": "Charger une partie sauvegardée."
+    },
+    {
+      "id": "008",
+      "en": "View special contents.",
+      "fr": "Voir le contenu spécial."
+    },
+    {
+      "id": "009",
+      "en": "Change various game options.",
+      "fr": "Modifier les options du jeu."
+    },
+    {
+      "id": "010",
+      "en": "GAA: Adventures",
+      "fr": "TCAA - AGE: Aventures"
+    },
+    {
+      "id": "011",
+      "en": "GAA2: Resolve",
+      "fr": "TCAA - AGE: Détermination"
+    }
+  ],
+  "saveload_eng": [
+    {
+      "id": "001",
+      "en": "Select a saved game to resume",
+      "fr": "Sélectionner une sauvegarde à charger"
+    },
+    {
+      "id": "002",
+      "en": "Select a slot in which to save",
+      "fr": "Sélectionner un emplacement de sauvegarde"
+    },
+    {
+      "id": "003",
+      "en": "No saved game data",
+      "fr": "Pas de données de sauvegarde"
+    }
+  ],
+  "title_slot_eng": [
+    {
+      "id": "001",
+      "en": "Ep. 1",
+      "fr": "Ép. 1"
+    },
+    {
+      "id": "002",
+      "en": "Ep. 2",
+      "fr": "Ép. 2"
+    },
+    {
+      "id": "003",
+      "en": "Ep. 3",
+      "fr": "Ép. 3"
+    },
+    {
+      "id": "004",
+      "en": "Ep. 4",
+      "fr": "Ép. 4"
+    },
+    {
+      "id": "005",
+      "en": "Ep. 5",
+      "fr": "Ép. 5"
+    },
+    {
+      "id": "006",
+      "en": "The Adventure of the Blossoming Attorney",
+      "fr": "L'aventure de l'avocat en herbe"
+    },
+    {
+      "id": "007",
+      "en": "The Memoirs of the Clouded Kokoro",
+      "fr": "Carnets de souvenirs de mon Kokoro"
+    },
+    {
+      "id": "008",
+      "en": "The Return of the Great Departed Soul",
+      "fr": "Le retour de la grand âme égarée"
+    },
+    {
+      "id": "009",
+      "en": "Twisted Karma and His Last Bow",
+      "fr": "Karma tordu et son dernier coup d'archet"
+    },
+    {
+      "id": "010",
+      "en": "The Resolve of Ryunosuke Naruhodo",
+      "fr": "La détermination de Hikari Yûno"
+    },
+    {
+      "id": "011",
+      "en": "The Adventure of the Great Departure",
+      "fr": "L'aventure du Grand Départ"
+    },
+    {
+      "id": "012",
+      "en": "The Adventure of the Unbreakable Speckled Band",
+      "fr": "L'aventure de l'incassable bande mouchetée"
+    },
+    {
+      "id": "013",
+      "en": "The Adventure of the Runaway Room",
+      "fr": "L'aventure de la Chambre close mouvante"
+    },
+    {
+      "id": "014",
+      "en": "The Adventure of the Clouded Kokoro",
+      "fr": "L'aventure de mon Kokoro un soir de brume"
+    },
+    {
+      "id": "015",
+      "en": "The Adventure of the Unspeakable Story",
+      "fr": "L'aventure du Récit indicible"
+    },
+    {
+      "id": "016",
+      "en": "Trial",
+      "fr": "Procès "
+    },
+    {
+      "id": "017",
+      "en": "Trial, Part 1",
+      "fr": "Procès, partie 1 "
+    },
+    {
+      "id": "018",
+      "en": "Trial, Part 2",
+      "fr": "Procès, partie 2 "
+    },
+    {
+      "id": "019",
+      "en": "Trial, Part 3",
+      "fr": "Procès, partie 3 "
+    },
+    {
+      "id": "020",
+      "en": "Trial, Part 4",
+      "fr": "Procès, partie 4 "
+    },
+    {
+      "id": "021",
+      "en": "Trial, Part 5",
+      "fr": "Procès, partie 5 "
+    },
+    {
+      "id": "022",
+      "en": "Investigation",
+      "fr": "Enquête "
+    },
+    {
+      "id": "023",
+      "en": "Investigation, Part 1",
+      "fr": "Enquête, partie 1 "
+    },
+    {
+      "id": "024",
+      "en": "Investigation, Part 2",
+      "fr": "Enquête, partie 2 "
+    },
+    {
+      "id": "025",
+      "en": "Investigation, Part 3",
+      "fr": "Enquête, partie 3 "
+    },
+    {
+      "id": "026",
+      "en": "Investigation, Part 4",
+      "fr": "Enquête, partie 4 "
+    },
+    {
+      "id": "027",
+      "en": "Investigation, Part 5",
+      "fr": "Enquête, partie 5 "
+    },
+    {
+      "id": "028",
+      "en": "Epilogue",
+      "fr": "Épilogue "
+    },
+    {
+      "id": "029",
+      "en": "Ep. 1",
+      "fr": "Ép. 1"
+    },
+    {
+      "id": "030",
+      "en": "Ep. 2",
+      "fr": "Ép. 2"
+    },
+    {
+      "id": "031",
+      "en": "Ep. 3",
+      "fr": "Ép. 3"
+    },
+    {
+      "id": "032",
+      "en": "Ep. 4",
+      "fr": "Ép. 4"
+    },
+    {
+      "id": "033",
+      "en": "Ep. 5",
+      "fr": "Ép. 5"
+    },
+    {
+      "id": "034",
+      "en": "Ep. 6",
+      "fr": "Ép. 6"
+    },
+    {
+      "id": "035",
+      "en": "Ep. 7",
+      "fr": "Ép. 7"
+    },
+    {
+      "id": "036",
+      "en": "Ep. 8",
+      "fr": "Ép. 8"
+    },
+    {
+      "id": "037",
+      "en": "In the Defendants' Antechamber",
+      "fr": "Dans la salle d'attente"
+    },
+    {
+      "id": "038",
+      "en": "In a First-Class Cabin",
+      "fr": "Dans la cabine de première classe"
+    },
+    {
+      "id": "039",
+      "en": "At the British Supreme Court",
+      "fr": "Dans le bureau du Ministre"
+    },
+    {
+      "id": "040",
+      "en": "In Sholmes's Suite",
+      "fr": "Chez Holmes"
+    },
+    {
+      "id": "041",
+      "en": "At Naruhodo's Legal Consultancy",
+      "fr": "Au cabinet d'avocat Yûno"
+    },
+    {
+      "id": "042",
+      "en": "In Mr Natsume's Room",
+      "fr": "Dans la chambre de Sôsséki"
+    },
+    {
+      "id": "043",
+      "en": "On Briar Road",
+      "fr": "Sur Briar Road"
+    },
+    {
+      "id": "044",
+      "en": "In the Bailey",
+      "fr": "Au tribunal de Old Bailey"
+    }
+  ],
+  "Option_eng": [
+    {
+      "id": "001",
+      "en": "Records",
+      "fr": "Sauvegardes"
+    },
+    {
+      "id": "002",
+      "en": "Language",
+      "fr": "Langue"
+    },
+    {
+      "id": "003",
+      "en": "Reader",
+      "fr": "Lecture"
+    },
+    {
+      "id": "004",
+      "en": "PC Config",
+      "fr": "Paramètres PC"
+    },
+    {
+      "id": "005",
+      "en": "Key Config",
+      "fr": "Touches"
+    },
+    {
+      "id": "006",
+      "en": "Back to Escapades",
+      "fr": "Retour aux escapades"
+    },
+    {
+      "id": "007",
+      "en": "Back to Title",
+      "fr": "Retour à l'écran titre"
+    },
+    {
+      "id": "008",
+      "en": "Exit Game",
+      "fr": "Quitter le jeu"
+    },
+    {
+      "id": "009",
+      "en": "Save",
+      "fr": "Sauvegarder"
+    },
+    {
+      "id": "010",
+      "en": "Load",
+      "fr": "Charger"
+    },
+    {
+      "id": "011",
+      "en": "Music",
+      "fr": "Musique"
+    },
+    {
+      "id": "012",
+      "en": "Effects",
+      "fr": "Effets sonores"
+    },
+    {
+      "id": "013",
+      "en": "Voices",
+      "fr": "Voix"
+    },
+    {
+      "id": "014",
+      "en": "Vibration",
+      "fr": "Vibration de l'écran"
+    },
+    {
+      "id": "015",
+      "en": "Screen Flashes",
+      "fr": "Flashs à l'écran"
+    },
+    {
+      "id": "016",
+      "en": "Text Box Transparency",
+      "fr": "Transparence des fenêtres"
+    },
+    {
+      "id": "017",
+      "en": "Subtitles",
+      "fr": "Sous-titres"
+    },
+    {
+      "id": "018",
+      "en": "Text",
+      "fr": "Textes du jeu"
+    },
+    {
+      "id": "019",
+      "en": "Voice",
+      "fr": "Doublage"
+    },
+    {
+      "id": "020",
+      "en": "Text Skip",
+      "fr": "Passer le texte"
+    },
+    {
+      "id": "021",
+      "en": "Wait Time",
+      "fr": "Défilement des messages"
+    },
+    {
+      "id": "022",
+      "en": "Story Mode",
+      "fr": "Mode Histoire"
+    },
+    {
+      "id": "023",
+      "en": "Turn this on to enable Story Mode in place of autoplay, allowing you to\r\nprogress through the game automatically, without having to press any\r\nbuttons. The answers to questions, presentation of evidence, etc. are all\r\nhandled on your behalf.\r\n\r\n<RGB E82800>Some accolades may not be available to you if you use Story Mode.</RGB>",
+      "fr": "Remplace le mode automatique par le mode Histoire.\r\nLe défilement des dialogues, les réponses aux questions,\r\nla présentation des preuves, etc. sont faits automatiquement.\r\n\r\n<RGB E82800>Certaines distinctions ne peuvent pas être obtenues\r\nen mode Histoire.</RGB>"
+    },
+    {
+      "id": "024",
+      "en": "Resolution",
+      "fr": "Résolution"
+    },
+    {
+      "id": "025",
+      "en": "Window Mode",
+      "fr": "Mode d'affichage"
+    },
+    {
+      "id": "026",
+      "en": "Vertical Sync",
+      "fr": "Synchronisation verticale"
+    },
+    {
+      "id": "027",
+      "en": "Anti-Aliasing",
+      "fr": "Anticrénelage"
+    },
+    {
+      "id": "028",
+      "en": "Confirm",
+      "fr": "Confirmer"
+    },
+    {
+      "id": "029",
+      "en": "Cancel",
+      "fr": "Annuler"
+    },
+    {
+      "id": "030",
+      "en": "Present",
+      "fr": "Présenter"
+    },
+    {
+      "id": "031",
+      "en": "History",
+      "fr": "Historique"
+    },
+    {
+      "id": "032",
+      "en": "Court Record/People/Evidence",
+      "fr": "Dossier de l'affaire"
+    },
+    {
+      "id": "033",
+      "en": "Press/Review Scene",
+      "fr": "Attaquer/Revoir scène"
+    },
+    {
+      "id": "034",
+      "en": "Autoplay/Story Mode",
+      "fr": "Lecture auto/Mode Histoire"
+    },
+    {
+      "id": "035",
+      "en": "Move Cursor ↑",
+      "fr": "Déplacer le curseur ↑"
+    },
+    {
+      "id": "036",
+      "en": "Move Cursor ↓",
+      "fr": "Déplacer le curseur ↓"
+    },
+    {
+      "id": "037",
+      "en": "Move Cursor ←",
+      "fr": "Déplacer le curseur ←"
+    },
+    {
+      "id": "038",
+      "en": "Move Cursor →",
+      "fr": "Déplacer le curseur →"
+    },
+    {
+      "id": "039",
+      "en": "Rotate Evidence ↑",
+      "fr": "Faire tourner preuves ↑"
+    },
+    {
+      "id": "040",
+      "en": "Rotate Evidence ↓",
+      "fr": "Faire tourner preuves ↓"
+    },
+    {
+      "id": "041",
+      "en": "Rotate Evidence ←",
+      "fr": "Faire tourner preuves ←"
+    },
+    {
+      "id": "042",
+      "en": "Rotate Evidence →",
+      "fr": "Faire tourner preuves →"
+    },
+    {
+      "id": "043",
+      "en": "Look ↑",
+      "fr": "Regarder ↑"
+    },
+    {
+      "id": "044",
+      "en": "Look ↓",
+      "fr": "Regarder ↓"
+    },
+    {
+      "id": "045",
+      "en": "Look ←",
+      "fr": "Regarder ←"
+    },
+    {
+      "id": "046",
+      "en": "Look →",
+      "fr": "Regarder →"
+    },
+    {
+      "id": "047",
+      "en": "Finish playing the game?",
+      "fr": "Quitter le jeu."
+    },
+    {
+      "id": "048",
+      "en": "Yes",
+      "fr": "Oui"
+    },
+    {
+      "id": "049",
+      "en": "No",
+      "fr": "Non"
+    },
+    {
+      "id": "050",
+      "en": "Apply key assignment changes?",
+      "fr": "Appliquer la nouvelle configuration de touches ?"
+    },
+    {
+      "id": "051",
+      "en": "Restore default key assignments?",
+      "fr": "Restorer la configuration par défaut des touches ?"
+    },
+    {
+      "id": "052",
+      "en": "Restore Defaults",
+      "fr": "Par défaut"
+    },
+    {
+      "id": "053",
+      "en": "Save or load your game.",
+      "fr": "Sauvegarder ou charger une partie."
+    },
+    {
+      "id": "054",
+      "en": "Adjust audio settings.",
+      "fr": "Configurer les paramètres audio."
+    },
+    {
+      "id": "055",
+      "en": "Adjust game settings.",
+      "fr": "Ajuster les paramètres de jeu."
+    },
+    {
+      "id": "056",
+      "en": "Adjust language settings.",
+      "fr": "Configurer la langue du jeu."
+    },
+    {
+      "id": "057",
+      "en": "Turn Story Mode on or off.",
+      "fr": "Activer ou désactiver le mode histoire."
+    },
+    {
+      "id": "058",
+      "en": "Save your game.",
+      "fr": "Sauvegarder la partie."
+    },
+    {
+      "id": "059",
+      "en": "Load your game.",
+      "fr": "Charger une partie."
+    },
+    {
+      "id": "060",
+      "en": "Mute or unmute the background music.",
+      "fr": "Activer ou désactiver la musique."
+    },
+    {
+      "id": "061",
+      "en": "Mute or unmute sound effects.",
+      "fr": "Activer ou désactiver les effets sonores."
+    },
+    {
+      "id": "062",
+      "en": "Mute or unmute characters' speech.",
+      "fr": "Activer ou désactiver la voix des personnages."
+    },
+    {
+      "id": "063",
+      "en": "Restore default settings.",
+      "fr": "Restorer les paramètres par défaut."
+    },
+    {
+      "id": "064",
+      "en": "Turn vibration on or off.",
+      "fr": "Activer ou désactiver les vibrations de l'écran."
+    },
+    {
+      "id": "065",
+      "en": "Turn screen flashes on or off.",
+      "fr": "Activer ou désactiver les flashs à l'écran."
+    },
+    {
+      "id": "066",
+      "en": "Change the transparency level of text boxes.",
+      "fr": "Changer la transparence des fenêtres de texte."
+    },
+    {
+      "id": "067",
+      "en": "Turn subtitles on or off.",
+      "fr": "Activer ou désactiver les sous-titres."
+    },
+    {
+      "id": "068",
+      "en": "Select the game language.",
+      "fr": "Sélectionner la langue pour les textes."
+    },
+    {
+      "id": "069",
+      "en": "Select the voice language.",
+      "fr": "Sélectionner le type de doublage."
+    },
+    {
+      "id": "070",
+      "en": "Enable or disable the skipping of unread text in the main game. (Escapades text is skippable from the start)",
+      "fr": "Activer ou désactiver le saut des textes non lus. (Le texte des Escapades peut être passé dès le début)"
+    },
+    {
+      "id": "071",
+      "en": "Adjust the length of time until the next line of dialogue is displayed in Autoplay and Story Mode.",
+      "fr": "Ajuster le délai d'affichage entre les dialogues en mode automatique et Histoire."
+    },
+    {
+      "id": "072",
+      "en": "Turn this on to change autoplay into Story Mode.",
+      "fr": "Active le mode Histoire à la place de la lecture automatique."
+    },
+    {
+      "id": "073",
+      "en": "Adjust PC-specific settings.",
+      "fr": "Ajuster les paramètres pour PC."
+    },
+    {
+      "id": "074",
+      "en": "Adjust key assignments.",
+      "fr": "Configurer l'attribution des touches."
+    },
+    {
+      "id": "075",
+      "en": "Adjust the screen resolution. (Changes take immediate effect)",
+      "fr": "Configurer la résolution de l'écran. (Changement prend effet immédiatement)"
+    },
+    {
+      "id": "076",
+      "en": "Select the window mode. (Changes take immediate effect)",
+      "fr": "Sélectionner le mode d'affichage. (Changement prend effet immédiatement)"
+    },
+    {
+      "id": "077",
+      "en": "Turn vertical sync on or off. (Changes take immediate effect)",
+      "fr": "Activer ou désactiver la synchronisation verticale. (Changement prend effet immédiatement)"
+    },
+    {
+      "id": "078",
+      "en": "Turn anti-aliasing on or off. (Changes take immediate effect)",
+      "fr": "Activer ou désactiver l'anticrénelage. (Changement prend effet immédiatement)"
+    },
+    {
+      "id": "079",
+      "en": "Adjust key assignments.",
+      "fr": "Configurer l'attribution des touches."
+    },
+    {
+      "id": "080",
+      "en": "Return to the ‘Escapades’ adventure list.",
+      "fr": "Retourner à l'écran de sélection des \"Escapades\"."
+    },
+    {
+      "id": "081",
+      "en": "Return to the Title screen.",
+      "fr": "Retourner à l'écran titre."
+    },
+    {
+      "id": "082",
+      "en": "Finish playing the game.",
+      "fr": "Quitter le jeu."
+    },
+    {
+      "id": "083",
+      "en": "On",
+      "fr": "Oui"
+    },
+    {
+      "id": "084",
+      "en": "Off",
+      "fr": "Non"
+    },
+    {
+      "id": "085",
+      "en": "Window",
+      "fr": "Fenêtré"
+    },
+    {
+      "id": "086",
+      "en": "Full Screen",
+      "fr": "Plein écran"
+    },
+    {
+      "id": "087",
+      "en": "Borderless",
+      "fr": "Sans bordure"
+    },
+    {
+      "id": "088",
+      "en": "Off",
+      "fr": "Non"
+    },
+    {
+      "id": "089",
+      "en": "Low",
+      "fr": "Bas"
+    },
+    {
+      "id": "090",
+      "en": "High",
+      "fr": "Élevé"
+    },
+    {
+      "id": "091",
+      "en": "Japanese",
+      "fr": "Japonais"
+    },
+    {
+      "id": "092",
+      "en": "English",
+      "fr": "Immersif"
+    },
+    {
+      "id": "093",
+      "en": "Sample",
+      "fr": "Exemple"
+    }
+  ],
+  "Guide_eng": [
+    {
+      "id": "001",
+      "en": "Back",
+      "fr": "Retour"
+    },
+    {
+      "id": "002",
+      "en": "Court Record",
+      "fr": "Dossier de l'affaire"
+    },
+    {
+      "id": "003",
+      "en": "Present",
+      "fr": "Présenter"
+    },
+    {
+      "id": "004",
+      "en": "Examine",
+      "fr": "Examiner"
+    },
+    {
+      "id": "005",
+      "en": "Evidence",
+      "fr": "Preuves"
+    },
+    {
+      "id": "006",
+      "en": "People",
+      "fr": "Profils"
+    },
+    {
+      "id": "007",
+      "en": "Zoom In",
+      "fr": "Zoom +"
+    },
+    {
+      "id": "008",
+      "en": "Zoom Out",
+      "fr": "Zoom -"
+    },
+    {
+      "id": "009",
+      "en": "Text Window",
+      "fr": "Zone de texte"
+    },
+    {
+      "id": "010",
+      "en": "Press",
+      "fr": "Attaquer"
+    },
+    {
+      "id": "011",
+      "en": "Pursue",
+      "fr": "Interroger"
+    },
+    {
+      "id": "012",
+      "en": "Look Around",
+      "fr": "Regarder autour"
+    },
+    {
+      "id": "013",
+      "en": "Pit",
+      "fr": "Confronter"
+    },
+    {
+      "id": "014",
+      "en": "History",
+      "fr": "Historique"
+    },
+    {
+      "id": "015",
+      "en": "Autoplay",
+      "fr": "Jeu automatique"
+    },
+    {
+      "id": "016",
+      "en": "Magnifying Glass",
+      "fr": "Loupe"
+    },
+    {
+      "id": "017",
+      "en": "Move",
+      "fr": "Se déplacer"
+    },
+    {
+      "id": "018",
+      "en": "Previous",
+      "fr": "Précédent"
+    },
+    {
+      "id": "019",
+      "en": "Next",
+      "fr": "Suivant"
+    },
+    {
+      "id": "020",
+      "en": "Review Scene",
+      "fr": "Voir la scène"
+    },
+    {
+      "id": "021",
+      "en": "Return to Question",
+      "fr": "Retour à la question"
+    },
+    {
+      "id": "022",
+      "en": "Completion",
+      "fr": "Avancement"
+    },
+    {
+      "id": "023",
+      "en": "Spray",
+      "fr": "Asperger"
+    },
+    {
+      "id": "024",
+      "en": "Story Mode",
+      "fr": "Mode Histoire"
+    },
+    {
+      "id": "025",
+      "en": "Play",
+      "fr": "Lecture"
+    },
+    {
+      "id": "026",
+      "en": "Stop",
+      "fr": "Arrêter"
+    }
+  ],
+  "special_contents_medal_eng": [
+    {
+      "id": "001",
+      "en": "Accolades",
+      "fr": "Distinctions"
+    },
+    {
+      "id": "002",
+      "en": "The Great Ace Attorney",
+      "fr": "A Great Era"
+    },
+    {
+      "id": "003",
+      "en": "Defence Debut",
+      "fr": "Premiers pas"
+    },
+    {
+      "id": "004",
+      "en": "Crash Course Candidate",
+      "fr": "Prépa de droit"
+    },
+    {
+      "id": "005",
+      "en": "The Realm of the Reaper",
+      "fr": "Dieu de la Mort"
+    },
+    {
+      "id": "006",
+      "en": "Landed in London",
+      "fr": "Bienvenue à London !"
+    },
+    {
+      "id": "007",
+      "en": "Fleeting Farewell",
+      "fr": "Au revoir temporaires"
+    },
+    {
+      "id": "008",
+      "en": "Susato's Success",
+      "fr": "Nouveau départ"
+    },
+    {
+      "id": "009",
+      "en": "The Key of Knowledge",
+      "fr": "La clef du mystère "
+    },
+    {
+      "id": "010",
+      "en": "The Demasking",
+      "fr": "Bas les masques ! "
+    },
+    {
+      "id": "011",
+      "en": "The Legendary Pair",
+      "fr": "Retour du duo de choc"
+    },
+    {
+      "id": "012",
+      "en": "The Risen Resolve",
+      "fr": "Départ"
+    },
+    {
+      "id": "013",
+      "en": "Ace Aficionado",
+      "fr": "The Great Fana-tourney"
+    },
+    {
+      "id": "014",
+      "en": "Bespoke Tailor",
+      "fr": "L'habit fait le moine"
+    },
+    {
+      "id": "015",
+      "en": "Ace of Spades",
+      "fr": "Ça me ra-pelle un truc"
+    },
+    {
+      "id": "016",
+      "en": "The Top Rung",
+      "fr": "Différence d'échelle"
+    },
+    {
+      "id": "017",
+      "en": "Inconsistency Seer",
+      "fr": "Je peux le prouver !"
+    },
+    {
+      "id": "018",
+      "en": "Prime Presser",
+      "fr": "Attaquant débutant"
+    },
+    {
+      "id": "019",
+      "en": "The Herlockian",
+      "fr": "Sherlockian"
+    },
+    {
+      "id": "020",
+      "en": "Healthy Curiosity",
+      "fr": "Patient problématique"
+    },
+    {
+      "id": "021",
+      "en": "Pillow Perfectionist",
+      "fr": "Hauteur parfaite"
+    },
+    {
+      "id": "022",
+      "en": "Hat Hunter",
+      "fr": "Chapeau !"
+    },
+    {
+      "id": "023",
+      "en": "Second-Rate Strings",
+      "fr": "À koto tiré"
+    },
+    {
+      "id": "024",
+      "en": "The Woman...?",
+      "fr": "Elle ?"
+    },
+    {
+      "id": "025",
+      "en": "Sulky's Story",
+      "fr": "Passé criminel"
+    },
+    {
+      "id": "026",
+      "en": "Father Frustrator",
+      "fr": "Les supplications d'un père"
+    },
+    {
+      "id": "027",
+      "en": "Down In One",
+      "fr": "Ça pourrait pas être pire..."
+    },
+    {
+      "id": "028",
+      "en": "The Noodler",
+      "fr": "Maître Sushi"
+    },
+    {
+      "id": "029",
+      "en": "Inspirational Roots",
+      "fr": "Mes origines"
+    },
+    {
+      "id": "030",
+      "en": "Best Chips in Town",
+      "fr": "L'élève et le maître"
+    },
+    {
+      "id": "031",
+      "en": "Asogi Clan Appreciator",
+      "fr": "Le clan Norasompéï"
+    },
+    {
+      "id": "032",
+      "en": "? ? ?",
+      "fr": "???"
+    },
+    {
+      "id": "033",
+      "en": "For being awarded all other accolades",
+      "fr": "Décernée pour avoir décroché\r\ntoutes les distinctions"
+    },
+    {
+      "id": "034",
+      "en": "For completion of Episode 1 of\r\nThe Great Ace Attorney: Adventures\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\npremière affaire\r\ndu premier jeu"
+    },
+    {
+      "id": "035",
+      "en": "For completion of Episode 2 of\r\nThe Great Ace Attorney: Adventures\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\ndeuxième affaire\r\ndu premier jeu"
+    },
+    {
+      "id": "036",
+      "en": "For completion of Episode 3 of\r\nThe Great Ace Attorney: Adventures\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\ntroisième affaire\r\ndu premier jeu"
+    },
+    {
+      "id": "037",
+      "en": "For completion of Episode 4 of\r\nThe Great Ace Attorney: Adventures\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\nquatrième affaire\r\ndu premier jeu"
+    },
+    {
+      "id": "038",
+      "en": "For completion of Episode 5 of\r\nThe Great Ace Attorney: Adventures\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\ncinquième affaire du\r\npremier jeu"
+    },
+    {
+      "id": "039",
+      "en": "For completion of Episode 1 of\r\nThe Great Ace Attorney 2: Resolve\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\npremière affaire\r\ndu deuxième jeu"
+    },
+    {
+      "id": "040",
+      "en": "For completion of Episode 2 of\r\nThe Great Ace Attorney 2: Resolve\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\ndeuxième affaire\r\ndu deuxième jeu"
+    },
+    {
+      "id": "041",
+      "en": "For completion of Episode 3 of\r\nThe Great Ace Attorney 2: Resolve\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\ntroisième affaire\r\ndu deuxième jeu"
+    },
+    {
+      "id": "042",
+      "en": "For completion of Episode 4 of\r\nThe Great Ace Attorney 2: Resolve\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement la\r\nquatrième affaire\r\ndu deuxième jeu"
+    },
+    {
+      "id": "043",
+      "en": "For completion of the Final Chapter of\r\nThe Great Ace Attorney 2: Resolve\r\nfrom its opening chapter",
+      "fr": "Décernée pour avoir\r\nterminé entièrement\r\nl'affaire finale"
+    },
+    {
+      "id": "044",
+      "en": "For completion of all the extra\r\nEscapade adventures",
+      "fr": "Décernée pour avoir terminé\r\ntoutes les escapades"
+    },
+    {
+      "id": "045",
+      "en": "For playing the game in all available\r\noutfits",
+      "fr": "Décernée pour avoir joué\r\navec tous les costumes\r\néquipés"
+    },
+    {
+      "id": "046",
+      "en": "For having dug around to find every\r\nargument about shovels and spades",
+      "fr": "Décernée pour avoir écouté toutes\r\nles discussions de pelle"
+    },
+    {
+      "id": "047",
+      "en": "For having wrung your hands through\r\nevery debate about ladders and\r\nstepladders",
+      "fr": "Décernée pour avoir écouté toutes\r\nles discussions d'échelle"
+    },
+    {
+      "id": "048",
+      "en": "For having successfully presented\r\nevidence during the first cross-\r\nexamination that occurs in both The\r\nGreat Ace Attorney: Adventures and\r\nThe Great Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir correctement\r\nprésenté une preuve pour\r\nla première fois\r\n(Affaire 1-1 ou 2-1)"
+    },
+    {
+      "id": "049",
+      "en": "For having successfully pressed\r\na witness during the first cross-\r\nexamination in both The Great\r\nAce Attorney: Adventures and\r\nThe Great Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir attaqué\r\nun témoignage pour la première fois\r\n(Affaire 1-1 ou 2-1)"
+    },
+    {
+      "id": "050",
+      "en": "For having read every new idea on\r\nIris's blackboard",
+      "fr": "Décernée pour avoir lu toutes\r\nles notes d'Iris sur le tableau\r\nnoir"
+    },
+    {
+      "id": "051",
+      "en": "For having thoroughly examined the\r\nmedical report card, inside and out, in\r\nEpisode 1 of The Great Ace Attorney:\r\nAdventures",
+      "fr": "Décernée pour avoir inspecté\r\nle dossier médical sous toutes\r\nses facettes\r\n(Aventures - 1re affaire)"
+    },
+    {
+      "id": "052",
+      "en": "For having examined the bed\r\nin Episode 2 of The Great Ace\r\nAttorney: Adventures",
+      "fr": "Décernée pour avoir inspecté le lit\r\n(Aventures - 2e affaire)"
+    },
+    {
+      "id": "053",
+      "en": "For having identified the milliner\r\nresponsible for the victim's hat in\r\nEpisode 3 of The Great Ace Attorney:\r\nAdventures",
+      "fr": "Décernée pour avoir découvert\r\nle fabricant du chapeau de la\r\nvictime\r\n(Aventures - 3e affaire)"
+    },
+    {
+      "id": "054",
+      "en": "For having examined the violin before\r\ntalking with Iris about the ‘Wilson’\r\ntopic in Episode 4 of The Great Ace\r\nAttorney: Adventures",
+      "fr": "Décernée pour avoir inspecté\r\nle violon avant de parler de\r\nWatson avec Iris\r\n(Aventures - 4e affaire)"
+    },
+    {
+      "id": "055",
+      "en": "For having examined the fireplace\r\nin Mr Sholmes's suite whilst with\r\nSusato in Episode 5 of The Great\r\nAce Attorney: Adventures",
+      "fr": "Décernée pour avoir inspecté\r\nla cheminée de la chambre\r\nde Holmes\r\n(Aventures - 5e affaire)"
+    },
+    {
+      "id": "056",
+      "en": "For having pursued Nash and Ringo\r\nwhen no thought bubble was shown\r\nto hear their memories of Big Bruv\r\nSulky in Episode 5 of The Great Ace\r\nAttorney: Adventures",
+      "fr": "Décernée pour avoir confronté\r\nl'un des frères O'Voller alors\r\nqu'aucun phylactère n'était présent\r\n(Aventures - 5e affaire)"
+    },
+    {
+      "id": "057",
+      "en": "For having named Taketsuchi Auchi\r\nand Yujin Mikotoba as the victim in\r\nEpisode 1 of The Great Ace Attorney 2:\r\nResolve",
+      "fr": "Décernée pour avoir désigné\r\nRaté et Amikaru comme victimes\r\n(Détermination - 1er affaire)"
+    },
+    {
+      "id": "058",
+      "en": "For having examined Miss Green's\r\nbottle before it falls from the table\r\nin Episode 2 of The Great Ace\r\nAttorney 2: Resolve",
+      "fr": "Décernée pour avoir inspecté\r\nla bouteille d'Olive avant\r\nqu'elle ne tombe par terre\r\n(Détermination - 2e affaire)"
+    },
+    {
+      "id": "059",
+      "en": "For erroneously answering\r\nMr Sholmes's question about who\r\nmight have something that belonged\r\nto the convict in Episode 2 of The\r\nGreat Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir répondu\r\nincorrectement à la question\r\nde Holmes sur la personne qui\r\npossède un échantillon du\r\nprisonnier\r\n(Détermination - 2e affaire)"
+    },
+    {
+      "id": "060",
+      "en": "For presenting the armband to\r\nLord van Zieks in Episode 3 of\r\nThe Great Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir présenté\r\nvotre brassard à Van Peers\r\n(Détermination - 3e affaire)"
+    },
+    {
+      "id": "061",
+      "en": "For talking with Gina after Ryunosuke\r\nregains consciousness following the\r\nincident with Toby in Episode 4 of\r\nThe Great Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir discuté\r\navec Gina après que Yûno\r\ns'est évanoui\r\n(Détermination - 4e affaire)"
+    },
+    {
+      "id": "062",
+      "en": "For having examined the ‘head’ of\r\nKaruma again after finding the crucial\r\nevidence inside in the Final Chapter\r\nof The Great Ace Attorney 2: Resolve",
+      "fr": "Décernée pour avoir inspecté\r\nla garde de Karuma après en\r\navoir extrait ses secrets\r\n(Détermination - 5e affaire)"
+    },
+    {
+      "id": "063",
+      "en": "? ? ? ? ?",
+      "fr": "?????"
+    },
+    {
+      "id": "064",
+      "en": "Completed Escapade 1",
+      "fr": "1re escapade terminée "
+    },
+    {
+      "id": "065",
+      "en": "Completed Escapade 2",
+      "fr": "2e escapade terminée "
+    },
+    {
+      "id": "066",
+      "en": "Completed Escapade 3",
+      "fr": "3e escapade terminée "
+    },
+    {
+      "id": "067",
+      "en": "Completed Escapade 4",
+      "fr": "4e escapade terminée "
+    },
+    {
+      "id": "068",
+      "en": "Completed Escapade 5",
+      "fr": "5e escapade terminée "
+    },
+    {
+      "id": "069",
+      "en": "Completed Escapade 6",
+      "fr": "6e escapade terminée "
+    },
+    {
+      "id": "070",
+      "en": "Completed Escapade 7",
+      "fr": "7e escapade terminée "
+    },
+    {
+      "id": "071",
+      "en": "Completed Escapade 8",
+      "fr": "8e escapade terminée "
+    },
+    {
+      "id": "072",
+      "en": "Played with Ryunosuke in Iris's homemade suit",
+      "fr": "\"Costume fait main par Iris\" utilisé"
+    },
+    {
+      "id": "073",
+      "en": "Played with Susato in Iris's homemade dress",
+      "fr": "\"Robe fait main par Iris\" utilisé"
+    },
+    {
+      "id": "074",
+      "en": "Played with Sholmes in his Japanese jumble mix",
+      "fr": "\"Accoutrement japonisant spécial de Sherlock\" utilisé"
+    },
+    {
+      "id": "075",
+      "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 5 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "076",
+      "en": "Examined the shovel with Iris in Naruhodo's Legal Consultancy\r\nin Episode 5 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Iris)"
+    },
+    {
+      "id": "077",
+      "en": "Examined the shovel by yourself in Naruhodo's Legal Consultancy\r\nin Episode 2 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Personne)"
+    },
+    {
+      "id": "078",
+      "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans les souvenirs du cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "079",
+      "en": "Examined the shovel with Iris in Naruhodo's Legal Consultancy\r\nin Episode 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Iris)"
+    },
+    {
+      "id": "080",
+      "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "081",
+      "en": "Examined the shovel with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "082",
+      "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 4 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 4e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "083",
+      "en": "Examined the ladder with Iris in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Iris)"
+    },
+    {
+      "id": "084",
+      "en": "Examined the ladder with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "085",
+      "en": "Examined the blackboard in Sholmes's suite with Susato and Iris\r\nin Episode 4 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris, Amimo)"
+    },
+    {
+      "id": "086",
+      "en": "Examined the blackboard in Sholmes's suite with Susato and Iris having heard\r\nthe ‘Wilson’ topic in Episode 4 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir après avoir parlé de Watson\r\n(Partenaire : Iris, Amimo)"
+    },
+    {
+      "id": "087",
+      "en": "Examined the blackboard in Sholmes's suite with Susato on the first day\r\nin Episode 5 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes lors du 1er jour\r\n(Partenaire : Iris, Amimo)"
+    },
+    {
+      "id": "088",
+      "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episode 5 of The Great Ace Attorney: Adventures",
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
+    },
+    {
+      "id": "089",
+      "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episodes 2 or 3 of The Great Ace Attorney 2: Resolve",
+      "fr": "Aventures - 2e ou 3e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
+    },
+    {
+      "id": "090",
+      "en": "Examined the blackboard in Sholmes's suite with Susato and Iris during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir dans les souvenirs de chez Holmes\r\n(Partenaire : Iris, Amimo)"
+    },
+    {
+      "id": "091",
+      "en": "Examined the blackboard in Sholmes's suite with Susato in Episode 3, 4,\r\nor the Final Chapter of The Great Ace Attorney 2: Resolve",
+      "fr": "Aventures - 3, 4 ou 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Amimo)"
+    },
+    {
+      "id": "092",
+      "en": "Awarded!",
+      "fr": "Succès !"
+    }
+  ]
+}

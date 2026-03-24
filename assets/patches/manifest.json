@@ -1,0 +1,598 @@
+{
+  "nativeDX11x64/archive/font_eng.arc": {
+    "hash": "546dfc0c",
+    "bsdiff_size": 2022748
+  },
+  "nativeDX11x64/archive/logo.arc": {
+    "hash": "c87fc213",
+    "bsdiff_size": 34919
+  },
+  "nativeDX11x64/archive/msg_cmn_eng.arc": {
+    "hash": "936d73c3",
+    "bsdiff_size": 3623
+  },
+  "nativeDX11x64/archive/msg_sys_eng.arc": {
+    "hash": "58b7dd9e",
+    "bsdiff_size": 16293
+  },
+  "nativeDX11x64/archive/special_cmn_eng.arc": {
+    "hash": "e89cba25",
+    "bsdiff_size": 2092912
+  },
+  "nativeDX11x64/archive/title_launcher_eng.arc": {
+    "hash": "dd797113",
+    "bsdiff_size": 827
+  },
+  "nativeDX11x64/archive/title_select_eng.arc": {
+    "hash": "97322646",
+    "bsdiff_size": 259
+  },
+  "nativeDX11x64/archive/UI_cmn_eng.arc": {
+    "hash": "3ecc4b3d",
+    "bsdiff_size": 3357570
+  },
+  "nativeDX11x64/archive/UI_sys_eng.arc": {
+    "hash": "d9a27d45",
+    "bsdiff_size": 49375
+  },
+  "nativeDX11x64/msgCommon/saveload_eng.gmd": {
+    "hash": "f26bc9c6",
+    "bsdiff_size": 245
+  },
+  "nativeDX11x64/msgCommon/title_slot_eng.gmd": {
+    "hash": "f95b47b5",
+    "bsdiff_size": 619
+  },
+  "nativeDX11x64/UI/5_guide/50_tutorial_BB/tex/guide_sce3_bb_BM_NOMIP_eng.tex": {
+    "hash": "3bb30ac9",
+    "bsdiff_size": 527540
+  },
+  "nativeDX11x64/UI/5_guide/50_tutorial_BB/tex/guide_sce_bb_BM_NOMIP_eng.tex": {
+    "hash": "00d43de8",
+    "bsdiff_size": 3014380
+  },
+  "nativeDX11x64/UI/5_guide/50_tutorial/tex/guide_sce_BM_NOMIP_eng.tex": {
+    "hash": "e9eaa257",
+    "bsdiff_size": 7767856
+  },
+  "nativeDX11x64/UI/4_menu/43_extra/tex/extra00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "933bfda8",
+    "bsdiff_size": 189287
+  },
+  "nativeDX11x64/UI/4_menu/40_title/tex/title_2_BM_NOMIP_HQ_eng.tex": {
+    "hash": "1e5b856f",
+    "bsdiff_size": 171015
+  },
+  "nativeDX11x64/UI/3_mg/30_together_BB/tex/together_topic03_BM_NOMIP_eng.tex": {
+    "hash": "0341489c",
+    "bsdiff_size": 398316
+  },
+  "nativeDX11x64/UI/3_mg/30_together/tex/together_topic02_BM_NOMIP_eng.tex": {
+    "hash": "972a8b9f",
+    "bsdiff_size": 653968
+  },
+  "nativeDX11x64/UI/2_doc/24_demo/demo3_00_00.gui": {
+    "hash": "03022992",
+    "bsdiff_size": 193
+  },
+  "nativeDX11x64/UI/2_doc/24_demo_BB/tex/demo0_01_00_BM_NOMIP_HQ.tex": {
+    "hash": "f489ca90",
+    "bsdiff_size": 929549
+  },
+  "nativeDX11x64/UI/2_doc/24_demo_BB/tex/demo3_01_00_BM_NOMIP_HQ.tex": {
+    "hash": "d3bae8a0",
+    "bsdiff_size": 531167
+  },
+  "nativeDX11x64/UI/2_doc/24_demo/tex/demo3_00_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "c7a80477",
+    "bsdiff_size": 469064
+  },
+  "nativeDX11x64/UI/2_doc/24_demo/tex/demo3_01_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "e9796e8e",
+    "bsdiff_size": 400135
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT1_07_01_big_BM_NOMIP_HQ.tex": {
+    "hash": "e54c651a",
+    "bsdiff_size": 1887772
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT1_07_01_BM_NOMIP_HQ.tex": {
+    "hash": "506db4be",
+    "bsdiff_size": 490946
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT1_12_01_big_BM_NOMIP_HQ.tex": {
+    "hash": "1ef3b4ba",
+    "bsdiff_size": 2811743
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT1_12_01_BM_NOMIP_HQ.tex": {
+    "hash": "914bcdbc",
+    "bsdiff_size": 937997
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT2_17_01_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "5766b9ab",
+    "bsdiff_size": 3483036
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT2_17_01_BM_NOMIP_HQ_eng.tex": {
+    "hash": "b36b0338",
+    "bsdiff_size": 937816
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT3_01_01_BM_NOMIP_HQ_eng.tex": {
+    "hash": "2d990c04",
+    "bsdiff_size": 1182513
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT3_11_01_BM_NOMIP_HQ_eng.tex": {
+    "hash": "7b915328",
+    "bsdiff_size": 707241
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT3_14_01_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "38659ed7",
+    "bsdiff_size": 3345477
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT3_14_01_BM_NOMIP_HQ_eng.tex": {
+    "hash": "3942a4a7",
+    "bsdiff_size": 747216
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT4_02_01_big_BM_NOMIP_HQ.tex": {
+    "hash": "3265dd88",
+    "bsdiff_size": 3727947
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut_BB/tex/EVENT4_02_01_BM_NOMIP_HQ.tex": {
+    "hash": "b32082ae",
+    "bsdiff_size": 902164
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT1_04_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "e5534003",
+    "bsdiff_size": 1171998
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT1_10_00_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "901094bb",
+    "bsdiff_size": 631374
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT1_10_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "b91c3c3d",
+    "bsdiff_size": 274255
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_03_00_big_BM_NOMIP_HQ.tex": {
+    "hash": "cd4d670a",
+    "bsdiff_size": 5036639
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_03_00_BM_NOMIP_HQ.tex": {
+    "hash": "28f6175a",
+    "bsdiff_size": 1370836
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_00_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "aae9e2cc",
+    "bsdiff_size": 3452740
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "7083d196",
+    "bsdiff_size": 1054576
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_10_BM_NOMIP_HQ_eng.tex": {
+    "hash": "eedbef33",
+    "bsdiff_size": 1059975
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_15_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "c418a7d4",
+    "bsdiff_size": 3713641
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_15_BM_NOMIP_HQ_eng.tex": {
+    "hash": "c3beff2d",
+    "bsdiff_size": 1060282
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_20_big_BM_NOMIP_HQ_eng.tex": {
+    "hash": "30632b58",
+    "bsdiff_size": 3720693
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT3_06_20_BM_NOMIP_HQ_eng.tex": {
+    "hash": "eae76744",
+    "bsdiff_size": 1062596
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT5_06_20_BM_NOMIP_HQ_eng.tex": {
+    "hash": "4507749e",
+    "bsdiff_size": 241967
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT5_09_30_BM_NOMIP_HQ_eng.tex": {
+    "hash": "849b0dea",
+    "bsdiff_size": 247049
+  },
+  "nativeDX11x64/UI/2_doc/22_evtcut/tex/EVENT5_41_00_BM_NOMIP_HQ_eng.tex": {
+    "hash": "4b578c37",
+    "bsdiff_size": 30739
+  },
+  "nativeDX11x64/UI/2_doc/20_evi_BB/tex/item1_05_01_BM_NOMIP_eng.tex": {
+    "hash": "d4de0638",
+    "bsdiff_size": 10275
+  },
+  "nativeDX11x64/UI/2_doc/20_evi_BB/tex/item1_11_01_BM_NOMIP.tex": {
+    "hash": "c615d9a5",
+    "bsdiff_size": 8564
+  },
+  "nativeDX11x64/UI/2_doc/20_evi_BB/tex/item3_01_01_BM_NOMIP.tex": {
+    "hash": "c1481168",
+    "bsdiff_size": 10123
+  },
+  "nativeDX11x64/UI/2_doc/20_evi_BB/tex/item3_07_01_BM_NOMIP_eng.tex": {
+    "hash": "97800122",
+    "bsdiff_size": 8021
+  },
+  "nativeDX11x64/UI/2_doc/20_evi_BB/tex/item3_30_01_BM_NOMIP_eng.tex": {
+    "hash": "87bf4cc1",
+    "bsdiff_size": 6455
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item0_04_10_BM_NOMIP.tex": {
+    "hash": "e46b1916",
+    "bsdiff_size": 5905
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item2_06_00_BM_NOMIP.tex": {
+    "hash": "5f0cc222",
+    "bsdiff_size": 7031
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item3_11_00_BM_NOMIP.tex": {
+    "hash": "98b313c3",
+    "bsdiff_size": 8827
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item5_05_00_BM_NOMIP_eng.tex": {
+    "hash": "3a2467af",
+    "bsdiff_size": 7062
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item5_06_00_BM_NOMIP_eng.tex": {
+    "hash": "209ba9ff",
+    "bsdiff_size": 7887
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item5_07_00_BM_NOMIP_eng.tex": {
+    "hash": "cb311a06",
+    "bsdiff_size": 5484
+  },
+  "nativeDX11x64/UI/2_doc/20_evi/tex/item5_16_00_BM_NOMIP_eng.tex": {
+    "hash": "7058e434",
+    "bsdiff_size": 6054
+  },
+  "nativeDX11x64/UI/0_system/00_font/font02_03_ID_HQ.tex": {
+    "hash": "52356f77",
+    "bsdiff_size": 98246
+  },
+  "nativeDX11x64/UI/0_system/00_font/tex/button_pc_00_ID_HQ.tex": {
+    "hash": "edb96e75",
+    "bsdiff_size": 17779
+  },
+  "nativeDX11x64/UI/0_system/00_font/tex/button_pc_01_ID_HQ.tex": {
+    "hash": "0959407e",
+    "bsdiff_size": 3020
+  },
+  "nativeDX11x64/sound/stream/voice/go_nrt_voice_eng.stqr": {
+    "hash": "e1bb4753",
+    "bsdiff_size": 720
+  },
+  "nativeDX11x64/sound/stream/anime/wav/go_anime_1a_VOICE_eng.sngw": {
+    "hash": "ef46c006",
+    "bsdiff_size": 906357
+  },
+  "nativeDX11x64/sound/stream/anime/wav/go_anime_2a_VOICE_eng.sngw": {
+    "hash": "b5b8d907",
+    "bsdiff_size": 1289188
+  },
+  "nativeDX11x64/sound/stream/anime/wav/go_anime_3_VOICE_eng.sngw": {
+    "hash": "c383e1f4",
+    "bsdiff_size": 350233
+  },
+  "nativeDX11x64/sound/stream/anime/wav/go_anime_ed_VOICE_eng.sngw": {
+    "hash": "4360ea11",
+    "bsdiff_size": 1222965
+  },
+  "nativeDX11x64/sound/se/go_se_chr000/go_se_chr000_jpn.sbkr": {
+    "hash": "ee091ddc",
+    "bsdiff_size": 224
+  },
+  "nativeDX11x64/sound/se/go_se_chr000/go_se_chr000_jpn.srqr": {
+    "hash": "a89c9b55",
+    "bsdiff_size": 200
+  },
+  "nativeDX11x64/sound/se/go_se_chr303/wav/chr303_ncl_v_matta_eng.xsew": {
+    "hash": "6ab8a339",
+    "bsdiff_size": 19420
+  },
+  "nativeDX11x64/sound/se/go_se_chr201/wav/chr201_jzl_v_matta_jpn.xsew": {
+    "hash": "0aa514a8",
+    "bsdiff_size": 16510
+  },
+  "nativeDX11x64/sound/se/go_se_chr201/wav/chr201_jzl_v_shout_up_jpn.xsew": {
+    "hash": "e1761525",
+    "bsdiff_size": 19876
+  },
+  "nativeDX11x64/GO/msg/blood_sample_eng.gmd": {
+    "hash": "0dd2b4eb",
+    "bsdiff_size": 370
+  },
+  "nativeDX11x64/GO/msg/eventCutSubtitles_eng.gmd": {
+    "hash": "277cecf2",
+    "bsdiff_size": 187
+  },
+  "nativeDX11x64/GO/msg/explain_content_eng.gmd": {
+    "hash": "adb24ff8",
+    "bsdiff_size": 2079
+  },
+  "nativeDX11x64/GO/msg/explain_support_eng.gmd": {
+    "hash": "3ae3994f",
+    "bsdiff_size": 2168
+  },
+  "nativeDX11x64/GO/msg/explain_title_eng.gmd": {
+    "hash": "87e36993",
+    "bsdiff_size": 560
+  },
+  "nativeDX11x64/GO/msg/item0_03_00_subtitles_eng.gmd": {
+    "hash": "e8771228",
+    "bsdiff_size": 350
+  },
+  "nativeDX11x64/GO/msg/item0_04_00_subtitles_eng.gmd": {
+    "hash": "aacf3e1b",
+    "bsdiff_size": 259
+  },
+  "nativeDX11x64/GO/msg/item0_14_00_subtitles_eng.gmd": {
+    "hash": "556628b3",
+    "bsdiff_size": 176
+  },
+  "nativeDX11x64/GO/msg/item1_10_00_subtitles_eng.gmd": {
+    "hash": "6d45dbe9",
+    "bsdiff_size": 196
+  },
+  "nativeDX11x64/GO/msg/item1_12_00_subtitles_eng.gmd": {
+    "hash": "18c67b25",
+    "bsdiff_size": 183
+  },
+  "nativeDX11x64/GO/msg/movie_subtitle_eng.gmd": {
+    "hash": "08c26377",
+    "bsdiff_size": 2465
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_evidence_name_eng.gmd": {
+    "hash": "c2bbe45e",
+    "bsdiff_size": 407
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_sce01_eng.gmd": {
+    "hash": "edd23708",
+    "bsdiff_size": 447
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_sce03_eng.gmd": {
+    "hash": "dae8067e",
+    "bsdiff_size": 395
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_sce04_eng.gmd": {
+    "hash": "da2b80b5",
+    "bsdiff_size": 353
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_topic_label_eng.gmd": {
+    "hash": "7a1ea373",
+    "bsdiff_size": 179
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_topic_message_eng.gmd": {
+    "hash": "e337e51a",
+    "bsdiff_size": 502
+  },
+  "nativeDX11x64/GO/msg/pair_reasoning_topic_title_eng.gmd": {
+    "hash": "7c23e46e",
+    "bsdiff_size": 288
+  },
+  "nativeDX11x64/GO/script/output/_macro00_eng.gmd": {
+    "hash": "b69327d1",
+    "bsdiff_size": 6484
+  },
+  "nativeDX11x64/GO/script/output/_macro01_eng.gmd": {
+    "hash": "b1655060",
+    "bsdiff_size": 367
+  },
+  "nativeDX11x64/GO/script/output/_macro02_eng.gmd": {
+    "hash": "97c30bb5",
+    "bsdiff_size": 6562
+  },
+  "nativeDX11x64/GO/script/output/_macro03_eng.gmd": {
+    "hash": "8dee743a",
+    "bsdiff_size": 6541
+  },
+  "nativeDX11x64/GO/script/output/_macro04_eng.gmd": {
+    "hash": "16366143",
+    "bsdiff_size": 8627
+  },
+  "nativeDX11x64/GO/script/output/_sce00_pair_eng.gmd": {
+    "hash": "eec021d1",
+    "bsdiff_size": 2356
+  },
+  "nativeDX11x64/GO/script/output/_sce00_system_eng.gmd": {
+    "hash": "1998abb3",
+    "bsdiff_size": 588
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c001_0000_eng.gmd": {
+    "hash": "cd3a13c9",
+    "bsdiff_size": 8299
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c002_0000_eng.gmd": {
+    "hash": "1b53aacc",
+    "bsdiff_size": 10425
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c003_0000_eng.gmd": {
+    "hash": "bb6252a5",
+    "bsdiff_size": 8621
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c004_0000_eng.gmd": {
+    "hash": "34909875",
+    "bsdiff_size": 9769
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c005_0000_eng.gmd": {
+    "hash": "4860fcc7",
+    "bsdiff_size": 9985
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c006_0000_eng.gmd": {
+    "hash": "6ca66e24",
+    "bsdiff_size": 11506
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c007_0000_eng.gmd": {
+    "hash": "1ec33920",
+    "bsdiff_size": 10730
+  },
+  "nativeDX11x64/GO/script/output/_sce07_c008_0000_eng.gmd": {
+    "hash": "6e7d1ce5",
+    "bsdiff_size": 10384
+  },
+  "nativeDX11x64/BB/scene/lock/dial_0_BM_NOMIP.tex": {
+    "hash": "4596d61e",
+    "bsdiff_size": 136255
+  },
+  "nativeDX11x64/archive/BB/evi3d_1_02_01_eng.arc": {
+    "hash": "d54193c2",
+    "bsdiff_size": 664475
+  },
+  "nativeDX11x64/archive/BB/evi3d_1_04_01_eng.arc": {
+    "hash": "c837dcaf",
+    "bsdiff_size": 382280
+  },
+  "nativeDX11x64/archive/BB/evi3d_3_01_01_eng.arc": {
+    "hash": "0352386e",
+    "bsdiff_size": 235949
+  },
+  "nativeDX11x64/archive/BB/place0217_eng.arc": {
+    "hash": "97076cbd",
+    "bsdiff_size": 956683
+  },
+  "nativeDX11x64/archive/BB/UI_credit_f_eng.arc": {
+    "hash": "6816eadc",
+    "bsdiff_size": 1995190
+  },
+  "nativeDX11x64/archive/BB/UI_credit_s_eng.arc": {
+    "hash": "a20d4738",
+    "bsdiff_size": 1011356
+  },
+  "nativeDX11x64/archive/BB/UI_opdemo00_eng.arc": {
+    "hash": "a60659d6",
+    "bsdiff_size": 2979473
+  },
+  "nativeDX11x64/archive/BB/UI_opdemo01_eng.arc": {
+    "hash": "0d0ab93d",
+    "bsdiff_size": 4721585
+  },
+  "nativeDX11x64/archive/BB/UI_opdemo02_eng.arc": {
+    "hash": "61e32179",
+    "bsdiff_size": 4351680
+  },
+  "nativeDX11x64/archive/BB/UI_opdemo03_eng.arc": {
+    "hash": "169ea950",
+    "bsdiff_size": 2495409
+  },
+  "nativeDX11x64/archive/BB/UI_opdemo04_eng.arc": {
+    "hash": "22c95dbf",
+    "bsdiff_size": 69883
+  },
+  "nativeDX11x64/archive/BB/UI_title_eng.arc": {
+    "hash": "6d066384",
+    "bsdiff_size": 304800
+  },
+  "nativeDX11x64/archive/common/title_select_eng.arc": {
+    "hash": "ab729095",
+    "bsdiff_size": 33848866
+  },
+  "nativeDX11x64/archive/GO/chr100_eng.arc": {
+    "hash": "698caf55",
+    "bsdiff_size": 217
+  },
+  "nativeDX11x64/archive/GO/chr200_eng.arc": {
+    "hash": "8cfd6e0b",
+    "bsdiff_size": 113575
+  },
+  "nativeDX11x64/archive/GO/chr202_eng.arc": {
+    "hash": "b40b9ffd",
+    "bsdiff_size": 220
+  },
+  "nativeDX11x64/archive/GO/chr219_eng.arc": {
+    "hash": "d4cf76f6",
+    "bsdiff_size": 241714
+  },
+  "nativeDX11x64/archive/GO/chr220_eng.arc": {
+    "hash": "6bd2bcdc",
+    "bsdiff_size": 241730
+  },
+  "nativeDX11x64/archive/GO/chr302_eng.arc": {
+    "hash": "9e16f280",
+    "bsdiff_size": 523
+  },
+  "nativeDX11x64/archive/GO/evi3d_0_03_00_eng.arc": {
+    "hash": "8e7cf56d",
+    "bsdiff_size": 17869
+  },
+  "nativeDX11x64/archive/GO/evi3d_0_03_10_eng.arc": {
+    "hash": "e8384568",
+    "bsdiff_size": 49961
+  },
+  "nativeDX11x64/archive/GO/evi3d_0_04_00.arc": {
+    "hash": "bb3b0986",
+    "bsdiff_size": 250344
+  },
+  "nativeDX11x64/archive/GO/evi3d_1_03_00_eng.arc": {
+    "hash": "ba0839cd",
+    "bsdiff_size": 227260
+  },
+  "nativeDX11x64/archive/GO/evi3d_1_10_00.arc": {
+    "hash": "fa73ff8d",
+    "bsdiff_size": 213894
+  },
+  "nativeDX11x64/archive/GO/evi3d_2_04_00.arc": {
+    "hash": "ff16a12b",
+    "bsdiff_size": 236608
+  },
+  "nativeDX11x64/archive/GO/evi3d_3_11_00.arc": {
+    "hash": "6a534211",
+    "bsdiff_size": 193352
+  },
+  "nativeDX11x64/archive/GO/evi3d_3_17_00_eng.arc": {
+    "hash": "72559254",
+    "bsdiff_size": 92620
+  },
+  "nativeDX11x64/archive/GO/evi3d_5_06_10_eng.arc": {
+    "hash": "c640a0cd",
+    "bsdiff_size": 320669
+  },
+  "nativeDX11x64/archive/GO/evi3d_5_16_00_eng.arc": {
+    "hash": "1817b7dc",
+    "bsdiff_size": 182670
+  },
+  "nativeDX11x64/archive/GO/evi3d_5_34_00_eng.arc": {
+    "hash": "0d3aa55d",
+    "bsdiff_size": 621618
+  },
+  "nativeDX11x64/archive/GO/msg_title_eng.arc": {
+    "hash": "46b87b61",
+    "bsdiff_size": 41914
+  },
+  "nativeDX11x64/archive/GO/snd_script_eng.arc": {
+    "hash": "5967faa4",
+    "bsdiff_size": 1222
+  },
+  "nativeDX11x64/archive/GO/table.arc": {
+    "hash": "a2fe2a2d",
+    "bsdiff_size": 1788
+  },
+  "nativeDX11x64/archive/GO/UI_credit_f_eng.arc": {
+    "hash": "7ff35875",
+    "bsdiff_size": 1842094
+  },
+  "nativeDX11x64/archive/GO/UI_credit_s_eng.arc": {
+    "hash": "32f88fe0",
+    "bsdiff_size": 1371367
+  },
+  "nativeDX11x64/archive/GO/UI_opdemo00_eng.arc": {
+    "hash": "2a5dc920",
+    "bsdiff_size": 3464130
+  },
+  "nativeDX11x64/archive/GO/UI_opdemo01_eng.arc": {
+    "hash": "456e1d59",
+    "bsdiff_size": 1941596
+  },
+  "nativeDX11x64/archive/GO/UI_opdemo02_eng.arc": {
+    "hash": "50029f9d",
+    "bsdiff_size": 3552594
+  },
+  "nativeDX11x64/archive/GO/UI_opdemo03_eng.arc": {
+    "hash": "61821645",
+    "bsdiff_size": 3440344
+  },
+  "nativeDX11x64/archive/GO/UI_opdemo05_eng.arc": {
+    "hash": "853f9580",
+    "bsdiff_size": 4662670
+  }
+}

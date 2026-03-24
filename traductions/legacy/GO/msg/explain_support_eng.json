@@ -1,0 +1,344 @@
+{
+  "explain_support_eng": [
+    {
+      "id": "001",
+      "en": "I feel we need to spend a little more\r\ntime investigating here.",
+      "fr": "Je pense que nous ferions mieux d'examiner\r\nplus attentivement cette zone."
+    },
+    {
+      "id": "002",
+      "en": "Are you sure we've asked everything we\r\nneed to, Mr Naruhodo?",
+      "fr": "N'auriez-vous pas oublié de poser quelques\r\nquestions avant de partir, M. Nick ?"
+    },
+    {
+      "id": "003",
+      "en": "We haven't visited this place in a while,\r\nhave we?",
+      "fr": "Maintenant qu'on en parle... Ça fait un bail\r\nque nous ne sommes pas allés là, hein ?"
+    },
+    {
+      "id": "004",
+      "en": "We still haven't been here yet.\r\nI wonder what awaits us.",
+      "fr": "Nous ne sommes pas encore allés là.\r\nJ'ai hâte que nous nous y rendions !"
+    },
+    {
+      "id": "005",
+      "en": "We haven't been to this place in a while,\r\nhave we?",
+      "fr": "Maintenant qu'on en parle... Ça fait un bail\r\nque nous ne sommes pas allés là, hein ?"
+    },
+    {
+      "id": "006",
+      "en": "We could linger here a little longer,\r\nI think?",
+      "fr": "En ce qui me concerne, j'aimerais examiner\r\nces lieux encore un peu plutôt que de partir..."
+    },
+    {
+      "id": "007",
+      "en": "If you let your concentration slip, you\r\nmight miss what people say!",
+      "fr": "Sois bien attentif, sinon tu risques d'oublier\r\nde poser des questions importantes !"
+    },
+    {
+      "id": "008",
+      "en": "You know...I think a visit to this place\r\ncould be a good idea!",
+      "fr": "Ah, maintenant qu'on en parle... J'avais\r\neffectivement envie d'aller là-bas."
+    },
+    {
+      "id": "009",
+      "en": "You haven't been to this place yet. Don't\r\nforget to take me with you when you go!",
+      "fr": "On n'est pas encore allés là-bas.\r\nN'oublie pas de me faire signe, OK ?"
+    },
+    {
+      "id": "010",
+      "en": "Kazuma-sama's quarters...\r\n.........",
+      "fr": "C'est... la chambre de Kiyô...\r\n.............................."
+    },
+    {
+      "id": "011",
+      "en": "First and foremost we must get out of\r\nthis cabin.",
+      "fr": "Commençons d'abord par quitter\r\nla cabine, ce sera un bon début."
+    },
+    {
+      "id": "012",
+      "en": "Kazuma-sama's quarters...\r\n.........",
+      "fr": "C'est... la chambre de Kiyô...\r\n.............................."
+    },
+    {
+      "id": "013",
+      "en": "Kazuma-sama's quarters...\r\n.........",
+      "fr": "C'est... la chambre de Kiyô...\r\n.............................."
+    },
+    {
+      "id": "014",
+      "en": "I think perhaps we should have a slightly\r\nmore thorough look around.",
+      "fr": "Je pense que nous ferions mieux d'examiner\r\nplus attentivement cette zone."
+    },
+    {
+      "id": "015",
+      "en": "Kazuma-sama's quarters...\r\n.........",
+      "fr": "C'est... la chambre de Kiyô...\r\n.............................."
+    },
+    {
+      "id": "016",
+      "en": "The passageway adjoining the first-class cabins\r\nis first class as well, it seems!",
+      "fr": "Dans cette zone des cabines de première\r\nclasse, c'est un couloir de première classe."
+    },
+    {
+      "id": "017",
+      "en": "I forget... What was the situation here\r\nexactly?",
+      "fr": "Puisqu'on en parle... qu'est-ce qu'il\r\nse passe ici, exactement ?"
+    },
+    {
+      "id": "018",
+      "en": "We shall never be able to enter the other\r\ncabin with Seaman Strogenov in the way...",
+      "fr": "Vu que M. Stroganov se tient là,\r\ninutile d'espérer entrer dans la cabine..."
+    },
+    {
+      "id": "019",
+      "en": "Kazuma-sama's quarters...\r\n.........",
+      "fr": "C'est... la chambre de Kiyô...\r\n.............................."
+    },
+    {
+      "id": "020",
+      "en": "I would never have believed that the Russian\r\ngentleman was actually a beautiful ballerina...",
+      "fr": "Qui aurait imaginé que cet homme russe\r\nétait une jeune et belle danseuse de ballet ?"
+    },
+    {
+      "id": "021",
+      "en": "I think perhaps we should investigate some\r\nmore in this area.",
+      "fr": "Je pense que nous ferions mieux d'examiner\r\nplus attentivement cette zone."
+    },
+    {
+      "id": "022",
+      "en": "The passageway adjoining the first-class cabins\r\nis first class as well, it seems!",
+      "fr": "Dans cette zone des cabines de première\r\nclasse, c'est un couloir de première classe."
+    },
+    {
+      "id": "023",
+      "en": "I somehow doubt we shall be able to leave here.",
+      "fr": "Quoi qu'il en soit, quitter les lieux\r\nsemble s'annoncer difficile..."
+    },
+    {
+      "id": "024",
+      "en": "This oppressive air...\r\nIt's really quite stifling.",
+      "fr": "Je dois avouer que son atmosphère\r\npesante... me submerge quelque peu."
+    },
+    {
+      "id": "025",
+      "en": "If we hurry and catch a cab, we may just\r\nmake it to the courthouse on time!",
+      "fr": "Si on obtient une diligence sur-le-champ,\r\non pourrait arriver à temps au procès !"
+    },
+    {
+      "id": "026",
+      "en": "The police are investigating even in this\r\nbiting cold.",
+      "fr": "Malgré le froid et le vent glacial,\r\nles policiers poursuivent leur enquête."
+    },
+    {
+      "id": "027",
+      "en": "I always feel on edge here. But there are so\r\nmany interesting books I wish I could borrow.",
+      "fr": "À chaque venue, je me sens nerveuse, mais il y\r\na de nombreux livres que j'aimerais emprunter."
+    },
+    {
+      "id": "028",
+      "en": "Can we really visit, do you think?\r\nOh, pinch me! I'm sure I must be dreaming!",
+      "fr": "J'ai vraiment toujours voulu venir ici !\r\nAh, c'est vraiment comme un rêve !"
+    },
+    {
+      "id": "029",
+      "en": "Visiting a cold, dark jail brings home the\r\nreality of crime and punishment.",
+      "fr": "Visiter ce pénitencier lugubre rend\r\npalpables les horribles crimes commis."
+    },
+    {
+      "id": "030",
+      "en": "The workplace of the world's greatest detective!\r\nOh, it's a dream come true!",
+      "fr": "Les bureaux du détective le plus célèbre du\r\nmonde. Aaah... c'est vivre un rêve éveillé !"
+    },
+    {
+      "id": "031",
+      "en": "Even when they're a little worse for wear,\r\nEnglish rooms are so splendidly colourful.",
+      "fr": "Ils semblent certes désuets, mais les bâtiments\r\nà l'anglaise et leurs pièces ont leur charme."
+    },
+    {
+      "id": "032",
+      "en": "I rather enjoy the smell of books, but it's\r\noverwhelming here.",
+      "fr": "J'adore l'odeur des livres mais pourtant, ici,\r\nc'est trop à supporter, même pour moi."
+    },
+    {
+      "id": "033",
+      "en": "When you're ready, let's go downstairs for\r\nbreakfast.",
+      "fr": "Si tu as besoin d'un remontant,\r\nle petit déjeuner sera prêt sous peu."
+    },
+    {
+      "id": "034",
+      "en": "With the furniture we've moved in recently, this\r\nplace is starting to feel like a real office.",
+      "fr": "Récemment, grâce à l'ajout de meubles, ça\r\ndonne enfin l'impression d'être un \"cabinet\"."
+    },
+    {
+      "id": "035",
+      "en": "With the furniture we've moved in recently, this\r\nplace is starting to feel like a real office.",
+      "fr": "Récemment, grâce à l'ajout de meubles, ça\r\ndonne enfin l'impression d'être un \"cabinet\"."
+    },
+    {
+      "id": "036",
+      "en": "With the furniture we've moved in recently, this\r\nplace is starting to feel like a real office.",
+      "fr": "Récemment, grâce à l'ajout de meubles, ça\r\ndonne enfin l'impression d'être un \"cabinet\"."
+    },
+    {
+      "id": "037",
+      "en": "What a bustling place! Oh, London is such a\r\nfantastic city!",
+      "fr": "La circulation est effarante ! On n'en attend\r\npas moins d'une grande capitale !"
+    },
+    {
+      "id": "038",
+      "en": "The workplace of the world's greatest detective!\r\nOh, it's a dream come true!",
+      "fr": "Les bureaux du détective le plus célèbre du\r\nmonde. Aaah... c'est vivre un rêve éveillé !"
+    },
+    {
+      "id": "039",
+      "en": "A British pawnbroker's shop...\r\nHow fascinating!",
+      "fr": "Un prêteur sur gages de l'Empire Britannique ?\r\nC'est vraiment fascinant."
+    },
+    {
+      "id": "040",
+      "en": "With the furniture we've moved in recently, this\r\nplace is starting to feel like a real office.",
+      "fr": "Récemment, grâce à l'ajout de meubles, ça\r\ndonne enfin l'impression d'être un \"cabinet\"."
+    },
+    {
+      "id": "041",
+      "en": "What a bustling place! Oh, London is such a\r\nfantastic city!",
+      "fr": "La circulation est effarante ! On n'en attend\r\npas moins d'une grande capitale !"
+    },
+    {
+      "id": "042",
+      "en": "Are you sure we've asked everything we\r\nneed to, Mr Naruhodo?",
+      "fr": "N'auriez-vous pas oublié de poser quelques\r\nquestions avant de partir, M. Nick ?"
+    },
+    {
+      "id": "043",
+      "en": "I feel we need to spend a little more\r\ntime investigating here.",
+      "fr": "Je pense que nous ferions mieux d'examiner\r\nplus attentivement cette zone."
+    },
+    {
+      "id": "044",
+      "en": "The workplace of the world's greatest detective!\r\nOh, it's a dream come true!",
+      "fr": "Les bureaux du détective le plus célèbre du\r\nmonde. Aaah... c'est vivre un rêve éveillé !"
+    },
+    {
+      "id": "045",
+      "en": "Well, we were asked earlier to show our faces\r\nhere, so...",
+      "fr": "Après tout, il nous a bien dit : \"Venez \r\nplus tard si vous en avez l'occasion\"..."
+    },
+    {
+      "id": "046",
+      "en": "Unfortunately, we can't gain access at the\r\nmoment while Scotland Yard are investigating.",
+      "fr": "Malheureusement... nous ne pouvons pas\r\nentrer car Scotland Yard est en pleine enquête."
+    },
+    {
+      "id": "047",
+      "en": "Are you sure we've asked everything we\r\nneed to, Mr Naruhodo?",
+      "fr": "N'auriez-vous pas oublié de poser quelques\r\nquestions avant de partir, M. Nick ?"
+    },
+    {
+      "id": "048",
+      "en": "What a bustling place! Oh, London is such a\r\nfantastic city!",
+      "fr": "La circulation est effarante ! On n'en attend\r\npas moins d'une grande capitale !"
+    },
+    {
+      "id": "049",
+      "en": "With the furniture we've moved in recently, this\r\nplace is starting to feel like a real office.",
+      "fr": "Récemment, grâce à l'ajout de meubles, ça\r\ndonne enfin l'impression d'être un \"cabinet\"."
+    },
+    {
+      "id": "050",
+      "en": "It's rather late now. I think perhaps we\r\noughtn't go out at this hour.",
+      "fr": "C'est l'heure d'aller se coucher. Mieux\r\nvaut ne pas aller se promener maintenant."
+    },
+    {
+      "id": "051",
+      "en": "This place feels different to normal today\r\nfor some reason.",
+      "fr": "J'ai comme l'impression... que cet endroit\r\nest aujourd'hui étrangement différent."
+    },
+    {
+      "id": "052",
+      "en": "I love attic rooms, don't you?\r\nThey're so exciting!",
+      "fr": "Les greniers, ça a un côté hyper\r\nexcitant, tu ne trouves pas ?"
+    },
+    {
+      "id": "053",
+      "en": "Personally, I'd like to tinker around this\r\nplace some more...",
+      "fr": "En ce qui me concerne, j'aimerais examiner\r\nce lieu encore un peu, avant de partir..."
+    },
+    {
+      "id": "054",
+      "en": "It's always a bit quiet when Hurley's not around.",
+      "fr": "Sans mon petit Sherlockinou,\r\nje me sens vraiment seule..."
+    },
+    {
+      "id": "055",
+      "en": "This place feels different to normal today\r\nfor some reason.",
+      "fr": "J'ai comme l'impression... que cet endroit\r\nest aujourd'hui étrangement différent."
+    },
+    {
+      "id": "056",
+      "en": "You haven't forgotten to do something, have\r\nyou, Runo?",
+      "fr": "Mon petit Nick, est-ce que\r\ntu n'oublierais pas un truc ?"
+    },
+    {
+      "id": "057",
+      "en": "Poor Ginny!\r\nWe have to help her!",
+      "fr": "... VITE ! On doit porter secours\r\nà ma petite Gina !"
+    },
+    {
+      "id": "058",
+      "en": "The hospital feels positively ancient.\r\nI hope Hurley's in good hands...",
+      "fr": "Eh ben, cet hôpital a l'air vieux et miteux.\r\nJ'espère que mon Sherlockinou va bien..."
+    },
+    {
+      "id": "059",
+      "en": "I love attic rooms, don't you?\r\nThey're so exciting!",
+      "fr": "Les greniers, ça a un côté hyper\r\nexcitant, tu ne trouves pas ?"
+    },
+    {
+      "id": "060",
+      "en": "This place is so much fun! I'm just itching\r\nto dismantle that huge clock!",
+      "fr": "Ouah, cet endroit est génial ! J'aimerais \r\ntrop démonter cette horloge géante !"
+    },
+    {
+      "id": "061",
+      "en": "Ginny must be feeling very lonely, I imagine.",
+      "fr": "Ma pauvre petite Gina doit se sentir\r\nhyper seule dans sa cellule !"
+    },
+    {
+      "id": "062",
+      "en": "Gregsy and his friends are working hard at\r\ntheir investigation, aren't they?",
+      "fr": "On dirait bien que Gregounet et ses\r\ncollègues se donnent à fond pour l'enquête."
+    },
+    {
+      "id": "063",
+      "en": "Susie's waiting. We need to go and meet her.",
+      "fr": "Ma petite Mimi nous attend, alors\r\nallons vite la rejoindre, hein ?!"
+    },
+    {
+      "id": "064",
+      "en": "Poor Mr Windibank...",
+      "fr": "Le pauvre Gage Pressure..."
+    },
+    {
+      "id": "065",
+      "en": "If we don't hurry, visiting hours will be\r\nover and we won't be able to see Ginny.",
+      "fr": "Il faut vite aller voir ma petite Gina\r\navant la fin des heures de visite !"
+    },
+    {
+      "id": "066",
+      "en": "It's always a bit quiet when Hurley's not around.",
+      "fr": "Sans mon petit Sherlockinou,\r\nje me sens vraiment seule..."
+    },
+    {
+      "id": "067",
+      "en": "It's rather late now. I think perhaps we\r\noughtn't go out at this hour.",
+      "fr": "C'est l'heure d'aller se coucher, mieux\r\nvaut ne pas aller se promener maintenant."
+    },
+    {
+      "id": "068",
+      "en": "It's rather late now. I think perhaps we\r\noughtn't go out at this hour.",
+      "fr": "C'est l'heure d'aller se coucher, mieux\r\nvaut ne pas aller se promener maintenant."
+    }
+  ]
+}

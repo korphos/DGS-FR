@@ -1,0 +1,24 @@
+{
+  "pair_reasoning_topic_label_eng": [
+    {
+      "id": "001",
+      "en": "Topic 1",
+      "fr": "TOPIC1"
+    },
+    {
+      "id": "002",
+      "en": "Topic 2",
+      "fr": "TOPIC2"
+    },
+    {
+      "id": "003",
+      "en": "Topic 3",
+      "fr": "TOPIC3"
+    },
+    {
+      "id": "004",
+      "en": "Topic 4",
+      "fr": "TOPIC4"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "saveload_eng": [
+    {
+      "id": "001",
+      "en": "Select a saved game to resume",
+      "fr": "Sélectionner une sauvegarde à charger"
+    },
+    {
+      "id": "002",
+      "en": "Select a slot in which to save",
+      "fr": "Sélectionner un emplacement de sauvegarde"
+    },
+    {
+      "id": "003",
+      "en": "No saved game data",
+      "fr": "Pas de données de sauvegarde"
+    }
+  ]
+}

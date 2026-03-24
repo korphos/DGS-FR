@@ -1,0 +1,14 @@
+{
+  "_macro01_eng": [
+    {
+      "id": "001",
+      "en": "<RDFG 261><E800 97><MCRS 15 0 25><E800 668><E564 0><E800 669><E041 1 0><E025 2>I've investigated thoroughly, but...<E003 12>\r\nI can't find anything out of place.<E023><PAGE>\r\n<E800 670><E563><MCRE 15 0 25><E001>",
+      "fr": "<RDFG 261><E800 97><MCRS 15 0 25><E800 666><E564 0><E800 667><E041 1 0><E025 4>On a beau examiner, <E003 8><E025 3>il n'y a rien\r\nd'anormal <E003 4>dans cette zone.<E023><PAGE>\r\n<E800 668><E563><MCRE 15 0 25><E001>"
+    },
+    {
+      "id": "002",
+      "en": "<RDFG 263><E800 103><MCRS 15 0 26><E800 676><E564 0><E800 677><E041 1 0><E025 2>I can't find anything out of place.<E023><PAGE>\r\n<E800 678><E563><MCRE 15 0 26><E001>",
+      "fr": "<RDFG 263><E800 103><MCRS 15 0 26><E800 674><E564 0><E800 675><E041 1 0><E025 3>Il n'y a rien d'anormal <E003 4>dans cette zone.<E023><PAGE>\r\n<E800 676><E563><MCRE 15 0 26><E001>"
+    }
+  ]
+}

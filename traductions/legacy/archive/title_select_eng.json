@@ -1,0 +1,19 @@
+{
+  "titleSelect_eng": [
+    {
+      "id": "001",
+      "en": "New Game",
+      "fr": "Nouvelle Partie"
+    },
+    {
+      "id": "002",
+      "en": "Select Adventure",
+      "fr": "Choisir un épisode"
+    },
+    {
+      "id": "003",
+      "en": "Chapters",
+      "fr": "Chapitres"
+    }
+  ]
+}

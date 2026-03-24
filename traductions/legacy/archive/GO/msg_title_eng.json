@@ -1,0 +1,4385 @@
+{
+  "UI_eng": [
+    {
+      "id": "001",
+      "en": "A new location has been added.",
+      "fr": "Un nouveau lieu est disponible."
+    },
+    {
+      "id": "002",
+      "en": "Converse",
+      "fr": "Converser"
+    },
+    {
+      "id": "003",
+      "en": "Examine",
+      "fr": "Examiner"
+    },
+    {
+      "id": "004",
+      "en": "Move",
+      "fr": "Se déplacer"
+    },
+    {
+      "id": "005",
+      "en": "Present",
+      "fr": "Présenter"
+    }
+  ],
+  "opdemo01_eng": [
+    {
+      "id": "001",
+      "en": "In a corner of that small, dark room,\r\nSholmes and I waited with bated breath.",
+      "fr": "Dans un recoin sombre de cette pièce exiguë,\r\nHolmes et moi attendions, retenant notre souffle."
+    },
+    {
+      "id": "002",
+      "en": "In time, there came from the ventilator\r\na hiss and a soft, almost growl-like sound.",
+      "fr": "Enfin, depuis la bouche d'aération \r\nprovint un son comme un sifflement."
+    },
+    {
+      "id": "003",
+      "en": "Suddenly, Sholmes sprang into action,\r\nlashing furiously with his cane at a point in the darkness.",
+      "fr": "À cet instant, Holmes passa soudain à l'action.\r\nIl visa frénétiquement les ténèbres avec sa canne."
+    },
+    {
+      "id": "004",
+      "en": "‘You see it, Wilson?’ he yelled,\r\nhis tense voice reverberating through the air.",
+      "fr": "\"Vous le voyez, n'est-ce pas, Watson ?!\"\r\nsonna la voix de Holmes dans l'atmosphère pesante."
+    },
+    {
+      "id": "005",
+      "en": "I raised my dark-lantern's shutter,\r\nand the room slowly came into view.",
+      "fr": "Je levai le cache de ma lanterne et la pièce\r\ncommença à se dessiner sous la lumière."
+    },
+    {
+      "id": "006",
+      "en": "Sholmes was staring intently at one particular\r\ncorner when he started whispering to me,",
+      "fr": "Holmes scrutait intensément un angle de la pièce\r\nquand il se tourna vers moi et murmura :"
+    },
+    {
+      "id": "007",
+      "en": "‘The victim's most perplexing final\r\nwords – “the speckled band” –",
+      "fr": "\"Les mystérieux derniers mots de la victime\r\navant sa mort, cette bande mouchetée...\""
+    },
+    {
+      "id": "008",
+      "en": "I believe this is the terrible coil\r\nto which she referred, Wilson!’",
+      "fr": "\"Eh bien je pense que ce terrifiant corps\r\nroulé en boule est cette bande, Watson !\""
+    },
+    {
+      "id": "009",
+      "en": "In front of us was an enormous adder,\r\nits fangs bared as it threatened to strike.",
+      "fr": "Et là, se dressant devant nous, ses crocs révélés,\r\nse tenait un énorme serpent venimeux. "
+    },
+    {
+      "id": "010",
+      "en": "It truly was the most terrible ‘speckled band’\r\nI had ever seen.",
+      "fr": "Il s'agissait bien de la plus terrifiante\r\n\"bande mouchetée\" du monde..."
+    }
+  ],
+  "opdemo02_eng": [
+    {
+      "id": "001",
+      "en": "Glancing over my records of the late last century,\r\nI am faced by the events of a certain bitter winter.",
+      "fr": "En relisant mes chroniques de cette fin de 19e siècle,\r\nje retombe sur l'amertume d'un hiver."
+    },
+    {
+      "id": "002",
+      "en": "A murder in a carriage as it sped through\r\ndense London fog in the dead of night –",
+      "fr": "Une affaire qui frappa, en pleine nuit,\r\nune diligence lancée dans les rues brumeuses de Londres."
+    },
+    {
+      "id": "003",
+      "en": "Though the victim and the perpetrator were the only ones\r\ninside, there were multiple witnesses to the crime itself.",
+      "fr": "La victime et le coupable étaient seuls à bord,\r\nmais un certain nombre de témoins ont vu le crime."
+    },
+    {
+      "id": "004",
+      "en": "However, none could have imagined at the time\r\nthat such a seemingly obvious case as this",
+      "fr": "Et qui aurait alors pu penser\r\nqu'une affaire d'apparence aussi simple"
+    },
+    {
+      "id": "005",
+      "en": "would end in such a horrendous manner.",
+      "fr": "puisse conduire à un dénouement si atroce ?\r\nCela dépassait l'entendement."
+    },
+    {
+      "id": "006",
+      "en": "My friend, Mr Herlock Sholmes,\r\nonce said of the incident,",
+      "fr": "Et mon ami, Sherlock Holmes,\r\na lui-même dit de cette affaire :"
+    },
+    {
+      "id": "007",
+      "en": "‘I believe that perhaps that case\r\nwas indeed the “prelude” –",
+      "fr": "\"En y réfléchissant, je crains que ce crime\r\nne soit qu'un prélude à ce qui viendra.\""
+    },
+    {
+      "id": "008",
+      "en": "the beginning of a long concerto that impressive\r\nJapanese student and I were to play together.’",
+      "fr": "\"Un long et dramatique concerto que ce brillant étudiant\r\njaponais en échange et moi-même devrons jouer ensemble.\""
+    }
+  ],
+  "opdemo03_eng": [
+    {
+      "id": "001",
+      "en": "‘I begin to think, Wilson,’ said Sholmes,\r\nturning his head languidly in my direction,",
+      "fr": "\"Vous savez, Watson, je commence à penser,\"\r\ndit Holmes en tournant la tête vers moi,"
+    },
+    {
+      "id": "002",
+      "en": "‘that there is more to this case\r\nthan that which we have observed.",
+      "fr": "\"que nous n'avons décidément pas tout vu\r\nen ce qui concerne cette affaire.\""
+    },
+    {
+      "id": "003",
+      "en": "Indeed, that there may be another part to\r\nthis story that we are yet to discover.’",
+      "fr": "\"Car il se pourrait bien... que derrière tout ceci\r\nse cache une histoire que nul ne connaît.\""
+    },
+    {
+      "id": "004",
+      "en": "His eyes wandered, following the steam\r\nrising from his cup of herbal tea,",
+      "fr": "Suivant du regard les volutes de vapeur\r\ns'élevant de son thé, Holmes semblait rêveur."
+    },
+    {
+      "id": "005",
+      "en": "leading him to the distant memory\r\nof that snowy evening –",
+      "fr": "Assurément, il repensait à ce jour\r\nenneigé et à cette étrange affaire,"
+    },
+    {
+      "id": "006",
+      "en": "to the young lady, collapsed on the pavement\r\nalong Briar Road, and to the knife in her back.",
+      "fr": "celle où le long du trottoir de Briar Road, une pauvre\r\njeune fille était tombée, un couteau dans le dos."
+    },
+    {
+      "id": "007",
+      "en": "Lit in the soft glow of gas lamps,\r\na most extraordinary scene had been set,",
+      "fr": "Là, dans la lueur blafarde d'un bec de gaz,\r\nune scène de crime des plus mystérieuses se dessinait. "
+    },
+    {
+      "id": "008",
+      "en": "and under the cover of a light fog, the curtain had risen\r\nsilently on the insoluble mystery of our invisible killer.",
+      "fr": "Le tueur inconnu disparut dans le silence,\r\net sous le rideau du brouillard."
+    }
+  ],
+  "opdemo05_eng": [
+    {
+      "id": "001",
+      "en": "‘It's coming!’",
+      "fr": "\"Il arrive !\""
+    },
+    {
+      "id": "002",
+      "en": "Sholmes's cry pierced through\r\nthe thick wall of fog around us.",
+      "fr": "La voix de Holmes retentit soudain\r\nà travers l'épais mur de brouillard."
+    },
+    {
+      "id": "003",
+      "en": "Wisps of vapour flowed over the pistol as I cocked it,\r\nand I waited breathlessly in the stillness.",
+      "fr": "Autour de moi, des langues de brume parcouraient la lande.\r\nJ'armai mon pistolet, et attendis, le souffle coupé."
+    },
+    {
+      "id": "004",
+      "en": "The silence lasted for what seemed an\r\neternity until, at last, it appeared.",
+      "fr": "Le silence nocturne dura une éternité et puis,\r\nsoudainement, en un instant, il apparut."
+    },
+    {
+      "id": "005",
+      "en": "From the shadows of the cloud,\r\nan enormous beast sprang out upon us.",
+      "fr": "Comme jailli de l'intérieur de la brume, il était là,\r\nsous mes yeux, gigantesque monstre arrivant sur nous."
+    },
+    {
+      "id": "006",
+      "en": "A hound it was, but not such\r\na hound as any mortal has ever seen.",
+      "fr": "Alors, bien sûr, il s'agissait d'un chien, oui,\r\nmais clairement le plus terrible qu'il fût jamais."
+    },
+    {
+      "id": "007",
+      "en": "Its eyes glowed with a smouldering glare, the whole\r\nof its ox-sized body was outlined in white-hot flames.",
+      "fr": "Ses yeux brûlaient d'un feu infernal, son corps avait la taille\r\nd'un bœuf, et un brasier de flammes blanches l'entourait."
+    },
+    {
+      "id": "008",
+      "en": "Its rumbling pant and hideous howl...\r\nSo terrified was I that I began to tremble with fear.",
+      "fr": "Le sol tremblait sous ses pas, et quand\r\nil hurla son cri me pétrifia de terreur."
+    },
+    {
+      "id": "009",
+      "en": "‘Look well, Wilson!’ Sholmes declared,\r\ngazing upon the mystical beast.",
+      "fr": "\"Attention, Watson, regardez bien !\"\r\ndit Holmes, en contemplant ce monstre."
+    },
+    {
+      "id": "010",
+      "en": "‘For this! This is the diabolical\r\nHound of the Baskervilles!’",
+      "fr": "\"Car ceci n'est ni plus ni moins que l'infernal\r\nchien des Baskerville dont parle la légende !\""
+    }
+  ],
+  "place_eng": [
+    {
+      "id": "001",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "002",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "003",
+      "en": "Kazuma's Cabin",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "004",
+      "en": "Miss Pavlova's Cabin",
+      "fr": "Cabine de Liliya"
+    },
+    {
+      "id": "005",
+      "en": "First-Class Passageway",
+      "fr": "Navire - couloir"
+    },
+    {
+      "id": "006",
+      "en": "Lord Chief Justice's Office",
+      "fr": "Bureau du Ministre de la Justice"
+    },
+    {
+      "id": "007",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "008",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "009",
+      "en": "Sholmes's Suite",
+      "fr": "Chez Holmes"
+    },
+    {
+      "id": "010",
+      "en": "Mr Natsume's Room",
+      "fr": "Chambre de Natsumé Sôsséki"
+    },
+    {
+      "id": "011",
+      "en": "The Garridebs' Room",
+      "fr": "Chez Mr Garrideb"
+    },
+    {
+      "id": "012",
+      "en": "St Bartholomew's Hospital, Olive's Bed",
+      "fr": "Hôp. St Bartholomew, chambre de Ms Greene"
+    },
+    {
+      "id": "013",
+      "en": "Shamspeare's Room",
+      "fr": "Chez Jakespeare"
+    },
+    {
+      "id": "014",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "015",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "016",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "017",
+      "en": "Windibank's Storeroom",
+      "fr": "Boutique de Pressure - Entrepôt"
+    },
+    {
+      "id": "018",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    },
+    {
+      "id": "019",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "020",
+      "en": "Kazuma's Cabin (At Night)",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "021",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "022",
+      "en": "Backup Cabin",
+      "fr": "Cabine de secours"
+    },
+    {
+      "id": "023",
+      "en": "Mr Roylott's Cabin",
+      "fr": "Cabine de Roylott"
+    },
+    {
+      "id": "024",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Appartement de Natsumé Sôsséki"
+    },
+    {
+      "id": "025",
+      "en": "Windibank's Main Shop",
+      "fr": "Boutique de Pressure - Intérieur"
+    },
+    {
+      "id": "026",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "027",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    }
+  ],
+  "Caption_eng": [
+    {
+      "id": "001",
+      "en": "Select an answer.",
+      "fr": "Je vais vous la donner, ma réponse :"
+    },
+    {
+      "id": "002",
+      "en": "Isn't there someone suspicious here?",
+      "fr": "N'y a-t-il pas quelqu'un de suspect ?"
+    },
+    {
+      "id": "003",
+      "en": "Pit this statement against a contradictory one!",
+      "fr": "Présenter les mots qui contredisent la déclaration !"
+    },
+    {
+      "id": "004",
+      "en": "What was the old man really about to cut?",
+      "fr": "Que comptait-il réellement couper ?"
+    },
+    {
+      "id": "005",
+      "en": "What reveals the woman's true identity?",
+      "fr": "Quel élément nous révèle sa véritable identité ? "
+    },
+    {
+      "id": "006",
+      "en": "What did she glance at that's evidence of her crime?",
+      "fr": "Qu'a-t-elle vu qui pouvait prouver son crime ?"
+    },
+    {
+      "id": "007",
+      "en": "Why won't she open her case?",
+      "fr": "Pourquoi ne pouvait-elle pas ouvrir la malle ?"
+    },
+    {
+      "id": "008",
+      "en": "What else is causing her pain?",
+      "fr": "Quelle est \"cette autre douleur\" qu'elle ressent ?"
+    },
+    {
+      "id": "009",
+      "en": "What's the true identity of her ‘friend’?",
+      "fr": "Qui est véritablement \"son ami\" ?"
+    },
+    {
+      "id": "010",
+      "en": "What's she actually trying to hide?",
+      "fr": "Que tentait-elle de nous cacher ?"
+    },
+    {
+      "id": "011",
+      "en": "What evidence explains Kazuma's death?",
+      "fr": "Quel élément indique la cause de la mort de Kiyô ?"
+    },
+    {
+      "id": "012",
+      "en": "What shows how Kazuma broke his neck?",
+      "fr": "La preuve d'une nuque brisée, c'est... "
+    },
+    {
+      "id": "013",
+      "en": "What has she been trying to hide?",
+      "fr": "Où a-t-elle tenté de se cacher ?"
+    },
+    {
+      "id": "014",
+      "en": "What suggests that someone else was there at the scene?",
+      "fr": "Quelles sont les traces d'une tierce personne sur place ?"
+    },
+    {
+      "id": "015",
+      "en": "What caused the purple stain?",
+      "fr": "Qu'est vraiment la tache violette ?"
+    },
+    {
+      "id": "016",
+      "en": "Where did the crescent moon come from?",
+      "fr": "Où y avait-il un croissant de lune ?"
+    },
+    {
+      "id": "017",
+      "en": "Where was Kazuma really looking?",
+      "fr": "Qu'est-ce qui était sous le regard de Kiyô ?"
+    },
+    {
+      "id": "018",
+      "en": "What really caused the damage in this room?",
+      "fr": "Quel est le véritable coupable des dégâts de la pièce ?"
+    },
+    {
+      "id": "019",
+      "en": "What reveals Mrs Garrideb's current whereabouts?",
+      "fr": "Comment sait-on où est Mme Garrideb ?"
+    },
+    {
+      "id": "020",
+      "en": "What reveals Mr Garrideb's pain?",
+      "fr": "D'où provient la douleur de M. Garrideb ?"
+    },
+    {
+      "id": "021",
+      "en": "What precipitated the slap?",
+      "fr": "Pourquoi a-t-elle giflé son époux ?"
+    },
+    {
+      "id": "022",
+      "en": "What left the carpet in such a state?",
+      "fr": "Pourquoi le tapis est-il dans un tel état ?"
+    },
+    {
+      "id": "023",
+      "en": "What brought the mysterious gentleman to Windibank's?",
+      "fr": "Pourquoi cet homme mystérieux est-il venu à la boutique ?"
+    },
+    {
+      "id": "024",
+      "en": "What's making the mysterious gentleman so agitated?",
+      "fr": "La raison pour laquelle tremble cet homme mystérieux, c'est... "
+    },
+    {
+      "id": "025",
+      "en": "Is this gentleman really the owner of the overcoat?",
+      "fr": "Cet homme est-il le propriétaire du manteau ?"
+    },
+    {
+      "id": "026",
+      "en": "How could you find out somebody else's watchword?",
+      "fr": "Comment une tierce personne pouvait connaître le mot de passe ?"
+    },
+    {
+      "id": "027",
+      "en": "What secret does the article hide?",
+      "fr": "Le secret que dissimule ce récépissé, c'est... "
+    },
+    {
+      "id": "028",
+      "en": "Which sample shows the men fired a shot in the pawnbrokery?",
+      "fr": "Qu'est-ce qui indique qu'ils ont tiré dans la boutique ?"
+    },
+    {
+      "id": "029",
+      "en": "Which sample suggests that a third intruder was present?",
+      "fr": "Montrer ce qui indique qu'il pouvait y avoir un tiers !"
+    },
+    {
+      "id": "030",
+      "en": "Which sample proves Mr Benedict was the one shot by the third bullet?",
+      "fr": "Montrer ce qui prouve que la 3ème balle l'a touché !"
+    },
+    {
+      "id": "031",
+      "en": " ",
+      "fr": "Invalid Message"
+    }
+  ],
+  "cast_caption_eng": [
+    {
+      "id": "001",
+      "en": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "fr": "＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n＊＊＊＊＊＊＊＊＊＊＊＊＊"
+    },
+    {
+      "id": "002",
+      "en": "The judicial assistant of Defence Lawyer\r\nKazuma Asogi.",
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de mon avocat,\r\nKiyô Norasompéï."
+    },
+    {
+      "id": "003",
+      "en": "A medical school professor at the Imperial\r\nYumei University. He's an authority in\r\nforensic medicine, and Kazuma's mentor.",
+      "fr": "                                             <HD>                Âge : 42 ans\r\n</HD>\r\nProfesseur à l'Université Impériale\r\nYûmeï, en faculté de médecine.\r\nPonte en science médico-légale,\r\nmentor de Kiyô."
+    },
+    {
+      "id": "004",
+      "en": "A second year at the Imperial Yumei\r\nUniversity. He's my best friend and,\r\ndespite being a student, a qualified\r\ndefence lawyer as well.",
+      "fr": "                                             <HD>                Âge : 23 ans\r\n</HD>\r\n<HD>Étudiant de 2ème année à l'Université\r\nImpériale Yûmeï (帝都勇盟大学),\r\ndéjà très doué comme avocat.\r\nMon meilleur ami.</HD>"
+    },
+    {
+      "id": "005",
+      "en": "The lead prosecutor of this case, who would\r\nappear to have little love for the changes the\r\ncultural reformation has brought about.",
+      "fr": "                                             <HD>                Âge : 51 ans\r\n</HD>\r\nLe procureur chargé de l'affaire.\r\nSemble très mécontent du \"renouveau\r\nculturel\" de la société japonaise."
+    },
+    {
+      "id": "006",
+      "en": "The victim of this case. He was a visiting\r\nprofessor of medicine at Yumei University\r\nfrom the British Empire.",
+      "fr": "                                             <HD>                Âge : 47 ans\r\n</HD>\r\nLa victime dans cette affaire.\r\nDocteur renommé venu de l'Empire\r\nBritannique comme Professeur\r\nde médecine."
+    },
+    {
+      "id": "007",
+      "en": "A British exchange student who was\r\nstudying under the victim at Yumei\r\nUniversity's medical school.",
+      "fr": "                                             <HD>                Âge : 24 ans\r\n</HD>\r\nÉtudiante venue de l'Empire Britannique\r\nen échange, dans l'Université Yûmeï,\r\ndans le même labo que la victime."
+    },
+    {
+      "id": "008",
+      "en": "The head waiter of the European-style\r\nrestaurant ‘La Carneval’. He was serving\r\nthere on the day of the incident.",
+      "fr": "                                             <HD>                Âge : 29 ans\r\n</HD>\r\nServeur au ¡¿Holà sé come bien?! ,\r\nun restaurant occidental chic. Le jour\r\ndu crime il était chargé du service."
+    },
+    {
+      "id": "009",
+      "en": "A chief inspector in the Imperial Police\r\nBureau who was carrying out an\r\nundercover investigation at the\r\nEuropean-style restaurant ‘La Carneval’.",
+      "fr": "                                             <HD>                Âge : 29 ans\r\n</HD>\r\nInspecteur en chef de la première\r\nbrigade de la police impériale, qui\r\nenquêtait sous couverture au\r\nrestaurant occidental ¡¿Holà sé come bien?!"
+    },
+    {
+      "id": "010",
+      "en": "The owner of ‘Rasu-tei’, an antiques shop\r\nsituated on a street corner in the second\r\ndistrict. He is a witness to the incident.",
+      "fr": "                                             <HD>                Âge : 67 ans\r\n</HD>\r\nPropriétaire d'un magasin d'antiquités,\r\nà l'angle du 2ème district de\r\nla capitale impériale. Témoin de l'affaire."
+    },
+    {
+      "id": "011",
+      "en": "The owner of ‘Rasu-tei’, who was hunting\r\nfor a lost Hoei-era gold koban coin at the\r\ntime of the incident.",
+      "fr": "                                             <HD>                Âge : 67 ans\r\n</HD>\r\nPropriétaire d'un magasin d'antiquités.\r\nAu moment du crime, il aurait perdu\r\nun koban de l'ère Hôei."
+    },
+    {
+      "id": "012",
+      "en": "An army sergeant of the Empire of Japan\r\nwho witnessed the incident.",
+      "fr": "                                             <HD>                Âge : 38 ans\r\n</HD>\r\nSoldat dans l'armée impériale,\r\nau grade de sergent.\r\nTémoin de l'affaire."
+    },
+    {
+      "id": "013",
+      "en": "There's not a person in the world who hasn't\r\nheard of this famous ‘great detective’.\r\nNot a person except me, apparently.",
+      "fr": "                                             <HD>                Âge : 34 ans\r\n</HD>\r\nUn célèbre détective que le monde\r\nentier connaît. Moi, je n'ai jamais\r\nentendu parler de lui."
+    },
+    {
+      "id": "014",
+      "en": "A judicial assistant who was travelling with\r\nKazuma to London for a study tour. She is\r\nthe epitome of a refined Japanese lady.",
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de Kiyô qui l'accompagne\r\nà Londres. Elle a l'élégance\r\nde la femme japonaise parfaite."
+    },
+    {
+      "id": "015",
+      "en": "A certified lawyer and my best friend.\r\nHe was on his way to London for a study\r\ntour when he was taken from this world.",
+      "fr": "                                             <HD>                Âge : 23 ans\r\n</HD>\r\nMon meilleur ami, au talent d'avocat\r\nexceptionnel. Décédé en route pour\r\nl'Angleterre dans le cadre d'un échange\r\nuniversitaire."
+    },
+    {
+      "id": "016",
+      "en": "A chief inspector in the Imperial Police\r\nBureau who's on an undercover mission,\r\nposing as a member of the ship's crew.",
+      "fr": "                                             <HD>                Âge : 29 ans\r\n</HD>\r\nUn inspecteur de la police impériale\r\nde l'Empire du Japon. Infiltré en tant\r\nque marin par ordres spéciaux."
+    },
+    {
+      "id": "017",
+      "en": "An older Russian gentleman travelling on\r\nthe ship. He's staying in the first-class\r\ncabin next to Kazuma's.",
+      "fr": "                                             <HD>                Âge : ??\r\n</HD>\r\nVieux gentleman russe.\r\nOccupe la cabine voisine\r\nde celle de Kiyô."
+    },
+    {
+      "id": "018",
+      "en": "A young ballerina who's fled her homeland\r\nof Russia to escape the Novavich Ballet.",
+      "fr": "                                             <HD>                Âge : 15 ans\r\n</HD>\r\nUne jeune danseuse de ballet\r\nrusse qui a fui la Russie et\r\nla troupe de ballet Novavich."
+    },
+    {
+      "id": "019",
+      "en": "A real wall of a man and a senior member\r\nof the Russian crew who's in charge of\r\nsecurity around the first-class cabins.",
+      "fr": "                                             <HD>                Âge : 37 ans\r\n</HD>\r\nChargé de surveiller les cabines de\r\n1ère classe. Chef de la sécurité du\r\nnavire. A l'air d'un solide gaillard russe."
+    },
+    {
+      "id": "020",
+      "en": "A judicial assistant sent to Britain on a study\r\ntour. She's the epitome of a refined Japanese\r\nlady and a huge help to me always.",
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nAssistante juridique et étudiante en\r\néchange universitaire. Elle a l'élégance\r\nde la femme japonaise parfaite.\r\nElle me sauve toujours la mise."
+    },
+    {
+      "id": "021",
+      "en": "A young woman who witnessed the incident\r\nfrom her hiding place aboard the omnibus on\r\nthe night of the murder. She was discovered\r\nby the defendant.",
+      "fr": "                                             <HD>                Âge : 17 ans\r\n</HD>\r\nUne jeune fille pickpocket qui était\r\ncachée dans la diligence. Témoin\r\ndu meurtre, elle a été découverte\r\npar l'accusé."
+    },
+    {
+      "id": "022",
+      "en": "A prosecutor known as the Reaper of the\r\nBailey. Supposedly, the souls of those he\r\nprosecutes are eternally damned, one way\r\nor another.",
+      "fr": "                                             <HD>                Âge : 32 ans\r\n</HD>\r\nUn procureur surnommé \"le Dieu\r\nde la Mort du Old Bailey\".\r\nOn raconte que nul accusé ne\r\npeut être sauvé face à lui."
+    },
+    {
+      "id": "023",
+      "en": "The Lord Chief Justice, who wields absolute\r\nauthority in judicial matters, including the\r\nappointment of lawyers. He's a thoroughly\r\nintimidating man.",
+      "fr": "                                             <HD>                Âge : 52 ans\r\n</HD>\r\nMinistre de la Justice. Procureur\r\nprincipal de Londres. Second,\r\naprès la reine, à pouvoir nommer\r\nles avocats. Très intimidant."
+    },
+    {
+      "id": "024",
+      "en": "The defendant in this case. He's an incredibly\r\nwealthy philanthropist with a wonderful\r\nreputation in London. I'm to defend him as a\r\ntest of my worthiness to become a lawyer.",
+      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nL'accusé dans cette affaire.\r\nImmensément riche, et très connu\r\nà Londres. Le défendre tiendra lieu\r\n\"d'examen\" pour moi."
+    },
+    {
+      "id": "025",
+      "en": "The driver of the omnibus on which the\r\nmurder took place. He's an eyewitness to\r\nthe incident.",
+      "fr": "                                             <HD>                Âge : 62 ans\r\n</HD>\r\nUn des témoins. Il conduisait la\r\ndiligence devenue lieu du crime\r\nau moment où le meurtre a été\r\ncommis."
+    },
+    {
+      "id": "026",
+      "en": "A gentleman who works as a city banker.\r\nHe witnessed the incident from his seat\r\non the roof deck of the omnibus.",
+      "fr": "                                             <HD>                Âge : 34 ans\r\n</HD>\r\nUn gentleman, banquier de la City.\r\nPassager de la diligence le soir\r\ndu meurtre. En a été témoin\r\ndepuis le toit."
+    },
+    {
+      "id": "027",
+      "en": "An apprentice milliner who witnessed the\r\nincident from his seat on the roof deck of\r\nthe omnibus.",
+      "fr": "                                             <HD>                Âge : 21 ans\r\n</HD>\r\nS'entraîne à être un gentleman\r\nau chapeau. Passager de la diligence\r\nle soir du meurtre. En a été témoin\r\ndepuis le toit."
+    },
+    {
+      "id": "028",
+      "en": "The victim. A skilled but poor brickmaker\r\nwho lived in the East End.",
+      "fr": "                                             <HD>                Âge : 54 ans\r\n</HD>\r\nLa victime. Il habitait dans\r\nl'East End. Malgré son talent en tant\r\nque maçon, il était très pauvre."
+    },
+    {
+      "id": "029",
+      "en": "The victim. A skilled but poor brickmaker\r\nwho apparently owed the defendant a\r\nconsiderable sum of money.",
+      "fr": "                                             <HD>                Âge : 54 ans\r\n</HD>\r\nLa victime. Il habitait dans l'East End.\r\nMalgré son talent en tant que\r\nmaçon, il devait beaucoup\r\nd'argent à l'accusé."
+    },
+    {
+      "id": "030",
+      "en": "An extraordinary young girl who lives with\r\nMr Sholmes. She has a degree in medicine\r\nand is the author of a popular series of short\r\nstories.",
+      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Holmes. Une enfant\r\nprodige qui détient un doctorat\r\nen médecine et écrit des romans\r\nà succès."
+    },
+    {
+      "id": "031",
+      "en": "The detective inspector in charge of Scotland\r\nYard's investigation of the case. He's stern\r\nand single-minded in his approach, and a\r\ngreat lover of fish and chips.",
+      "fr": "                                             <HD>                Âge : 44 ans\r\n</HD>\r\nL'inspecteur chargé de l'affaire. \r\nIl enquête avec un grand dévouement,\r\net adore les fish and chips."
+    },
+    {
+      "id": "032",
+      "en": "A prosecutor known as the Reaper of the\r\nBailey, though concrete details about the\r\nman are not forthcoming.",
+      "fr": "                                             <HD>                Âge : 32 ans\r\n</HD>\r\nLe procureur chargé de l'affaire.\r\nSurnommé \"le Dieu de la Mort\r\ndu Old Bailey\", même si la raison\r\nen est mystérieuse."
+    },
+    {
+      "id": "033",
+      "en": "The Lord Chief Justice, who wields absolute\r\nauthority in judicial matters, including the\r\nappointment of lawyers. He's a thoroughly\r\nintimidating man.",
+      "fr": "                                             <HD>                Âge : 52 ans\r\n</HD>\r\nMinistre de la Justice. Procureur\r\nprincipal de Londres. Second,\r\naprès la reine, à pouvoir nommer\r\nles avocats. Très intimidant."
+    },
+    {
+      "id": "034",
+      "en": "A scholar sent to Britain by the Japanese\r\ngovernment to further his study of English.\r\nHe's the defendant accused of attempted\r\nmurder.",
+      "fr": "                                             <HD>                Âge : 33 ans\r\n</HD>\r\nUn étudiant japonais venu en\r\néchange universitaire pour étudier\r\nl'anglais. L'accusé dans cette affaire."
+    },
+    {
+      "id": "035",
+      "en": "A retired army man who's the landlord\r\nof the lodgings rented by the defendant,\r\nMr Natsume. An old knee injury means\r\nhe's confined to a chair most of the time.",
+      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sôsséki. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
+    },
+    {
+      "id": "036",
+      "en": "A retired army man who's the landlord of\r\nthe lodgings rented by the defendant,\r\nMr Natsume. An old knee injury means he's\r\nconfined to a chair most of the time.",
+      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sôsséki. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
+    },
+    {
+      "id": "037",
+      "en": "A maid who works at the Garrideb\r\nhousehold. Her main duty appears to be\r\nstanding at Mr Garrideb's side pouring tea.",
+      "fr": "                                             <HD>                Âge : ??\r\n</HD>\r\nLa domestique des Garrideb.\r\nPasse surtout son temps debout\r\nà côté de M. Garrideb, à lui\r\nservir du thé."
+    },
+    {
+      "id": "038",
+      "en": "Mr Garrideb's wife, who poses as the household\r\nmaid merely to keep up appearances in the\r\nneighbourhood. She has a fierce temper and\r\ntends to get rather physical.",
+      "fr": "                                             <HD>                Âge : 38 ans\r\n</HD>\r\nL'épouse de M. Garrideb. Elle se fait\r\npasser pour sa domestique afin qu'il\r\nsemble plus riche. Elle semble prompte\r\nà la colère violente... "
+    },
+    {
+      "id": "039",
+      "en": "Mr Garrideb's wife, who poses as the household\r\nmaid merely to keep up appearances in the\r\nneighbourhood. She is in attendance today as a\r\nmember of the jury.",
+      "fr": "                                             <HD>                Âge : 38 ans\r\n</HD>\r\nL'épouse de M. Garrideb. Elle se fait\r\npasser pour sa domestique afin qu'il\r\nsemble plus riche. A été tirée au sort\r\ncomme jurée."
+    },
+    {
+      "id": "040",
+      "en": "The victim of this case, who was found with\r\na knife in her back. Luckily, the wound\r\ndidn't prove fatal, but the woman remains\r\nunconscious in her hospital bed.",
+      "fr": "                                             <HD>                Âge : ??\r\n</HD>\r\nLa victime dans cette affaire. \r\nPoignardée dans le dos par un inconnu. \r\nSa vie est sauve, mais elle est encore\r\ninconsciente."
+    },
+    {
+      "id": "041",
+      "en": "A devoted London bobby who witnessed the\r\nincident whilst walking down the street with\r\nhis wife of a year, Patricia.",
+      "fr": "                                             <HD>                Âge : 23 ans\r\n</HD>\r\n<HD>Un agent de police de Londres, à l'enthousiasme\r\ndébordant. Il a récemment épousé Lisa\r\net tous deux sont témoins de l'affaire.</HD>"
+    },
+    {
+      "id": "042",
+      "en": "The wife of Constable Roly Beate who is\r\na witness to the incident. She's relatively\r\nrecently married, and fiercely proud of\r\nher policeman husband.",
+      "fr": "                                             <HD>                Âge : 21 ans\r\n</HD>\r\nÉpouse de Paul et témoin\r\nde l'affaire. Semble très fière\r\nque son mari soit agent de police."
+    },
+    {
+      "id": "043",
+      "en": "The world-famous ‘great detective’, above\r\nwhose lodgings Miss Susato and I rent our\r\nown office and rooms.",
+      "fr": "                                             <HD>                Âge : 34 ans\r\n</HD>\r\nUn grand détective de renom,\r\nconnu par tous dans le monde entier.\r\nJ'ai installé mon cabinet à la même\r\nadresse que lui."
+    },
+    {
+      "id": "044",
+      "en": "A judicial assistant sent to Britain on a study\r\ntour. She's the epitome of a refined Japanese\r\nlady and a huge help to me always.",
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nAssistante juridique et étudiante en\r\néchange universitaire. Elle a l'élégance\r\nde la femme japonaise parfaite.\r\nElle me sauve toujours la mise."
+    },
+    {
+      "id": "045",
+      "en": "An extraordinary young girl who lives with\r\nMr Sholmes. She has a degree in medicine\r\nand is the author of a popular series of short\r\nstories published in a prominent magazine.",
+      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Holmes. Une enfant\r\nprodige qui détient un doctorat en\r\nmédecine et écrit des récits pour\r\nThe Strand Magazine."
+    },
+    {
+      "id": "046",
+      "en": "A young pickpocket who we first met during\r\na trial two months ago. She and Iris have\r\nbecome firm friends since.",
+      "fr": "                                             <HD>                Âge : 17 ans\r\n</HD>\r\nUne jeune pickpocket rencontrée\r\nau procès d'il y a deux mois.\r\nIris semble beaucoup l'apprécier."
+    },
+    {
+      "id": "047",
+      "en": "A young pickpocket who we first met during\r\na trial two months ago. She's the defendant\r\nin this case, and was discovered at the scene\r\nalongside the victim.",
+      "fr": "                                             <HD>                Âge : 17 ans\r\n</HD>\r\nUne jeune pickpocket rencontrée\r\nau procès d'il y a deux mois.\r\nAccusée dans cette affaire. Retrouvée\r\nsur le lieu du crime avec la victime."
+    },
+    {
+      "id": "048",
+      "en": "The infamous London-based prosecutor\r\nknown as the Reaper of the Bailey. Further\r\ndetails about the man are not forthcoming.",
+      "fr": "                                             <HD>                Âge : 32 ans\r\n</HD>\r\nLe procureur chargé de l'affaire,\r\nil est surnommé \"le dieu de\r\nla mort du Old Bailey\", même\r\nsi la raison en est mystérieuse."
+    },
+    {
+      "id": "049",
+      "en": "The detective inspector in charge of Scotland\r\nYard's investigation of the case. He's stern\r\nand single-minded in his approach, and a\r\ngreat lover of fish and chips.",
+      "fr": "                                             <HD>                Âge : 44 ans\r\n</HD>\r\nL'inspecteur chargé de l'affaire.\r\nIl enquête avec un grand dévouement.\r\nAdore les fish and chips."
+    },
+    {
+      "id": "050",
+      "en": "The Lord Chief Justice, who wields absolute\r\nauthority in judicial matters, including the\r\nappointment of lawyers. He's a thoroughly\r\nintimidating man.",
+      "fr": "                                             <HD>                Âge : 52 ans\r\n</HD>\r\nMinistre de la Justice. Procureur\r\nprincipal de Londres. Second,\r\naprès la reine, à pouvoir nommer\r\nles avocats. Très intimidant."
+    },
+    {
+      "id": "051",
+      "en": "The proprietor of a pawnbrokery on\r\nBaker Street that is regularly patronised\r\nby Mr Sholmes. He has a very great\r\nsense of responsibility to his clients.",
+      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nHolmes se rend régulièrement.\r\nPossède un grand sens du devoir."
+    },
+    {
+      "id": "052",
+      "en": "The proprietor of a pawnbrokery on\r\nBaker Street that is regularly patronised\r\nby Mr Sholmes. He was shot dead by an\r\nunknown assailant.",
+      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nHolmes se rend régulièrement.\r\nA été tué, abattu par un inconnu."
+    },
+    {
+      "id": "053",
+      "en": "A young English gentleman with an aloof\r\nand high-handed manner. He appeared at\r\nWindibank's pawnbrokery accusing Gina\r\nof stealing his redemption ticket.",
+      "fr": "                                             <HD>                Âge : 27 ans\r\n</HD>\r\nUn jeune homme hautain aux\r\nairs de gentleman. Entré en trombe\r\ndans l'échoppe de Pressure, il a accusé\r\nGina de lui avoir volé un récépissé."
+    },
+    {
+      "id": "054",
+      "en": "An operator at the central communication\r\nstation who's been subpoenaed because he\r\nwas caught on a photograph taken by the\r\nRed-Handed Recorders in the pawnbrokery.",
+      "fr": "                                             <HD>                Âge : 27 ans\r\n</HD>\r\n<HD>Convoqué à témoigner après avoir été\r\nphotographié par un \"enregistreur\r\nautomatique de crime\". Ingénieur au\r\ncentral télégraphique de la ville.</HD>"
+    },
+    {
+      "id": "055",
+      "en": "A telegraph operator at the central\r\ncommunication station. He appeared\r\nat Windibank's pawnbrokery using\r\nthe pseudonym Eggert Benedict.",
+      "fr": "                                             <HD>                Âge : 27 ans\r\n</HD>\r\nIngénieur au central de télégraphe\r\nde la ville. A fait irruption dans la\r\nboutique de Pressure Gage en\r\nse faisant appeler \"D.E. Benedictine\"."
+    },
+    {
+      "id": "056",
+      "en": "A telegraph operator at the central\r\ncommunication station, whose last name\r\nwas once Milverton years ago. He's a\r\nchildhood friend of the Skulkin brothers.",
+      "fr": "                                             <HD>                Âge : 27 ans\r\n</HD>\r\nIngénieur au central de télégraphe\r\nde la ville. Autrefois appelé Milverton.\r\nAmi d'enfance des frères O'Voller."
+    },
+    {
+      "id": "057",
+      "en": "A witness to the incident who broke into\r\nWindibank's on the night of the murder with\r\nhis brother and accomplice Ringo. He claims\r\nto be a ‘profeshnal baddie’ by trade.",
+      "fr": "                                             <HD>                Âge : 26 ans\r\n</HD>\r\n<HD>Témoin du meurtre quand, le soir du crime,\r\nlui et son frère et complice Olly ont\r\ncambriolé la boutique de la victime.\r\nPrétend n'être qu'un \"petit délinquant\".</HD>"
+    },
+    {
+      "id": "058",
+      "en": "A witness to the incident who broke into\r\nWindibank's on the night of the murder with\r\nhis brother and accomplice Nash. He claims\r\nto be a ‘profeshnal baddie’ by trade.",
+      "fr": "                                             <HD>                Âge : 27 ans\r\n</HD>\r\n<HD>Témoin du meurtre quand, le soir du crime,\r\nlui et son frère et complice Dodo ont\r\ncambriolé la boutique de la victime.\r\nPrétend n'être qu'un \"petit délinquant\".</HD>"
+    },
+    {
+      "id": "059",
+      "en": "Ryunosuke",
+      "fr": "Hikari Yûno"
+    },
+    {
+      "id": "060",
+      "en": "Wagahai",
+      "fr": "Wagahaï"
+    },
+    {
+      "id": "061",
+      "en": "Mystery Person",
+      "fr": "Un individu mystérieux"
+    }
+  ],
+  "cast_name_eng": [
+    {
+      "id": "001",
+      "en": "dummy",
+      "fr": "－－－－－－"
+    },
+    {
+      "id": "002",
+      "en": "Ryunosuke Naruhodo<BLCT></BLCT> (??)",
+      "fr": "<RUBY><RB>日火吏</RB><RT><COL 1b0894ff>Hikari</COL></RT> <RB>夕野</RB><RT><COL 1b0894ff>Yûno</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "003",
+      "en": "Herlock Sholmes<BLCT></BLCT> (34)",
+      "fr": "Sherlock Holmes<BLCT></BLCT>"
+    },
+    {
+      "id": "004",
+      "en": "Susato Mikotoba<BLCT></BLCT> (16)",
+      "fr": "<RUBY><RB>阿美藻</RB><RT><COL 1b0894ff>Amimo</COL></RT>    <RB>亜見山</RB><RT><COL 1b0894ff>Amiéyama</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "005",
+      "en": "Iris Wilson<BLCT></BLCT> (10)",
+      "fr": "Iris Watson<BLCT></BLCT>"
+    },
+    {
+      "id": "006",
+      "en": "Gina Lestrade<BLCT></BLCT> (17)",
+      "fr": "Gina Lestrade<BLCT></BLCT>"
+    },
+    {
+      "id": "007",
+      "en": "Barok van Zieks<BLCT></BLCT> (32)",
+      "fr": "Drake Van Peers<BLCT></BLCT>"
+    },
+    {
+      "id": "008",
+      "en": "Tobias Gregson<BLCT></BLCT> (44)",
+      "fr": "Tobias Gregson<BLCT></BLCT>"
+    },
+    {
+      "id": "009",
+      "en": "Mael Stronghart<BLCT></BLCT> (52)",
+      "fr": "Harry Caine<BLCT></BLCT>"
+    },
+    {
+      "id": "010",
+      "en": "Yujin Mikotoba<BLCT></BLCT> (42)",
+      "fr": "<RUBY><RB>網狩</RB><RT><COL 1b0894ff>Amikaru</COL></RT>    <RB>亜見山</RB><RT><COL 1b0894ff>Amiéyama</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "011",
+      "en": "Kazuma Asogi<BLCT></BLCT> (23)",
+      "fr": "<RUBY><RB>器用</RB><RT><COL 1b0894ff>Kiyô</COL></RT>    <RB>伸存閉</RB><RT><COL 1b0894ff>Norasompéï</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "012",
+      "en": "Taketsuchi Auchi<BLCT></BLCT> (51)",
+      "fr": "<RUBY><RB>蚊唾</RB><RT><COL 1b0894ff>Katsu</COL></RT>    <RB>騾手</RB><RT><COL 1b0894ff>Raté</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "013",
+      "en": "John H. Wilson<BLCT></BLCT> (47)",
+      "fr": "John H. Watson<BLCT></BLCT>"
+    },
+    {
+      "id": "014",
+      "en": "Jezaille Brett<BLCT></BLCT> (24)",
+      "fr": "Gizelle Brett<BLCT></BLCT>"
+    },
+    {
+      "id": "015",
+      "en": "Satoru Hosonaga<BLCT></BLCT> (29)",
+      "fr": "<RUBY><RB>理科</RB><RT><COL 1b0894ff>Rika</COL></RT>    <RB>骨出</RB><RT><COL 1b0894ff>Honédé</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "016",
+      "en": "Kyurio Korekuta<BLCT></BLCT> (67)",
+      "fr": "<RUBY><RB>眼酢</RB><RT><COL 1b0894ff>Méssu</COL></RT>    <RB>瀬亜喪亜</RB><RT><COL 1b0894ff>Sé-amoa</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "017",
+      "en": "Iyesa Nosa<BLCT></BLCT> (38)",
+      "fr": "<RUBY><RB>爺丸</RB><RT><COL 1b0894ff>Yamaru</COL></RT>    <RB>怪我是</RB><RT><COL 1b0894ff>Kékassé</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "018",
+      "en": "Grimesby Roylott<BLCT></BLCT> (??)",
+      "fr": "Grimesby Roylott<BLCT></BLCT>"
+    },
+    {
+      "id": "019",
+      "en": "Nikolina Pavlova<BLCT></BLCT> (15)",
+      "fr": "Liliya Sassoupkikvitch<BLCT></BLCT>"
+    },
+    {
+      "id": "020",
+      "en": "Bif Strogenov<BLCT></BLCT> (37)",
+      "fr": "Metdebov Stroganov<BLCT></BLCT>"
+    },
+    {
+      "id": "021",
+      "en": "Magnus McGilded<BLCT></BLCT> (48)",
+      "fr": "Jeffrey Fortune<BLCT></BLCT>"
+    },
+    {
+      "id": "022",
+      "en": "Beppo<BLCT></BLCT> (62)",
+      "fr": "Beppo<BLCT></BLCT>"
+    },
+    {
+      "id": "023",
+      "en": "Bruce Fairplay<BLCT></BLCT> (34)",
+      "fr": "Oscar Fairplay<BLCT></BLCT>"
+    },
+    {
+      "id": "024",
+      "en": "Lay D. Furst<BLCT></BLCT> (21)",
+      "fr": "Adam Ladyfirst<BLCT></BLCT>"
+    },
+    {
+      "id": "025",
+      "en": "‘Thrice-Fired’Mason<BLCT></BLCT> (54)   ",
+      "fr": "Morty \"est cuit trois fois\"<HD>      </HD><BLCT></BLCT>"
+    },
+    {
+      "id": "026",
+      "en": "Soseki Natsume<BLCT></BLCT> (33)",
+      "fr": "<RUBY><RB>漱石</RB><RT><COL 1b0894ff>Sôsséki</COL></RT>    <RB>夏目</RB><RT><COL 1b0894ff>Natsumé</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "027",
+      "en": "John Garrideb<BLCT></BLCT> (46)",
+      "fr": "John Garrideb<BLCT></BLCT>"
+    },
+    {
+      "id": "028",
+      "en": "Maid<BLCT></BLCT> (??)",
+      "fr": "Servante<BLCT></BLCT>"
+    },
+    {
+      "id": "029",
+      "en": "Joan Garrideb<BLCT></BLCT> (38)",
+      "fr": "Jane Garrideb<BLCT></BLCT>"
+    },
+    {
+      "id": "030",
+      "en": "Olive Green<BLCT></BLCT> (??)",
+      "fr": "Olive Greene<BLCT></BLCT>"
+    },
+    {
+      "id": "031",
+      "en": "Roly Beate<BLCT></BLCT> (23)",
+      "fr": "Paul Cademy<BLCT></BLCT>"
+    },
+    {
+      "id": "032",
+      "en": "Patricia Beate<BLCT></BLCT> (21)",
+      "fr": "Lisa Cademy<BLCT></BLCT>"
+    },
+    {
+      "id": "033",
+      "en": "Eggert Benedict<BLCT></BLCT> (??)",
+      "fr": "D. E. Benedictine<BLCT></BLCT>"
+    },
+    {
+      "id": "034",
+      "en": "Ashley Graydon<BLCT></BLCT> (27)",
+      "fr": "Rupert Greynoir<BLCT></BLCT>"
+    },
+    {
+      "id": "035",
+      "en": "Pop Windibank<BLCT></BLCT> (48)",
+      "fr": "Gage Pressure<BLCT></BLCT>"
+    },
+    {
+      "id": "036",
+      "en": "Nash Skulkin<BLCT></BLCT> (26)",
+      "fr": "Dominik \"Dodo\" O'Voller<BLCT></BLCT>"
+    },
+    {
+      "id": "037",
+      "en": "Ringo Skulkin<BLCT></BLCT> (27)",
+      "fr": "Oliver \"Olly\" O'Voller<BLCT></BLCT>"
+    },
+    {
+      "id": "038",
+      "en": "Ryunosuke Naruhodo<BLCT></BLCT> (??)",
+      "fr": "<RUBY><RB>日火吏</RB><RT><COL 1b0894ff>Hikari</COL></RT> <RB>夕野</RB><RT><COL 1b0894ff>Yûno</COL></RT></RUBY><BLCT></BLCT>"
+    },
+    {
+      "id": "039",
+      "en": "Wagahai<BLCT></BLCT>",
+      "fr": "Moi<BLCT></BLCT>"
+    },
+    {
+      "id": "040",
+      "en": "Mystery Person<BLCT></BLCT>",
+      "fr": "Personnage mystérieux<BLCT></BLCT>"
+    }
+  ],
+  "choice_eng": [
+    {
+      "id": "001",
+      "en": "Listen again",
+      "fr": "Écouter encore une fois."
+    },
+    {
+      "id": "002",
+      "en": "Leave it",
+      "fr": "Abandonner."
+    },
+    {
+      "id": "003",
+      "en": "Return to ‘The Great Deduction’",
+      "fr": "Reprendre aux déductions."
+    },
+    {
+      "id": "004",
+      "en": "Return to ‘Course Correction’",
+      "fr": "Reprendre au récapitulatif."
+    },
+    {
+      "id": "005",
+      "en": "Return to the Investigation",
+      "fr": "Retourner à l'enquête."
+    },
+    {
+      "id": "006",
+      "en": "Answer ‘I do’",
+      "fr": "Répondre \"C'est moi !\""
+    },
+    {
+      "id": "007",
+      "en": "Wait and see",
+      "fr": "Attendre et voir... "
+    },
+    {
+      "id": "008",
+      "en": "Interject",
+      "fr": "\"HEIN ?!\""
+    },
+    {
+      "id": "009",
+      "en": "Ask for it to be submitted",
+      "fr": "Demander"
+    },
+    {
+      "id": "010",
+      "en": "Better not",
+      "fr": "Laisser tomber"
+    },
+    {
+      "id": "011",
+      "en": "The victim himself",
+      "fr": "La victime elle-même"
+    },
+    {
+      "id": "012",
+      "en": "Me",
+      "fr": "Moi, Yûno"
+    },
+    {
+      "id": "013",
+      "en": "The two witnesses",
+      "fr": "Les deux témoins"
+    },
+    {
+      "id": "014",
+      "en": "An as-yet-unknown third party",
+      "fr": "Une tierce personne"
+    },
+    {
+      "id": "015",
+      "en": "It's very meaningful",
+      "fr": "... très important !"
+    },
+    {
+      "id": "016",
+      "en": "It's nothing",
+      "fr": "... pas spécialement important."
+    },
+    {
+      "id": "017",
+      "en": "The glass",
+      "fr": "... le verre pose problème."
+    },
+    {
+      "id": "018",
+      "en": "The handbag",
+      "fr": "... le sac à main pose problème."
+    },
+    {
+      "id": "019",
+      "en": "Nothing in particular",
+      "fr": "... non, il n'y a pas de problème."
+    },
+    {
+      "id": "020",
+      "en": "Hadn't noticed the burn",
+      "fr": "... n'a rien remarqué."
+    },
+    {
+      "id": "021",
+      "en": "Was asleep",
+      "fr": "... était endormi."
+    },
+    {
+      "id": "022",
+      "en": "Was already deceased",
+      "fr": "... était déjà mort."
+    },
+    {
+      "id": "023",
+      "en": "Contains poison",
+      "fr": "Oh, mais oui !"
+    },
+    {
+      "id": "024",
+      "en": "Contains no poison",
+      "fr": "Non, rien."
+    },
+    {
+      "id": "025",
+      "en": "Synopsis",
+      "fr": "Le paragraphe \"Résumé\""
+    },
+    {
+      "id": "026",
+      "en": "Special Characteristics",
+      "fr": "Le paragraphe \"Propriétés\""
+    },
+    {
+      "id": "027",
+      "en": "Practical Applications",
+      "fr": "Le paragraphe \"Utilisation\""
+    },
+    {
+      "id": "028",
+      "en": "There's a clue",
+      "fr": "Il y a de quoi !"
+    },
+    {
+      "id": "029",
+      "en": "There's nothing",
+      "fr": "Non, rien."
+    },
+    {
+      "id": "030",
+      "en": "Nothing else",
+      "fr": "Il n'y a plus d'indices."
+    },
+    {
+      "id": "031",
+      "en": "There's another clue",
+      "fr": "Il reste encore des indices."
+    },
+    {
+      "id": "032",
+      "en": "Invalid Message",
+      "fr": "J'ai remarqué quelque chose... "
+    },
+    {
+      "id": "033",
+      "en": "Invalid Message",
+      "fr": "Je ne remarque rien."
+    },
+    {
+      "id": "034",
+      "en": "Invalid Message",
+      "fr": "Concernant le pistolet"
+    },
+    {
+      "id": "035",
+      "en": "Invalid Message",
+      "fr": "Concernant le crime"
+    },
+    {
+      "id": "036",
+      "en": "Invalid Message",
+      "fr": "Concernant l'expression"
+    },
+    {
+      "id": "037",
+      "en": "Invalid Message",
+      "fr": "Essayer d'interroger sur autre chose."
+    },
+    {
+      "id": "038",
+      "en": "Invalid Message",
+      "fr": "Arrêter pour l'instant."
+    },
+    {
+      "id": "039",
+      "en": "Invalid Message",
+      "fr": "Arrêter complètement."
+    },
+    {
+      "id": "040",
+      "en": "Invalid Message",
+      "fr": "J'ai remarqué quelque chose... "
+    },
+    {
+      "id": "041",
+      "en": "Invalid Message",
+      "fr": "Il n'y a rien de spécial."
+    },
+    {
+      "id": "042",
+      "en": "Invalid Message",
+      "fr": "Continuer d'attaquer"
+    },
+    {
+      "id": "043",
+      "en": "Invalid Message",
+      "fr": "Passer au contre-interrogatoire."
+    },
+    {
+      "id": "044",
+      "en": "Invalid Message",
+      "fr": "Continuer de chercher."
+    },
+    {
+      "id": "045",
+      "en": "Invalid Message",
+      "fr": "Oh, il y a un problème."
+    },
+    {
+      "id": "046",
+      "en": "Invalid Message",
+      "fr": "Non, il n'y a pas de problème."
+    },
+    {
+      "id": "047",
+      "en": "Invalid Message",
+      "fr": "L'heure d'arrivée de la victime"
+    },
+    {
+      "id": "048",
+      "en": "Invalid Message",
+      "fr": "L'heure de la mort de la victime"
+    },
+    {
+      "id": "049",
+      "en": "Invalid Message",
+      "fr": "L'état de santé de la victime"
+    },
+    {
+      "id": "050",
+      "en": "Invalid Message",
+      "fr": "Il Y A une possibilité !"
+    },
+    {
+      "id": "051",
+      "en": "Invalid Message",
+      "fr": "Cette possibilité est futile."
+    },
+    {
+      "id": "052",
+      "en": "Invalid Message",
+      "fr": "Essayer de voir où ça mène... "
+    },
+    {
+      "id": "053",
+      "en": "Invalid Message",
+      "fr": "Montrer une preuve."
+    },
+    {
+      "id": "054",
+      "en": "Invalid Message",
+      "fr": "En fait, le tir lui-même."
+    },
+    {
+      "id": "055",
+      "en": "Invalid Message",
+      "fr": "Le curare, bien sûr !"
+    },
+    {
+      "id": "056",
+      "en": "Invalid Message",
+      "fr": "Autre chose, ça va de soi."
+    },
+    {
+      "id": "057",
+      "en": "Actually, there's no one!",
+      "fr": "Personne, évidemment !"
+    },
+    {
+      "id": "058",
+      "en": "It's Miss Susato!",
+      "fr": "Mlle Amimo !"
+    },
+    {
+      "id": "059",
+      "en": "It's me!",
+      "fr": "Eh bien, moi-même !"
+    },
+    {
+      "id": "060",
+      "en": "I'll do it",
+      "fr": "Accepter."
+    },
+    {
+      "id": "061",
+      "en": "I won't do it",
+      "fr": "Refuser."
+    },
+    {
+      "id": "062",
+      "en": "Exactly",
+      "fr": "C'est exactement ça."
+    },
+    {
+      "id": "063",
+      "en": "Not at all",
+      "fr": "Ce n'est absolument pas ça !"
+    },
+    {
+      "id": "064",
+      "en": "Assert our right",
+      "fr": "Insister."
+    },
+    {
+      "id": "065",
+      "en": "Forget it",
+      "fr": "Laisser tomber."
+    },
+    {
+      "id": "066",
+      "en": "It's possible",
+      "fr": "C'est possible !"
+    },
+    {
+      "id": "067",
+      "en": "It's out of the question",
+      "fr": "C'est impossible... "
+    },
+    {
+      "id": "068",
+      "en": "No chance!",
+      "fr": "C'est totalement impossible !"
+    },
+    {
+      "id": "069",
+      "en": "Some days are like that",
+      "fr": "Oui, peut-être bien... "
+    },
+    {
+      "id": "070",
+      "en": "There's no evidence",
+      "fr": "Je n'ai aucune preuve."
+    },
+    {
+      "id": "071",
+      "en": "I have evidence",
+      "fr": "Oh, mais J'AI une preuve !"
+    },
+    {
+      "id": "072",
+      "en": "I have an inkling",
+      "fr": "Je sais !"
+    },
+    {
+      "id": "073",
+      "en": "I have no idea",
+      "fr": "Je n'en ai aucune idée... "
+    },
+    {
+      "id": "074",
+      "en": "Demand his testimony",
+      "fr": "Demander un témoignage."
+    },
+    {
+      "id": "075",
+      "en": "Leave well alone",
+      "fr": "Laisser couler."
+    },
+    {
+      "id": "076",
+      "en": "I didn't look",
+      "fr": "Je ne l'ai pas examiné."
+    },
+    {
+      "id": "077",
+      "en": "It was empty",
+      "fr": "C'était vide."
+    },
+    {
+      "id": "078",
+      "en": "It wasn't empty",
+      "fr": "Ce n'était pas vide."
+    },
+    {
+      "id": "079",
+      "en": "It's insignificant",
+      "fr": "C'est sans intérêt."
+    },
+    {
+      "id": "080",
+      "en": "It's profoundly important",
+      "fr": "C'est absolument crucial."
+    },
+    {
+      "id": "081",
+      "en": "It makes sense",
+      "fr": "Non, pas de problème."
+    },
+    {
+      "id": "082",
+      "en": "It doesn't add up",
+      "fr": "Il y a une contradiction !"
+    },
+    {
+      "id": "083",
+      "en": "Show a piece of evidence",
+      "fr": "Montrer une preuve."
+    },
+    {
+      "id": "084",
+      "en": "Show a person",
+      "fr": "Désigner quelqu'un."
+    },
+    {
+      "id": "085",
+      "en": "He was in there already",
+      "fr": "Il est monté en premier."
+    },
+    {
+      "id": "086",
+      "en": "There's another entrance",
+      "fr": "Il n'est pas entré par la portière."
+    },
+    {
+      "id": "087",
+      "en": "He was put there after he died",
+      "fr": "Il a été mis à bord après le crime."
+    },
+    {
+      "id": "088",
+      "en": "It's out of the question",
+      "fr": "C'est impossible."
+    },
+    {
+      "id": "089",
+      "en": "It could have been possible",
+      "fr": "C'est possible."
+    },
+    {
+      "id": "090",
+      "en": "I have an inkling",
+      "fr": "Je sais !"
+    },
+    {
+      "id": "091",
+      "en": "The defendant is innocent",
+      "fr": "Obtenir un verdict non coupable."
+    },
+    {
+      "id": "092",
+      "en": "The defendant could be guilty",
+      "fr": "Admettre qu'on manque de preuves."
+    },
+    {
+      "id": "093",
+      "en": "Invalid Message",
+      "fr": "Lire."
+    },
+    {
+      "id": "094",
+      "en": "They would have seen everything",
+      "fr": "Oui, ils pouvaient voir !"
+    },
+    {
+      "id": "095",
+      "en": "They might not have been able to",
+      "fr": "Impossible de voir... "
+    },
+    {
+      "id": "096",
+      "en": "Not right now",
+      "fr": "Ne pas demander pour l'instant."
+    },
+    {
+      "id": "097",
+      "en": "Please go ahead",
+      "fr": "La faire lire."
+    },
+    {
+      "id": "098",
+      "en": "The bookshop's location",
+      "fr": "L'emplacement de la librairie."
+    },
+    {
+      "id": "099",
+      "en": "The bookshop's name",
+      "fr": "Le nom de la librairie."
+    },
+    {
+      "id": "100",
+      "en": "The bookshop's stock",
+      "fr": "La marchandise de la librairie."
+    },
+    {
+      "id": "101",
+      "en": "Raise an objection",
+      "fr": "Émettre une objection."
+    },
+    {
+      "id": "102",
+      "en": "Leave it",
+      "fr": "Laisser tomber."
+    },
+    {
+      "id": "103",
+      "en": "Wait and see",
+      "fr": "Observer pour l'instant... "
+    },
+    {
+      "id": "104",
+      "en": "The shop that sold it",
+      "fr": "La boutique qui a vendu ce livre."
+    },
+    {
+      "id": "105",
+      "en": "Its owner",
+      "fr": "Le propriétaire de ce livre."
+    },
+    {
+      "id": "106",
+      "en": "Its content",
+      "fr": "Le contenu de ce livre."
+    },
+    {
+      "id": "107",
+      "en": "Where the book fell",
+      "fr": "Où est tombé le livre."
+    },
+    {
+      "id": "108",
+      "en": "Where the bouquet fell",
+      "fr": "Où est tombé le bouquet."
+    },
+    {
+      "id": "109",
+      "en": "Where the victim fell",
+      "fr": "Où la victime a été poignardée."
+    },
+    {
+      "id": "110",
+      "en": "Invalid Message",
+      "fr": "\"Quelqu'un\" l'a déplacée."
+    },
+    {
+      "id": "111",
+      "en": "Invalid Message",
+      "fr": "\"Quelque chose\" l'a déplacée"
+    },
+    {
+      "id": "112",
+      "en": "Invalid Message",
+      "fr": "La lettre n'a pas été déplacée."
+    },
+    {
+      "id": "113",
+      "en": "It could be important",
+      "fr": "C'est important."
+    },
+    {
+      "id": "114",
+      "en": "It's insignificant",
+      "fr": "C'est sans importance."
+    },
+    {
+      "id": "115",
+      "en": "There's no discrepancy",
+      "fr": "Il n'y a rien d'anormal."
+    },
+    {
+      "id": "116",
+      "en": "Point out a discrepancy",
+      "fr": "Indiquer ce qui est anormal."
+    },
+    {
+      "id": "117",
+      "en": "Use a piece of evidence",
+      "fr": "Utiliser une pièce à conviction."
+    },
+    {
+      "id": "118",
+      "en": "It changes nothing",
+      "fr": "Ça ne change rien."
+    },
+    {
+      "id": "119",
+      "en": "It changes everything",
+      "fr": "Ça change du tout au tout !"
+    },
+    {
+      "id": "120",
+      "en": "Have Gina testify",
+      "fr": "Demander une déposition."
+    },
+    {
+      "id": "121",
+      "en": "Leave it",
+      "fr": "Laisser tomber."
+    },
+    {
+      "id": "122",
+      "en": "No way",
+      "fr": "Non, il ne rime à rien."
+    },
+    {
+      "id": "123",
+      "en": "It could be a clue",
+      "fr": "Oui, il est lourd de sens !"
+    },
+    {
+      "id": "124",
+      "en": "Broken",
+      "fr": "... elle est cassée."
+    },
+    {
+      "id": "125",
+      "en": "An unusual genre of music",
+      "fr": "... c'est de la musique moderne."
+    },
+    {
+      "id": "126",
+      "en": "Not supposed to be music",
+      "fr": "... ce n'est pas de la musique."
+    },
+    {
+      "id": "127",
+      "en": "It seems impossible",
+      "fr": "Admettre que c'est impossible."
+    },
+    {
+      "id": "128",
+      "en": "Give it a try",
+      "fr": "Indiquer une possibilité."
+    },
+    {
+      "id": "129",
+      "en": "Add it to the testimony",
+      "fr": "Le faire ajouter à la déposition."
+    },
+    {
+      "id": "130",
+      "en": "Let it go",
+      "fr": "Le laisser passer."
+    },
+    {
+      "id": "131",
+      "en": "The business model",
+      "fr": "Concernant l'entreprise."
+    },
+    {
+      "id": "132",
+      "en": "The business name",
+      "fr": "Concernant le nom de l'entreprise."
+    },
+    {
+      "id": "133",
+      "en": "A summation examination",
+      "fr": "Voir les délibérations des jurés."
+    },
+    {
+      "id": "134",
+      "en": "Further cross-examination",
+      "fr": "Faire un contre-interrogatoire."
+    },
+    {
+      "id": "135",
+      "en": "Time to think",
+      "fr": "Attendre, et observer... "
+    },
+    {
+      "id": "136",
+      "en": "The third gun",
+      "fr": "... le troisième revolver."
+    },
+    {
+      "id": "137",
+      "en": "The peephole",
+      "fr": "... l'ouverture servant d'œilleton."
+    },
+    {
+      "id": "138",
+      "en": "The bloodstains on the coat",
+      "fr": "... le sang sur le manteau."
+    },
+    {
+      "id": "139",
+      "en": "Yes, search him!",
+      "fr": "Fouiller l'inspecteur."
+    },
+    {
+      "id": "140",
+      "en": "Search someone else!",
+      "fr": "Fouiller quelqu'un d'autre."
+    },
+    {
+      "id": "141",
+      "en": "Withdraw the request",
+      "fr": "Renoncer à la fouille."
+    },
+    {
+      "id": "142",
+      "en": "Graydon",
+      "fr": "À M. Greynoir."
+    },
+    {
+      "id": "143",
+      "en": "Inspector Gregson",
+      "fr": "À l'inspecteur Gregson."
+    },
+    {
+      "id": "144",
+      "en": "Leave it to the jury",
+      "fr": "Laisser le jury décider."
+    },
+    {
+      "id": "145",
+      "en": "Listen to the deduction",
+      "fr": "Demander une \"déduction\"."
+    },
+    {
+      "id": "146",
+      "en": "Hand over the disk",
+      "fr": "Je vous confie le disque."
+    },
+    {
+      "id": "147",
+      "en": "Absolutely not!",
+      "fr": "Je refuse catégoriquement."
+    },
+    {
+      "id": "148",
+      "en": "No idea!",
+      "fr": "Non, je ne sais pas."
+    },
+    {
+      "id": "149",
+      "en": "I think I do!",
+      "fr": "Oui, j'ai compris ce qu'il en est."
+    },
+    {
+      "id": "150",
+      "en": "Magnus McGilded",
+      "fr": "Jeffrey Fortune"
+    },
+    {
+      "id": "151",
+      "en": "‘Thrice-Fired’ Mason",
+      "fr": "Morty \"est cuit trois fois\""
+    },
+    {
+      "id": "152",
+      "en": "Pop Windibank",
+      "fr": "Gage Pressure"
+    },
+    {
+      "id": "153",
+      "en": "I trust her",
+      "fr": "Lui faire confiance."
+    },
+    {
+      "id": "154",
+      "en": "I can't trust her",
+      "fr": "Ne pas lui faire confiance."
+    },
+    {
+      "id": "155",
+      "en": "Absolutely!",
+      "fr": "On a ce qu'il faut !"
+    },
+    {
+      "id": "156",
+      "en": "None spring to mind",
+      "fr": "On n'a rien... "
+    },
+    {
+      "id": "157",
+      "en": "Yes, I saw it!",
+      "fr": "Oui, j'ai réussi !"
+    },
+    {
+      "id": "158",
+      "en": "Not really...",
+      "fr": "Non, je n'ai pas réussi... "
+    },
+    {
+      "id": "159",
+      "en": "There's no one else",
+      "fr": "Il n'y avait qu'elle."
+    },
+    {
+      "id": "160",
+      "en": "There could have been!",
+      "fr": "Il y avait quelqu'un d'autre."
+    },
+    {
+      "id": "161",
+      "en": "It's impossible",
+      "fr": "Il n'y a pas une telle preuve."
+    },
+    {
+      "id": "162",
+      "en": "I can prove it!",
+      "fr": "Oui, et je peux le montrer !"
+    },
+    {
+      "id": "163",
+      "en": "They had a secret accomplice",
+      "fr": "cachent un complice."
+    },
+    {
+      "id": "164",
+      "en": "They had another gun",
+      "fr": "cachent un autre pistolet."
+    },
+    {
+      "id": "165",
+      "en": "It's nothing to do with them",
+      "fr": "n'ont rien à voir avec le tir."
+    },
+    {
+      "id": "166",
+      "en": "Ready to present answers",
+      "fr": "... je peux présenter les réponses."
+    },
+    {
+      "id": "167",
+      "en": "Unable to present answers",
+      "fr": "... je n'ai rien à présenter."
+    },
+    {
+      "id": "168",
+      "en": "Invalid Message",
+      "fr": "Essayer à nouveau ?"
+    },
+    {
+      "id": "169",
+      "en": "Invalid Message",
+      "fr": "Oui"
+    },
+    {
+      "id": "170",
+      "en": "Invalid Message",
+      "fr": "Non"
+    },
+    {
+      "id": "171",
+      "en": "Invalid Message",
+      "fr": "Oui, il y a un problème."
+    },
+    {
+      "id": "172",
+      "en": "Invalid Message",
+      "fr": "Non, aucun problème."
+    },
+    {
+      "id": "173",
+      "en": "Invalid Message",
+      "fr": "Émettre une objection"
+    },
+    {
+      "id": "174",
+      "en": "Invalid Message",
+      "fr": "Montrer une preuve"
+    },
+    {
+      "id": "175",
+      "en": "Invalid Message",
+      "fr": "Attendre de voir... "
+    },
+    {
+      "id": "176",
+      "en": "Invalid Message",
+      "fr": "Je viens de remarquer... "
+    },
+    {
+      "id": "177",
+      "en": "Invalid Message",
+      "fr": "Hikari Yûno"
+    },
+    {
+      "id": "178",
+      "en": "Invalid Message",
+      "fr": "Kiyô Norasompéï"
+    },
+    {
+      "id": "179",
+      "en": "Invalid Message",
+      "fr": "Amimo Amiéyama"
+    },
+    {
+      "id": "180",
+      "en": "Invalid Message",
+      "fr": "Katsu Raté"
+    },
+    {
+      "id": "181",
+      "en": "Invalid Message",
+      "fr": "Sherlock Holmes"
+    },
+    {
+      "id": "182",
+      "en": "Invalid Message",
+      "fr": "Iris Watson"
+    },
+    {
+      "id": "183",
+      "en": "Invalid Message",
+      "fr": "Le procureur Van Peers"
+    },
+    {
+      "id": "184",
+      "en": "Invalid Message",
+      "fr": "Moi, le chat"
+    },
+    {
+      "id": "185",
+      "en": "Invalid Message",
+      "fr": "Natsumé Sôsséki"
+    },
+    {
+      "id": "186",
+      "en": "Invalid Message",
+      "fr": "Présenter"
+    },
+    {
+      "id": "187",
+      "en": "Invalid Message",
+      "fr": "Ne rien présenter"
+    },
+    {
+      "id": "188",
+      "en": "Invalid Message",
+      "fr": "Pressure, le propriétaire"
+    },
+    {
+      "id": "189",
+      "en": "Invalid Message",
+      "fr": "Tu adores."
+    },
+    {
+      "id": "190",
+      "en": "Invalid Message",
+      "fr": "Tu détestes."
+    },
+    {
+      "id": "191",
+      "en": "Invalid Message",
+      "fr": "Regarder."
+    },
+    {
+      "id": "192",
+      "en": "Invalid Message",
+      "fr": "Ne pas regarder."
+    },
+    {
+      "id": "193",
+      "en": "Invalid Message",
+      "fr": "Je le sais."
+    },
+    {
+      "id": "194",
+      "en": "Invalid Message",
+      "fr": "Je n'en sais rien."
+    },
+    {
+      "id": "195",
+      "en": "Invalid Message",
+      "fr": "Je l'ai rencontré."
+    },
+    {
+      "id": "196",
+      "en": "Invalid Message",
+      "fr": "Je ne l'ai pas rencontré."
+    }
+  ],
+  "evidence_caption_eng": [
+    {
+      "id": "001",
+      "en": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\r\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "fr": "\r\n<HD>\r\n</HD>＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊"
+    },
+    {
+      "id": "002",
+      "en": "A photographic print that shows the\r\nvictim. He was shot from the front\r\nin the chest and subsequently died.",
+      "fr": "\r\n<HD>\r\n</HD>On y voit la victime. La cause du\r\ndécès semble être un tir de pistolet,\r\nde face, dans son thorax."
+    },
+    {
+      "id": "003",
+      "en": "A bottle of carbonated water and a steak\r\nlunch can be seen on the victim's table.",
+      "fr": "\r\n<HD>\r\n</HD>Sur la table de la victime se\r\ntrouvent une bouteille d'eau gazeuse\r\net une assiette avec un steak."
+    },
+    {
+      "id": "004",
+      "en": "A medical report card from Hotta Clinic\r\nthat was found in the victim's pocket.",
+      "fr": "\r\n<HD>\r\n</HD>Dossier médical de la clinique\r\nYakakané (輩金). Découvert dans la\r\npoche de la victime."
+    },
+    {
+      "id": "005",
+      "en": "A record of dental work. On the day of the\r\nmurder, the victim had undergone dental\r\ntreatment and been prohibited from eating\r\nor drinking anything but water.",
+      "fr": "\r\n<HD>\r\n</HD>Dossier dentaire. La victime venait\r\nde subir une extraction et ne pouvait\r\npas consommer d'aliments solides,\r\njuste de l'eau."
+    },
+    {
+      "id": "006",
+      "en": "The head waiter's business card.\r\nA sketch of the restaurant's layout\r\nis on the back.",
+      "fr": "\r\n<HD>\r\n</HD>Carte de visite du serveur principal.\r\nAu dos est dessiné un plan\r\nschématique du lieu du crime."
+    },
+    {
+      "id": "007",
+      "en": "A sketch of the restaurant's layout\r\nis on the back. On the front, it's stated\r\nthat Hosonaga-san is a police inspector.",
+      "fr": "\r\n<HD>\r\n</HD>Au dos figure un schéma du lieu du\r\ncrime. Au recto, la véritable identité\r\nde l'inspecteur Honédé (骨出)\r\nest dévoilée."
+    },
+    {
+      "id": "008",
+      "en": "The meal Miss Brett ordered for lunch.\r\nIt was removed from the victim's table\r\nafter the incident.",
+      "fr": "\r\n<HD>\r\n</HD>Le déjeuner que Gizelle Brett aurait\r\ncommandé. Pris à la table de\r\nla victime juste après le crime."
+    },
+    {
+      "id": "009",
+      "en": "The carbonated water the victim and\r\nMiss Brett shared on the day of the\r\nmurder. It was on the victim's table.",
+      "fr": "\r\n<HD>\r\n</HD>Eau pétillante que la victime et Gizelle\r\nBrett ont bue le jour du crime. Se\r\ntrouvait sur la table de la victime."
+    },
+    {
+      "id": "010",
+      "en": "Death occurred a little after 2 p.m. and was\r\ncaused by loss of blood from a gunshot to\r\nthe chest. The bullet did not pass through\r\nthe victim's body.",
+      "fr": "\r\n<HD>\r\n</HD>Mort après 14 heures. Mort d'hémorragie\r\naprès avoir été abattu d'un tir dans\r\nla poitrine. La balle n'a pas traversé."
+    },
+    {
+      "id": "011",
+      "en": "A report detailing an unknown poison\r\nthat Miss Brett has been researching\r\nduring her time at Yumei University.",
+      "fr": "\r\n<HD>\r\n</HD>Sujet d'étude de Gizelle Brett au\r\nlaboratoire, un poison encore inconnu\r\nau Japon est décrit dans ce mémoire."
+    },
+    {
+      "id": "012",
+      "en": "Proof that I'm a student at the Imperial\r\nYumei University. I always wear it on\r\nthe collar of my uniform jacket.",
+      "fr": "\r\n<HD>\r\n</HD>Il sert à prouver qu'on est étudiant à\r\nl'Université Impériale Yûmeï (帝都勇盟大学).\r\nSe porte en permanence sur\r\nles uniformes d'étudiants."
+    },
+    {
+      "id": "013",
+      "en": "A photograph taken by Hosonaga-san\r\nafter the incident occurred. It shows\r\nMiss Brett's handbag on a chair by the\r\nvictim's table.",
+      "fr": "\r\n<HD>\r\n</HD>Prise par Honédé juste après le crime.\r\nLe sac à main de Gizelle Brett y apparaît\r\nsur une chaise, près de la table de\r\nla victime."
+    },
+    {
+      "id": "014",
+      "en": "A diary Kazuma was keeping of his trip\r\nto London. According to the last entry\r\nhe made before his death, he spied\r\nwhat appeared to be a ‘speckled band’.",
+      "fr": "\r\n<HD>\r\n</HD>Dernière note prise avant d'arriver à\r\nLondres. D'après ce qu'il a consigné\r\navant sa mort, il a vu une \"bande\r\nmouchetée\"."
+    },
+    {
+      "id": "015",
+      "en": "The Russian word for ‘wardrobe’ in purple\r\nink. It would appear to have been written\r\nin the victim's final moments.",
+      "fr": "\r\n<HD>\r\n</HD>Le mot russe signifiant \"armoire\" est\r\nécrit au sol avec de l'encre violette.\r\nOn suppose que Kiyô l'a tracé\r\njuste avant de mourir."
+    },
+    {
+      "id": "016",
+      "en": "An article on the front page of a Russian\r\nnewspaper. The headline reads:\r\n‘Revolutionary Vilen Borshevik Flees\r\nRussia via Shanghai’.",
+      "fr": "\r\n<HD>\r\n</HD>Article d'un journal russe.\r\n\"Le révolutionnaire Dimitri Ouisski\r\na fui la Russie et serait en route\r\nvers Shanghaï.\""
+    },
+    {
+      "id": "017",
+      "en": "An article on the back page of a Russian\r\nnewspaper. The headline reads: ‘Renowned\r\nPrima Ballerina of the Novavich Ballet\r\nDisappears from Shanghai!’",
+      "fr": "\r\n<HD>\r\n</HD>Article d'un journal russe.\r\n\"Une danseuse du ballet Novavich\r\na disparu lors d'une escale\r\nà Shanghaï.\""
+    },
+    {
+      "id": "018",
+      "en": "A report from the SS Burya's medical\r\nofficer, giving the cause of death as a\r\ncervical spine injury. There were no\r\ntraces of external injury or poison.",
+      "fr": "\r\n<HD>\r\n</HD>Réalisé par le médecin de bord.\r\nCause du décès : coup aux\r\nvertèbres cervicales. Pas d'autre\r\nblessure ni trace de poison."
+    },
+    {
+      "id": "019",
+      "en": "A record kept by the crew assigned to\r\nthe first-class cabin area. There are\r\nvirtually no entries from 2 a.m. until\r\nearly this morning.",
+      "fr": "\r\n<HD>\r\n</HD>Contient les rapports du marin chargé\r\ndes cabines de 1ère classe.\r\nLes horaires de 2h du matin\r\njusqu'au jour ne sont pas remplis."
+    },
+    {
+      "id": "020",
+      "en": "An armband I inherited from Kazuma.\r\nIt identifies the wearer as a defence\r\nlawyer throughout the Empire of Japan.",
+      "fr": "\r\n<HD>\r\n</HD>Le brassard que Kiyô m'a\r\nremis. Il prouve que je suis\r\navocat au Grand Empire du Japon."
+    },
+    {
+      "id": "021",
+      "en": "Kazuma would stick this over the doors\r\nof the wardrobe for me. It says ‘Keep\r\nout’ in Japanese, though I'm not sure\r\nthe Russian crew can actually read it.",
+      "fr": "\r\n<HD>\r\n</HD>Un sceau que Kiyô a appliqué sur\r\nla porte du placard. On ignore si\r\nau moins l'un des marins, d'origine\r\nrusse, peut le lire."
+    },
+    {
+      "id": "022",
+      "en": "A piece of a small glass object and what\r\nlooks like a scuff mark made by Kazuma's\r\nshoes were found by the victim's body.",
+      "fr": "\r\n<HD>\r\n</HD>Les débris d'un petit objet brisé,\r\nen verre, reposent près de traces\r\nlaissées, on le suppose, par le\r\ncirage des chaussures de Kiyô."
+    },
+    {
+      "id": "023",
+      "en": "A photograph of Miss Pavlova and her\r\n‘friend’ – a kitten named Darka. The\r\ntiara she would wear on stage can also\r\nbe seen.",
+      "fr": "\r\n<HD>\r\n</HD>Une photographie de Liliya avec\r\nson ami, le chaton Darkovski.\r\nOn y voit aussi le diadème\r\nporté sur scène."
+    },
+    {
+      "id": "024",
+      "en": "A report prepared by the Scotland Yard\r\ncoroner. It gives the cause of death as\r\ninternal haemorrhaging as a result of a\r\nsingle stab wound to the abdomen.",
+      "fr": "\r\n<HD>\r\n</HD>Rapport du médecin légiste. Mort d'un\r\ncoup de couteau dans l'abdomen. Une\r\nseule plaie. Décès par hémorragie."
+    },
+    {
+      "id": "025",
+      "en": "A photograph of the victim taken on the\r\nomnibus. The knife in his abdomen is clearly\r\nvisible, but his face is partly obscured from\r\nview by an old, crooked hat.",
+      "fr": "\r\n<HD>\r\n</HD>Dans la diligence, un couteau est\r\nplanté dans l'abdomen de la victime.\r\nSon chapeau tombant cache son visage."
+    },
+    {
+      "id": "026",
+      "en": "The leather gloves the defendant was\r\nwearing at the time of the incident.\r\nThere is a bloodstain on the right glove.",
+      "fr": "\r\n<HD>\r\n</HD>Les gants que portait l'accusé\r\nau moment du crime. Le droit\r\nest taché de sang."
+    },
+    {
+      "id": "027",
+      "en": "The eight-seater omnibus that was the\r\nscene of the crime. There were passengers\r\nboth inside the carriage and on the roof\r\ndeck that night.",
+      "fr": "\r\n<HD>\r\n</HD>Le lieu du crime, une diligence pouvant\r\ntransporter 8 passagers. Il y a des\r\nsièges dans l'habitacle, et sur le toit."
+    },
+    {
+      "id": "028",
+      "en": "The eight-seater omnibus that was the\r\nscene of the crime. There were passengers\r\nboth inside the carriage and on the roof\r\ndeck that night.",
+      "fr": "\r\n<HD>\r\n</HD>Le lieu du crime, une diligence pouvant\r\ntransporter 8 passagers. Il y a des\r\nsièges dans l'habitacle, et sur le toit."
+    },
+    {
+      "id": "029",
+      "en": "The scene of the crime. There is a\r\nbloodstain visible on the frame of the\r\nskylight when it's open.",
+      "fr": "\r\n<HD>\r\n</HD>Le lieu du crime, une diligence pouvant\r\ntransporter 8 passagers. On dirait qu'il\r\ny a du sang sur les bords de la lucarne\r\nde toit."
+    },
+    {
+      "id": "030",
+      "en": "TEMP:\r\nUpdated version of Murder Weapon",
+      "fr": "\r\n<HD>\r\n</HD>Mise à jour des infos sur\r\nle couteau arme du crime.\r\n(仮)"
+    },
+    {
+      "id": "031",
+      "en": "A largish knife that was found lodged\r\nin the victim's abdomen. Its quality\r\nand fancy ornamentation suggest it\r\nmust be quite valuable.",
+      "fr": "\r\n<HD>\r\n</HD>Le grand couteau qui était planté dans\r\nle ventre de la victime. Semble être un\r\nobjet décoratif et très onéreux."
+    },
+    {
+      "id": "032",
+      "en": "A catalogue of people who had borrowed\r\nmoney from the defendant at a high rate\r\nof interest. It includes the victim, who\r\nowed twenty guineas.",
+      "fr": "\r\n<HD>\r\n</HD>Liste des \"clients\" devant de l'argent à\r\nl'accusé, un usurier. La victime aussi lui\r\navait fait un emprunt, de 20 guinées."
+    },
+    {
+      "id": "033",
+      "en": "Among the defendant's list of debtors is\r\nBruce Fairplay, who would have been\r\ndue to repay his loan imminently.",
+      "fr": "\r\n<HD>\r\n</HD>Parmi les débiteurs de l'accusé figure\r\nle nom \"Oscar Fairplay\". La date de\r\npaiement de la dette est proche."
+    },
+    {
+      "id": "034",
+      "en": "A street map of the local area showing\r\nwhere the victim was found.",
+      "fr": "\r\n<HD>\r\n</HD>Plan des environs du lieu du crime.\r\nL'emplacement où la victime a été\r\nretrouvée est indiqué."
+    },
+    {
+      "id": "035",
+      "en": "A street map of the local area showing\r\nlocations that are relevant to the case.",
+      "fr": "\r\n<HD>\r\n</HD>Plan des environs du lieu du crime.\r\nLes emplacements utiles à\r\nl'affaire sont indiqués."
+    },
+    {
+      "id": "036",
+      "en": "A receipt discovered in Mr Natsume's\r\nroom for some books that he had\r\npurchased from a secondhand bookshop\r\nbefore the incident occurred.",
+      "fr": "\r\n<HD>\r\n</HD>Une facture d'une librairie de livres\r\nd'occasion, preuve que M. Sôsséki\r\ny a acheté des livres avant le\r\ncrime. Retrouvée chez M. Sôsséki."
+    },
+    {
+      "id": "037",
+      "en": "A file containing an overview of the case\r\nand details about the victim. She was found\r\nwith a knife in her back and is currently\r\nin hospital, yet to regain consciousness.",
+      "fr": "\r\n<HD>\r\n</HD><HD>Résumé de l'affaire avec des informations\r\nsur la victime, qui a été poignardée avec\r\nun couteau dans le dos. Elle n'a pas encore\r\nrepris connaissance.</HD>"
+    },
+    {
+      "id": "038",
+      "en": "The pavement where the victim was found\r\nlies just outside Constable Beate's beat, the\r\nborder of which runs down the middle of\r\nBriar Road.",
+      "fr": "\r\n<HD>\r\n</HD>Le trottoir où la victime est tombée\r\nest juste en dehors du périmètre\r\nde juridiction de l'agent\r\nde police Cademy."
+    },
+    {
+      "id": "039",
+      "en": "A large but commonplace folding knife.\r\nIt was found lodged in the victim's back.",
+      "fr": "\r\n<HD>\r\n</HD>Un grand couteau sans signe\r\ndistinctif particulier. Retrouvé\r\nplanté dans le dos de la victime."
+    },
+    {
+      "id": "040",
+      "en": "A large, folding knife, the tip of which\r\nhas broken off and was found inside\r\nMr Garrideb's pipe bowl.",
+      "fr": "\r\n<HD>\r\n</HD>Un grand couteau sans signe distinctif\r\nparticulier. La pointe cassée de sa\r\nlame a été retrouvée enchâssée dans\r\nla pipe de M. Garrideb."
+    },
+    {
+      "id": "041",
+      "en": "A photograph of the scene taken by\r\na policeman just after the incident\r\noccurred. A large knife can be seen\r\nthrust into the victim's back.",
+      "fr": "\r\n<HD>\r\n</HD>Photographie des lieux prise par\r\nla police peu après le crime.\r\nUn grand couteau est planté\r\ndans le dos de la victime."
+    },
+    {
+      "id": "042",
+      "en": "A photograph of the scene taken by\r\na policeman just after the incident\r\noccurred. A large knife can be seen\r\nthrust into the victim's back.",
+      "fr": "\r\n<HD>\r\n</HD>Photographie des lieux prise par\r\nla police peu après le crime.\r\nUn grand couteau est planté\r\ndans le dos de la victime."
+    },
+    {
+      "id": "043",
+      "en": "A present for Patricia Beate from her\r\nhusband, Roly. The shock of seeing the\r\nstabbed victim caused Mrs Beate to drop\r\nthe rose where she stood.",
+      "fr": "\r\n<HD>\r\n</HD>Un cadeau offert à Lisa par Paul.\r\nSous le choc de voir la victime,\r\nLisa l'a lâché et laissé tomber\r\npar terre."
+    },
+    {
+      "id": "044",
+      "en": "A second photograph of the scene taken\r\nby a policeman just after the incident.\r\nIt specifically shows the victim's hand.",
+      "fr": "\r\n<HD>\r\n</HD>Une autre photographie des lieux\r\nprise par la police peu après\r\nle crime. On y voit le livre dans\r\nla main de la victime."
+    },
+    {
+      "id": "045",
+      "en": "A book entitled ‘The Lion's Pride’\r\ndiscovered in the victim's hand at\r\nthe scene.",
+      "fr": "\r\n<HD>\r\n</HD>Un livre intitulé \"L'aventure de la\r\ncrinière du lion\", retrouvé dans\r\nla main de la victime lors de l'examen\r\nsur le lieu du crime."
+    },
+    {
+      "id": "046",
+      "en": "A book entitled ‘The Lion's Pride’\r\ndiscovered in the victim's hand at\r\nthe scene. The back cover is badly\r\nburnt.",
+      "fr": "\r\n<HD>\r\n</HD>Un livre intitulé \"L'aventure de la\r\ncrinière du lion\", retrouvé dans\r\nla main de la victime. La couverture\r\nau dos a brûlé."
+    },
+    {
+      "id": "047",
+      "en": "A book entitled ‘The Lion's Pride’\r\nthat was in the victim's hand when\r\nMrs Beate first ran over to see what\r\nhad happened.",
+      "fr": "\r\n<HD>\r\n</HD>Un livre intitulé \"L'aventure de la\r\ncrinière du lion\". Quand le couple\r\nCademy est arrivé sur place, la victime\r\nl'avait déjà en main."
+    },
+    {
+      "id": "048",
+      "en": "Mr Garrideb's pipe. Apparently it fell\r\nto the floor during a domestic dispute\r\nhe had with his wife and broke.",
+      "fr": "\r\n<HD>\r\n</HD>La pipe de M. Garrideb. Semble être\r\ntombée au sol durant une dispute\r\navec son épouse."
+    },
+    {
+      "id": "049",
+      "en": "Mr Garrideb's pipe. A small fragment\r\nof metal was lodged inside the bowl.",
+      "fr": "\r\n<HD>\r\n</HD>La pipe de M. Garrideb. Un petit\r\nfragment de métal a été retrouvé\r\nenchâssé dans son foyer."
+    },
+    {
+      "id": "050",
+      "en": "This small piece of metal looks like\r\nit might be the tip of a knife blade.\r\nIt was stuck inside the bowl of\r\nMr Garrideb's pipe.",
+      "fr": "\r\n<HD>\r\n</HD>Un fragment de métal qu'on suppose\r\nprovenir d'une lame. Était enchâssé\r\ndans la pipe de M. Garrideb."
+    },
+    {
+      "id": "051",
+      "en": "This small piece of metal was found\r\ninside the bowl of Mr Garrideb's pipe.\r\nIt's a perfect fit for the missing tip of\r\nthe knife found in the victim's back.",
+      "fr": "\r\n<HD>\r\n</HD>Fragment de métal retrouvé enchâssé\r\ndans la pipe de M. Garrideb.\r\nCorrespond parfaitement\r\nà la pointe de l'arme du crime."
+    },
+    {
+      "id": "052",
+      "en": "A card for Inspector Gregson with a\r\nmessage on the back from Iris.",
+      "fr": "\r\n<HD>\r\n</HD>Carte adressée par Iris à l'inspecteur\r\nGregson. À son revers est écrit\r\nun message."
+    },
+    {
+      "id": "053",
+      "en": "A small folding wallet that identifies\r\nLondon bobbies and contains the rules\r\nof conduct to which they must adhere.",
+      "fr": "\r\n<HD>\r\n</HD>Manuel pour la police de Londres.\r\nUn des passages est intitulé\r\n\"Les trucs à savoir pour un\r\npolicier à Londres\"."
+    },
+    {
+      "id": "054",
+      "en": "A fold-up device that allows anybody to\r\nenjoy seeing things in three dimensions\r\nsimply by looking through the eyepieces.",
+      "fr": "\r\n<HD>\r\n</HD>Un appareil qui permet à n'importe qui\r\nde facilement voir des images en relief\r\nrien qu'en regardant par les lentilles."
+    },
+    {
+      "id": "055",
+      "en": "A metal disk used to play music in a\r\nmechanical music box. The piece of music,\r\nwhich remains unidentified, is stored on\r\nthe disk by means of small protrusions.",
+      "fr": "\r\n<HD>\r\n</HD>Objet servant à faire fonctionner\r\nune boîte à musique qui lit des sons\r\nsur des disques de métal gravés.\r\nSon fonctionnement est mystérieux."
+    },
+    {
+      "id": "056",
+      "en": "A metal disk used to play music in a\r\nmechanical music box. On the reverse\r\nside is a note that reads, ‘For McGilded’.",
+      "fr": "\r\n<HD>\r\n</HD>Sert à faire fonctionner une boîte\r\nà musique. Un papier est collé dessus,\r\noù il est écrit \"To Fortune\"."
+    },
+    {
+      "id": "057",
+      "en": "A metal disk used to play music in a\r\nmechanical music box. On the reverse\r\nside is a note that reads, ‘For McGilded’.",
+      "fr": "\r\n<HD>\r\n</HD>Sert à faire fonctionner une boîte\r\nà musique. Un papier est collé dessus,\r\noù il est écrit \"To Fortune\"."
+    },
+    {
+      "id": "058",
+      "en": "A metal disk used to play music in a\r\nmechanical music box. The smear of\r\nblood on it turned green when analysed.",
+      "fr": "\r\n<HD>\r\n</HD>Sert à faire fonctionner une boîte à\r\nmusique. Taché de sang. Les résultats\r\nd'analyse du sang donnent la couleur\r\nverte."
+    },
+    {
+      "id": "059",
+      "en": "A photograph depicting a sweet little\r\nwhite cat, obtained from Gina while\r\ninterviewing her in her prison cell.",
+      "fr": "\r\n<HD>\r\n</HD>Une photographie d'un chat\r\nblanc que Gina nous a\r\ndonnée à la prison."
+    },
+    {
+      "id": "060",
+      "en": "A redemption ticket issued from the\r\npawnbrokery owned by the victim,\r\nMr Windibank, in the form of some hand-\r\nwritten notes on the back of a photograph.",
+      "fr": "\r\n<HD>\r\n</HD>Un récépissé de dépôt de la victime,\r\nGage Pressure, pour sa boutique.\r\nAu dos de la photo sont\r\ngriffonnés quelques mots."
+    },
+    {
+      "id": "061",
+      "en": "The paperwork signed by Gina to put me\r\nin charge of her defence. Showing this to\r\nScotland Yard detectives gains us access\r\nto the crime scene.",
+      "fr": "\r\n<HD>\r\n</HD>Une demande, signée par Gina, afin\r\nd'assurer sa défense.\r\nSi je la montre à la police, on me\r\nlaissera enquêter sur le lieu du crime."
+    },
+    {
+      "id": "062",
+      "en": "A photograph depicting a sweet little\r\nwhite cat. I feel as though I have\r\nanother print just like this one...",
+      "fr": "\r\n<HD>\r\n</HD>Une photographie d'un joli chat blanc.\r\nJ'ai comme l'impression de déjà\r\nposséder une photographie similaire... "
+    },
+    {
+      "id": "063",
+      "en": "A redemption ticket issued from the\r\npawnbrokery owned by the victim,\r\nMr Windibank. There's what looks like\r\na bloody fingermark on it.",
+      "fr": "\r\n<HD>\r\n</HD>Un récépissé de dépôt de la victime,\r\nGage Pressure, pour sa boutique.\r\nIl y a des traces de sang ressemblant\r\nà des doigts."
+    },
+    {
+      "id": "064",
+      "en": "A redemption ticket issued from the\r\npawnbrokery owned by the victim,\r\nMr Windibank. The blood on it has\r\nbeen identified as Mr Mason's.",
+      "fr": "\r\n<HD>\r\n</HD>Un récépissé de dépôt de la victime,\r\nGage Pressure, pour sa boutique.\r\nOn a découvert que les traces de sang\r\nproviennent de M. Morty."
+    },
+    {
+      "id": "065",
+      "en": "A sample of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
+      "fr": "\r\n<HD>\r\n</HD><HD>Les analyses de sang réalisées avec les\r\nproduits chimiques spéciaux de M. Holmes.\r\nLa couleur de la réaction dépend\r\ndu propriétaire du sang.</HD>"
+    },
+    {
+      "id": "066",
+      "en": "Two samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a deux échantillons."
+    },
+    {
+      "id": "067",
+      "en": "Three samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a trois échantillons."
+    },
+    {
+      "id": "068",
+      "en": "Four samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a quatre échantillons."
+    },
+    {
+      "id": "069",
+      "en": "A long, unpublished story that Mr Sholmes\r\ndeposited at the pawnbrokery of the victim,\r\nMr Windibank. It's entitled ‘The Hound of\r\nthe Baskervilles’.",
+      "fr": "\r\n<HD>\r\n</HD>Un roman non publié que Holmes\r\na déposé en gage dans l'échoppe\r\nde la victime. Son titre est\r\n\"Le chien des Baskerville\"."
+    },
+    {
+      "id": "070",
+      "en": "A gun belonging to the victim,\r\nMr Windibank, that Gina was holding\r\nwhen she was found unconscious.\r\nThere are signs of a single discharge.",
+      "fr": "\r\n<HD>\r\n</HD>Appartenait à la victime, M. Gage\r\nPressure. Retrouvé dans la main\r\nde Gina. D'après les traces sur l'arme,\r\non a tiré une fois."
+    },
+    {
+      "id": "071",
+      "en": "Notes collated by Miss Susato about the\r\nMcGilded case that we worked on two\r\nmonths ago.",
+      "fr": "\r\n<HD>\r\n</HD>Les informations sur l'affaire d'il y a\r\ndeux mois, impliquant Jeffrey Fortune,\r\nqu'Amimo a compilées pour moi."
+    },
+    {
+      "id": "072",
+      "en": "This morning's paper, purchased by Iris.\r\nGina's case features prominently.",
+      "fr": "\r\n<HD>\r\n</HD>Journal de ce matin, acheté par Iris.\r\nL'affaire impliquant Gina semble\r\nêtre la grosse nouvelle du jour\r\npour tout le monde."
+    },
+    {
+      "id": "073",
+      "en": "This morning's paper, which contains an\r\narticle about government secrets being\r\nleaked to foreign agencies.",
+      "fr": "\r\n<HD>\r\n</HD><HD>Le journal de ce matin. Au dos figure\r\nun article sur des télégrammes secrets\r\nqui auraient été interceptés et dévoilés\r\nà des gouvernements étrangers.</HD>"
+    },
+    {
+      "id": "074",
+      "en": "A report prepared by the Scotland Yard\r\ncoroner that confirms instant death due\r\nto a single bullet wound from the back.\r\nThere are no other signs of trauma.",
+      "fr": "\r\n<HD>\r\n</HD>Rapport d'autopsie par le légiste de\r\nScotland Yard. La mort aurait été\r\ninstantanée, suite à un tir dans le dos.\r\nPas d'autres blessures."
+    },
+    {
+      "id": "075",
+      "en": "A photograph of the victim found murdered\r\nin the storeroom. It shows the single bullet\r\nwound in the man's back.",
+      "fr": "\r\n<HD>\r\n</HD>Photographie de la victime abattue dans\r\nl'entrepôt. On y voit une plaie par balle\r\ndans son dos."
+    },
+    {
+      "id": "076",
+      "en": "A plan of Windibank's pawnbrokery, the\r\nscene of the crime. It shows the relative\r\npositions of the main shop and the rear\r\nstoreroom.",
+      "fr": "\r\n<HD>\r\n</HD>Plan du lieu du crime. On y\r\nvoit les emplacements relatifs\r\nde l'entrepôt et de la boutique."
+    },
+    {
+      "id": "077",
+      "en": "A firearm found in the possession of the\r\nSkulkin brothers upon their arrest. There\r\nare signs that a single round was fired.",
+      "fr": "\r\n<HD>\r\n</HD>Un revolver que détenaient les frères\r\nO'Voller lors de leur arrestation.\r\nD'après les traces, il a tiré une fois."
+    },
+    {
+      "id": "078",
+      "en": "A photograph taken automatically by the\r\nRed-Handed Recorder showing the scene\r\na short time before the murder took place.",
+      "fr": "\r\n<HD>\r\n</HD>Prise par \"l'appareil d'enregistrement\r\nautomatique des crimes\".\r\nOn pense que cela nous montre\r\nl'instant juste avant le meurtre."
+    },
+    {
+      "id": "079",
+      "en": "A photograph taken automatically by the\r\nRed-Handed Recorder showing the scene\r\nafter the murder had taken place.",
+      "fr": "\r\n<HD>\r\n</HD>Prise par \"l'appareil d'enregistrement\r\nautomatique des crimes\".\r\nOn pense que cela nous montre\r\nl'instant juste après le meurtre."
+    },
+    {
+      "id": "080",
+      "en": "The pouch Mr Sholmes was wearing around\r\nhis waist at the time of the shooting. One of\r\nthe glass phials is smashed and there are\r\nscorch marks around it.",
+      "fr": "\r\n<HD>\r\n</HD>Au moment du crime, Holmes portait\r\nça en bandoulière. Le flacon de verre\r\nsemble avoir explosé en se brisant."
+    },
+    {
+      "id": "081",
+      "en": "A projectile we discovered lodged in\r\nMr Sholmes's pouch. It caused one of the\r\nphials to explode, injuring Mr Sholmes.",
+      "fr": "\r\n<HD>\r\n</HD>Retrouvée dans la pochette de Holmes.\r\nIl semblerait que la balle ait fait\r\nexploser un flacon en blessant Holmes."
+    },
+    {
+      "id": "082",
+      "en": "This strange music box only appears\r\nto be able to play a single tone. It was\r\ndeposited at Windibank's two days\r\nbefore the black overcoat.",
+      "fr": "\r\n<HD>\r\n</HD>Déposée deux jours avant\r\nle manteau noir.\r\nNe joue qu'une seule note."
+    },
+    {
+      "id": "083",
+      "en": "A compact machine for the rapid creation\r\nof small flaps in larger doors, to allow cats\r\nto come and go freely.",
+      "fr": "\r\n<HD>\r\n</HD><HD>Un appareil qui permet de créer de petites\r\nportes, des chatières, dans n'importe quelle\r\npièce, pour permettre aux chats de circuler\r\nlibrement.</HD>"
+    },
+    {
+      "id": "084",
+      "en": "A report from the SS Burya's medical\r\nofficer, giving the cause of death as a\r\ncervical spine injury. There were no\r\ntraces of external injury or poison.",
+      "fr": "\r\n<HD>\r\n</HD>Réalisé par le médecin de bord. Cause\r\ndu décès : coup aux vertèbres cervicales.\r\nAucune autre blessure ni trace de poison."
+    },
+    {
+      "id": "085",
+      "en": "An article on the front page of a\r\nRussian newspaper. The headline reads:\r\n‘Revolutionary Vilen Borshevik Flees\r\nRussia via Shanghai’.",
+      "fr": "\r\n<HD>\r\n</HD>Article d'un journal russe.\r\n\"Le révolutionnaire Dimitri Ouisski\r\na fui la Russie et serait en route\r\nvers Shanghaï.\""
+    },
+    {
+      "id": "086",
+      "en": "An article on the back page of a\r\nRussian newspaper. The headline reads:\r\n‘Renowned Prima Ballerina of the\r\nNovavich Ballet Disappears!’",
+      "fr": "\r\n<HD>\r\n</HD>Article d'un journal russe.\r\n\"Une danseuse du ballet Novavich\r\na disparu lors d'une escale\r\nà Shanghaï.\""
+    },
+    {
+      "id": "087",
+      "en": "A record kept by the crew assigned to\r\nthe first-class cabin area. There are\r\nvirtually no entries from 2 a.m. until\r\nearly this morning.",
+      "fr": "\r\n<HD>\r\n</HD>Contient les rapports du marin chargé des\r\ncabines de première classe. Les horaires de 2h\r\ndu matin jusqu'au jour ne sont pas remplis."
+    }
+  ],
+  "evidence_name_eng": [
+    {
+      "id": "001",
+      "en": "dummy",
+      "fr": "－－－－－－"
+    },
+    {
+      "id": "002",
+      "en": "Photograph of Victim",
+      "fr": "Photographie de la victime"
+    },
+    {
+      "id": "003",
+      "en": "Crime Scene Photograph",
+      "fr": "Photographie du lieu du crime"
+    },
+    {
+      "id": "004",
+      "en": "Medical Report Card",
+      "fr": "Dossier médical"
+    },
+    {
+      "id": "005",
+      "en": "Waiter's Business Card",
+      "fr": "Carte de visite du serveur"
+    },
+    {
+      "id": "006",
+      "en": "Plate of Steak",
+      "fr": "Assiette de steak"
+    },
+    {
+      "id": "007",
+      "en": "Carbonated Water Bottle",
+      "fr": "Bouteille d'eau pétillante"
+    },
+    {
+      "id": "008",
+      "en": "Post-Mortem Report",
+      "fr": "Rapport d'examen post-mortem"
+    },
+    {
+      "id": "009",
+      "en": "Jezaille's Report",
+      "fr": "Rapport de Gizelle"
+    },
+    {
+      "id": "010",
+      "en": "University Collar Pin",
+      "fr": "Emblème de l'université"
+    },
+    {
+      "id": "011",
+      "en": "Photograph of Handbag",
+      "fr": "Photographie du sac à main"
+    },
+    {
+      "id": "012",
+      "en": "Kazuma's Diary",
+      "fr": "Journal de Kiyô"
+    },
+    {
+      "id": "013",
+      "en": "Crime Scene Photograph",
+      "fr": "Photographie du lieu du crime"
+    },
+    {
+      "id": "014",
+      "en": "Article About Revolutionary",
+      "fr": "Article sur un révolutionnaire"
+    },
+    {
+      "id": "015",
+      "en": "Article About Ballerina",
+      "fr": "Article sur une danseuse de ballet"
+    },
+    {
+      "id": "016",
+      "en": "Post-Mortem Report",
+      "fr": "Rapport d'autopsie"
+    },
+    {
+      "id": "017",
+      "en": "Ship's Log",
+      "fr": "Journal de bord du navire"
+    },
+    {
+      "id": "018",
+      "en": "Armband",
+      "fr": "Brassard"
+    },
+    {
+      "id": "019",
+      "en": "Paper Seal",
+      "fr": "Note \"ne pas ouvrir\""
+    },
+    {
+      "id": "020",
+      "en": "Mark on Floor",
+      "fr": "Traces sur le sol"
+    },
+    {
+      "id": "021",
+      "en": "Pavlova & Darka Photograph",
+      "fr": "Photographie de Liliya avec un chat"
+    },
+    {
+      "id": "022",
+      "en": "Autopsy Report",
+      "fr": "Rapport d'autopsie"
+    },
+    {
+      "id": "023",
+      "en": "Crime Scene Photograph",
+      "fr": "Photographie du lieu du crime"
+    },
+    {
+      "id": "024",
+      "en": "Defendant's Leather Gloves",
+      "fr": "Gants de l'accusé"
+    },
+    {
+      "id": "025",
+      "en": "Omnibus",
+      "fr": "<RUBY><RB>Diligence</RB><RT><COL 54563C>   </COL></RT><RUBY>"
+    },
+    {
+      "id": "026",
+      "en": "Murder Weapon",
+      "fr": "Arme du crime : couteau"
+    },
+    {
+      "id": "027",
+      "en": "Murder Weapon",
+      "fr": "Arme du crime : couteau"
+    },
+    {
+      "id": "028",
+      "en": "Debtors' Ledger",
+      "fr": "Annuaire des clients"
+    },
+    {
+      "id": "029",
+      "en": "Local Map",
+      "fr": "Plan schématique du lieu du crime"
+    },
+    {
+      "id": "030",
+      "en": "Secondhand Book Receipt",
+      "fr": "Récépissé d'une librairie"
+    },
+    {
+      "id": "031",
+      "en": "Case File",
+      "fr": "Éléments de l'affaire"
+    },
+    {
+      "id": "032",
+      "en": "Jackknife",
+      "fr": "Arme du crime : couteau"
+    },
+    {
+      "id": "033",
+      "en": "Crime Scene Photograph",
+      "fr": "Photographie du lieu du crime"
+    },
+    {
+      "id": "034",
+      "en": "Crime Scene Photograph (Updated)",
+      "fr": "Photographie du lieu du crime 1"
+    },
+    {
+      "id": "035",
+      "en": "Anniversary Bouquet",
+      "fr": "Bouquet de fleurs offert"
+    },
+    {
+      "id": "036",
+      "en": "Crime Scene Photograph #2",
+      "fr": "Photographie du lieu du crime 2"
+    },
+    {
+      "id": "037",
+      "en": "The Fourth Book",
+      "fr": "Quatrième livre"
+    },
+    {
+      "id": "038",
+      "en": "Fragment of Metal",
+      "fr": "Morceau de métal"
+    },
+    {
+      "id": "039",
+      "en": "Iris's Postcard",
+      "fr": "Carte d'Iris"
+    },
+    {
+      "id": "040",
+      "en": "Warrant Card",
+      "fr": "Manuel de police"
+    },
+    {
+      "id": "041",
+      "en": "Stereoscope",
+      "fr": "Stéréoscope"
+    },
+    {
+      "id": "042",
+      "en": "Music Box Disk",
+      "fr": "Disque de boîte à musique"
+    },
+    {
+      "id": "043",
+      "en": "White Cat Photograph",
+      "fr": "Photographie de chat blanc"
+    },
+    {
+      "id": "044",
+      "en": "White Cat Photograph (Updated)",
+      "fr": "Photographie de chat blanc 1"
+    },
+    {
+      "id": "045",
+      "en": "Pawnbroker's Ticket (Box)",
+      "fr": "Récépissé de dépôt (boîte)"
+    },
+    {
+      "id": "046",
+      "en": "Gina's Representation Papers",
+      "fr": "Demande de Gina"
+    },
+    {
+      "id": "047",
+      "en": "White Cat Photograph #2",
+      "fr": "Photographie de chat blanc 2"
+    },
+    {
+      "id": "048",
+      "en": "Pawnbroker's Ticket (Coat)",
+      "fr": "Récépissé de dépôt (manteau)"
+    },
+    {
+      "id": "049",
+      "en": "Blood Samples Portfolio",
+      "fr": "Échantillons de sang"
+    },
+    {
+      "id": "050",
+      "en": "Iris's Story Manuscript",
+      "fr": "Manuscrit d'Iris"
+    },
+    {
+      "id": "051",
+      "en": "Windibank's Gun",
+      "fr": "Revolver de M. Pressure"
+    },
+    {
+      "id": "052",
+      "en": "McGilded Case Notes",
+      "fr": "Éléments de l'affaire Fortune"
+    },
+    {
+      "id": "053",
+      "en": "Today's Paper",
+      "fr": "Journal du jour"
+    },
+    {
+      "id": "054",
+      "en": "Autopsy Report",
+      "fr": "Rapport d'autopsie"
+    },
+    {
+      "id": "055",
+      "en": "Crime Scene Photograph",
+      "fr": "Photographie du lieu du crime"
+    },
+    {
+      "id": "056",
+      "en": "Crime Scene Floor Plan",
+      "fr": "Plan schématique du lieu du crime"
+    },
+    {
+      "id": "057",
+      "en": "Skulkin Brothers' Gun",
+      "fr": "Revolver des O'Voller"
+    },
+    {
+      "id": "058",
+      "en": "Photograph of Gina",
+      "fr": "Photographie de la boutique (Gina)"
+    },
+    {
+      "id": "059",
+      "en": "Post-Shooting Photograph",
+      "fr": "Photo de la boutique (après le crime)"
+    },
+    {
+      "id": "060",
+      "en": "Sholmes's Pouch",
+      "fr": "Pochette de Holmes"
+    },
+    {
+      "id": "061",
+      "en": "The Third Bullet",
+      "fr": "3ème balle"
+    },
+    {
+      "id": "062",
+      "en": "Small Music Box",
+      "fr": "Boîte à musique"
+    },
+    {
+      "id": "063",
+      "en": "Cat-Flapomat",
+      "fr": "Machine à chatière"
+    },
+    {
+      "id": "064",
+      "en": "Post-Mortem Report",
+      "fr": "Rapport d'autopsie"
+    },
+    {
+      "id": "065",
+      "en": "Article About Revolutionary",
+      "fr": "Article sur la révolution"
+    },
+    {
+      "id": "066",
+      "en": "Article About Ballerina",
+      "fr": "Article sur une danseuse de ballet"
+    },
+    {
+      "id": "067",
+      "en": "Ship's Log",
+      "fr": "Journal de bord du navire"
+    }
+  ],
+  "name_eng": [
+    {
+      "id": "001",
+      "en": "Ryunosuke",
+      "fr": "Yûno"
+    },
+    {
+      "id": "002",
+      "en": "Sholmes",
+      "fr": "Holmes"
+    },
+    {
+      "id": "003",
+      "en": "Susato",
+      "fr": "Amimo"
+    },
+    {
+      "id": "004",
+      "en": "Young Lady",
+      "fr": "Jeune fille"
+    },
+    {
+      "id": "005",
+      "en": "Wilson",
+      "fr": "Watson"
+    },
+    {
+      "id": "006",
+      "en": "Van Zieks",
+      "fr": "Van Peers"
+    },
+    {
+      "id": "007",
+      "en": "Van Zieks",
+      "fr": "Van Peers"
+    },
+    {
+      "id": "008",
+      "en": "Policeman",
+      "fr": "Inspecteur"
+    },
+    {
+      "id": "009",
+      "en": "Mikotoba",
+      "fr": "Amiéyama"
+    },
+    {
+      "id": "010",
+      "en": "Professor",
+      "fr": "Professeur"
+    },
+    {
+      "id": "011",
+      "en": "Stronghart",
+      "fr": "Caine"
+    },
+    {
+      "id": "012",
+      "en": "Kazuma",
+      "fr": "Kiyô"
+    },
+    {
+      "id": "013",
+      "en": "Judge",
+      "fr": "Juge"
+    },
+    {
+      "id": "014",
+      "en": "Auchi",
+      "fr": "Raté"
+    },
+    {
+      "id": "015",
+      "en": "Brett",
+      "fr": "Gizelle"
+    },
+    {
+      "id": "016",
+      "en": "Pretty Lady",
+      "fr": "Beauté"
+    },
+    {
+      "id": "017",
+      "en": "Hosonaga",
+      "fr": "Honédé"
+    },
+    {
+      "id": "018",
+      "en": "Waiter",
+      "fr": "Serveur"
+    },
+    {
+      "id": "019",
+      "en": "Inspector",
+      "fr": "Inspecteur"
+    },
+    {
+      "id": "020",
+      "en": "Korekuta",
+      "fr": "Sé-amoa"
+    },
+    {
+      "id": "021",
+      "en": "Nosa",
+      "fr": "Kékassé"
+    },
+    {
+      "id": "022",
+      "en": "Bailiff",
+      "fr": "Garde"
+    },
+    {
+      "id": "023",
+      "en": "Sailor",
+      "fr": "Marin"
+    },
+    {
+      "id": "024",
+      "en": "Forensics",
+      "fr": "Enquêteur"
+    },
+    {
+      "id": "025",
+      "en": "Strogenov",
+      "fr": "Stroganov"
+    },
+    {
+      "id": "026",
+      "en": "Old Man",
+      "fr": "Vieil homme"
+    },
+    {
+      "id": "027",
+      "en": "Pavlova",
+      "fr": "Liliya"
+    },
+    {
+      "id": "028",
+      "en": "McGilded",
+      "fr": "Fortune"
+    },
+    {
+      "id": "029",
+      "en": "Furst",
+      "fr": "Ladyfirst"
+    },
+    {
+      "id": "030",
+      "en": "Juror No. 1",
+      "fr": "Juré n°1"
+    },
+    {
+      "id": "031",
+      "en": "Juror No. 2",
+      "fr": "Jurée n°2"
+    },
+    {
+      "id": "032",
+      "en": "Juror No. 3",
+      "fr": "Juré n°3"
+    },
+    {
+      "id": "033",
+      "en": "Juror No. 4",
+      "fr": "Jurée n°4"
+    },
+    {
+      "id": "034",
+      "en": "Juror No. 5",
+      "fr": "Juré n°5"
+    },
+    {
+      "id": "035",
+      "en": "Juror No. 6",
+      "fr": "Jurée n°6"
+    },
+    {
+      "id": "036",
+      "en": "Soseki",
+      "fr": "Sôsséki"
+    },
+    {
+      "id": "037",
+      "en": "Joan",
+      "fr": "Jane"
+    },
+    {
+      "id": "038",
+      "en": "Maid",
+      "fr": "Domestique"
+    },
+    {
+      "id": "039",
+      "en": "Green",
+      "fr": "Olive"
+    },
+    {
+      "id": "040",
+      "en": "Roly",
+      "fr": "Paul"
+    },
+    {
+      "id": "041",
+      "en": "Bobby",
+      "fr": "Policier"
+    },
+    {
+      "id": "042",
+      "en": "Patricia",
+      "fr": "Lisa"
+    },
+    {
+      "id": "043",
+      "en": "Juror No. 1",
+      "fr": "Juré n°1"
+    },
+    {
+      "id": "044",
+      "en": "Juror No. 2",
+      "fr": "Jurée n°2"
+    },
+    {
+      "id": "045",
+      "en": "Juror No. 3",
+      "fr": "Juré n°3"
+    },
+    {
+      "id": "046",
+      "en": "Juror No. 4",
+      "fr": "Jurée n°4"
+    },
+    {
+      "id": "047",
+      "en": "Juror No. 5",
+      "fr": "Juré n°5"
+    },
+    {
+      "id": "048",
+      "en": "Juror No. 6",
+      "fr": "Juré n°6"
+    },
+    {
+      "id": "049",
+      "en": "Bobby",
+      "fr": "Policier"
+    },
+    {
+      "id": "050",
+      "en": "Wagahai",
+      "fr": "Moi"
+    },
+    {
+      "id": "051",
+      "en": "Benedict",
+      "fr": "Benedictine"
+    },
+    {
+      "id": "052",
+      "en": "Graydon",
+      "fr": "Greynoir"
+    },
+    {
+      "id": "053",
+      "en": "Windibank",
+      "fr": "Pressure"
+    },
+    {
+      "id": "054",
+      "en": "Nash",
+      "fr": "Dodo"
+    },
+    {
+      "id": "055",
+      "en": "Ringo",
+      "fr": "Olly"
+    },
+    {
+      "id": "056",
+      "en": "Juror No. 1",
+      "fr": "Juré n°1"
+    },
+    {
+      "id": "057",
+      "en": "Juror No. 2",
+      "fr": "Jurée n°2"
+    },
+    {
+      "id": "058",
+      "en": "Juror No. 3",
+      "fr": "Juré n°3"
+    },
+    {
+      "id": "059",
+      "en": "Juror No. 4",
+      "fr": "Juré n°4"
+    },
+    {
+      "id": "060",
+      "en": "Juror No. 5",
+      "fr": "Jurée n°5"
+    },
+    {
+      "id": "061",
+      "en": "Juror No. 6",
+      "fr": "Juré n°6"
+    },
+    {
+      "id": "062",
+      "en": "? ? ?",
+      "fr": "???"
+    },
+    {
+      "id": "063",
+      "en": "? ? ?",
+      "fr": "???"
+    },
+    {
+      "id": "064",
+      "en": "Motion",
+      "fr": "Animation"
+    },
+    {
+      "id": "065",
+      "en": "Presentation",
+      "fr": "Production"
+    },
+    {
+      "id": "066",
+      "en": "Scenario",
+      "fr": "Scénario"
+    },
+    {
+      "id": "067",
+      "en": "SE",
+      "fr": "Effets Spéciaux"
+    },
+    {
+      "id": "068",
+      "en": "Flag",
+      "fr": "Index"
+    },
+    {
+      "id": "069",
+      "en": "System",
+      "fr": "Système"
+    }
+  ],
+  "topic_eng": [
+    {
+      "id": "001",
+      "en": "仮＿０",
+      "fr": "仮＿0"
+    },
+    {
+      "id": "002",
+      "en": "仮＿１",
+      "fr": "仮＿1"
+    },
+    {
+      "id": "003",
+      "en": "Kazuma's death",
+      "fr": "La mort de Kiyô"
+    },
+    {
+      "id": "004",
+      "en": "About the incident",
+      "fr": "À propos de l'affaire"
+    },
+    {
+      "id": "005",
+      "en": "‘Stowaway’",
+      "fr": "Un passager clandestin"
+    },
+    {
+      "id": "006",
+      "en": "Last night",
+      "fr": "À propos de la nuit dernière"
+    },
+    {
+      "id": "007",
+      "en": "‘Great detective’",
+      "fr": "Le \"Grand détective\""
+    },
+    {
+      "id": "008",
+      "en": "Kazuma's death",
+      "fr": "L'affaire de Kiyô"
+    },
+    {
+      "id": "009",
+      "en": "What you were just investigating",
+      "fr": "Sur quoi vous avez enquêté"
+    },
+    {
+      "id": "010",
+      "en": "Your deduction just now",
+      "fr": "Le raisonnement de tout à l'heure"
+    },
+    {
+      "id": "011",
+      "en": "Two facts",
+      "fr": "Deux \"vérités\""
+    },
+    {
+      "id": "012",
+      "en": "Special orders",
+      "fr": "Des ordres spéciaux"
+    },
+    {
+      "id": "013",
+      "en": "Permission to investigate",
+      "fr": "Autorisation d'enquêter"
+    },
+    {
+      "id": "014",
+      "en": "First-class cabin area",
+      "fr": "Les cabines de 1ère classe"
+    },
+    {
+      "id": "015",
+      "en": "Last night",
+      "fr": "À propos de la nuit dernière"
+    },
+    {
+      "id": "016",
+      "en": "Passenger in the next-door cabin",
+      "fr": "L'occupant de la cabine d'à côté"
+    },
+    {
+      "id": "017",
+      "en": "Last night",
+      "fr": "À propos de la nuit dernière"
+    },
+    {
+      "id": "018",
+      "en": "First-class cabin",
+      "fr": "Une cabine de 1ère classe"
+    },
+    {
+      "id": "019",
+      "en": "About the incident",
+      "fr": "À propos de l'affaire"
+    },
+    {
+      "id": "020",
+      "en": "What happened last night",
+      "fr": "À propos de la nuit dernière"
+    },
+    {
+      "id": "021",
+      "en": "Running away",
+      "fr": "En fuite"
+    },
+    {
+      "id": "022",
+      "en": "‘Friend’",
+      "fr": "\"Un ami\""
+    },
+    {
+      "id": "023",
+      "en": "Conundrum",
+      "fr": "Quelque chose d'étrange"
+    },
+    {
+      "id": "024",
+      "en": "The cabin next door",
+      "fr": "La cabine voisine"
+    },
+    {
+      "id": "025",
+      "en": "The great detective",
+      "fr": "Ce détective"
+    },
+    {
+      "id": "026",
+      "en": "New information",
+      "fr": "Une nouvelle information"
+    },
+    {
+      "id": "027",
+      "en": "London",
+      "fr": "Londres, capitale de l'Empire"
+    },
+    {
+      "id": "028",
+      "en": "Law student",
+      "fr": "Un étudiant en droit, en échange"
+    },
+    {
+      "id": "029",
+      "en": "Continuing the study tour",
+      "fr": "Le programme d'échange"
+    },
+    {
+      "id": "030",
+      "en": "Test",
+      "fr": "L'examen"
+    },
+    {
+      "id": "031",
+      "en": "What to do",
+      "fr": "Converser"
+    },
+    {
+      "id": "032",
+      "en": "McGilded's death",
+      "fr": "La mort de Fortune"
+    },
+    {
+      "id": "033",
+      "en": "British court",
+      "fr": "Les procès britanniques"
+    },
+    {
+      "id": "034",
+      "en": "New case",
+      "fr": "Un nouveau client"
+    },
+    {
+      "id": "035",
+      "en": "Inspector Gregson",
+      "fr": "L'inspecteur Gregson"
+    },
+    {
+      "id": "036",
+      "en": "The case",
+      "fr": "Concernant l'affaire"
+    },
+    {
+      "id": "037",
+      "en": "Reaper of the Bailey",
+      "fr": "Le Dieu de la Mort"
+    },
+    {
+      "id": "038",
+      "en": "Soseki Natsume",
+      "fr": "Natsumé Sôsséki"
+    },
+    {
+      "id": "039",
+      "en": "The accusation against you",
+      "fr": "Les soupçons"
+    },
+    {
+      "id": "040",
+      "en": "About the case",
+      "fr": "À propos de l'affaire"
+    },
+    {
+      "id": "041",
+      "en": "Conundrum",
+      "fr": "Quelque chose d'étrange"
+    },
+    {
+      "id": "042",
+      "en": "Herr Lock Sholmes",
+      "fr": "\"Ce cher Lockholmes\""
+    },
+    {
+      "id": "043",
+      "en": "About the case",
+      "fr": "À propos de l'affaire"
+    },
+    {
+      "id": "044",
+      "en": "Tomorrow's trial",
+      "fr": "Le procès de demain"
+    },
+    {
+      "id": "045",
+      "en": "Witnesses",
+      "fr": "Les témoins"
+    },
+    {
+      "id": "046",
+      "en": "Mr Sholmes",
+      "fr": "Holmes"
+    },
+    {
+      "id": "047",
+      "en": "‘Wilson’",
+      "fr": "\"Watson\""
+    },
+    {
+      "id": "048",
+      "en": "Your deductions just now",
+      "fr": "Tes déductions"
+    },
+    {
+      "id": "049",
+      "en": "The case of the Japanese man",
+      "fr": "L'affaire \"du Japonais\""
+    },
+    {
+      "id": "050",
+      "en": "About Mr Natsume",
+      "fr": "Sôsséki"
+    },
+    {
+      "id": "051",
+      "en": "The incident two days ago",
+      "fr": "L'affaire d'il y a 2 jours"
+    },
+    {
+      "id": "052",
+      "en": "The shady lodger",
+      "fr": "Un étrange locataire"
+    },
+    {
+      "id": "053",
+      "en": "Mr Natsume's room",
+      "fr": "La chambre de Sôsséki"
+    },
+    {
+      "id": "054",
+      "en": "Mr Natsume's arrest",
+      "fr": "L'arrestation de Sôsséki"
+    },
+    {
+      "id": "055",
+      "en": "Mr Garrideb, the landlord",
+      "fr": "Mr Garrideb, le propriétaire"
+    },
+    {
+      "id": "056",
+      "en": "The dingy room",
+      "fr": "La pièce dans l'obscurité"
+    },
+    {
+      "id": "057",
+      "en": "Cursed trial",
+      "fr": "Le procès maudit"
+    },
+    {
+      "id": "058",
+      "en": "Cursed lodgings",
+      "fr": "Un appartement maudit"
+    },
+    {
+      "id": "059",
+      "en": "The Reaper",
+      "fr": "La vérité sur le Dieu de la Mort"
+    },
+    {
+      "id": "060",
+      "en": "To believe",
+      "fr": "Les raisons de faire confiance"
+    },
+    {
+      "id": "061",
+      "en": "The telegram",
+      "fr": "À propos du télégramme"
+    },
+    {
+      "id": "062",
+      "en": "Soseki-san",
+      "fr": "Sôsséki"
+    },
+    {
+      "id": "063",
+      "en": "The Reaper",
+      "fr": "Le Dieu de la Mort"
+    },
+    {
+      "id": "064",
+      "en": "Wanting to die",
+      "fr": "Pourquoi vouloir mourir"
+    },
+    {
+      "id": "065",
+      "en": "The missing machine",
+      "fr": "La machine disparue"
+    },
+    {
+      "id": "066",
+      "en": "How pawnbroking works",
+      "fr": "Usage du prêt sur gages"
+    },
+    {
+      "id": "067",
+      "en": "Wagahai",
+      "fr": "Moi, le chat"
+    },
+    {
+      "id": "068",
+      "en": "Mix-up",
+      "fr": "Une erreur par interversion"
+    },
+    {
+      "id": "069",
+      "en": "Violin",
+      "fr": "Le violon"
+    },
+    {
+      "id": "070",
+      "en": "Pawnbrokery",
+      "fr": "Concernant le prêt sur gages"
+    },
+    {
+      "id": "071",
+      "en": "Unpublished story",
+      "fr": "Un manuscrit"
+    },
+    {
+      "id": "072",
+      "en": "Red-Handed Recorder",
+      "fr": "Appareil automatique"
+    },
+    {
+      "id": "073",
+      "en": "Pawnbroker's customer",
+      "fr": "Le lien entre Gina et l'échoppe"
+    },
+    {
+      "id": "074",
+      "en": "Miss Lestrade's disk",
+      "fr": "À propos du disque"
+    },
+    {
+      "id": "075",
+      "en": "Gina Lestrade",
+      "fr": "À propos de Gina"
+    },
+    {
+      "id": "076",
+      "en": "New article to pawn",
+      "fr": "Un nouveau dépôt"
+    },
+    {
+      "id": "077",
+      "en": "Picture-postcard gentleman",
+      "fr": "L'identité de cet homme"
+    },
+    {
+      "id": "078",
+      "en": "The gentleman's accusation",
+      "fr": "Les accusations qu'il formule"
+    },
+    {
+      "id": "079",
+      "en": "Evidence",
+      "fr": "Une preuve"
+    },
+    {
+      "id": "080",
+      "en": "Watchwords",
+      "fr": "Un mot de passe"
+    },
+    {
+      "id": "081",
+      "en": "Living with Sholmes",
+      "fr": "Iris et Holmes"
+    },
+    {
+      "id": "082",
+      "en": "Iris's father",
+      "fr": "Le père d'Iris"
+    },
+    {
+      "id": "083",
+      "en": "Ginny",
+      "fr": "Concernant Gina"
+    },
+    {
+      "id": "084",
+      "en": "The music box disk",
+      "fr": "À propos du disque"
+    },
+    {
+      "id": "085",
+      "en": "Magnus McGilded",
+      "fr": "L'affaire de Jeffrey Fortune "
+    },
+    {
+      "id": "086",
+      "en": "The music on the disk",
+      "fr": "La musique enregistrée"
+    },
+    {
+      "id": "087",
+      "en": "The manuscript",
+      "fr": "À propos du manuscrit"
+    },
+    {
+      "id": "088",
+      "en": "The Hound of the Baskervilles",
+      "fr": "Le chien des Baskerville"
+    },
+    {
+      "id": "089",
+      "en": "Your parents",
+      "fr": "Les parents de Gina"
+    },
+    {
+      "id": "090",
+      "en": "Sholmes's lie",
+      "fr": "Le mensonge de Holmes"
+    },
+    {
+      "id": "091",
+      "en": "Events at Windibank's",
+      "fr": "L'affaire du prêteur sur gages"
+    },
+    {
+      "id": "092",
+      "en": "Sholmes's situation",
+      "fr": "Holmes"
+    },
+    {
+      "id": "093",
+      "en": "Susato's situation",
+      "fr": "Amimo"
+    },
+    {
+      "id": "094",
+      "en": "Injured Sholmes",
+      "fr": "Holmes s'est fait tirer dessus"
+    },
+    {
+      "id": "095",
+      "en": "Gina's arrest",
+      "fr": "L'arrestation de Gina"
+    },
+    {
+      "id": "096",
+      "en": "The investigation",
+      "fr": "À propos de l'enquête"
+    },
+    {
+      "id": "097",
+      "en": "Mr Sholmes",
+      "fr": "Holmes"
+    },
+    {
+      "id": "098",
+      "en": "Her Ladyship",
+      "fr": "Iris"
+    },
+    {
+      "id": "099",
+      "en": "Important message",
+      "fr": "À propos du message"
+    },
+    {
+      "id": "100",
+      "en": "Returning to our homeland",
+      "fr": "Rentrer au pays"
+    },
+    {
+      "id": "101",
+      "en": "Gina's trial",
+      "fr": "Le procès de Gina"
+    },
+    {
+      "id": "102",
+      "en": "Legal representation",
+      "fr": "À propos de la défense"
+    },
+    {
+      "id": "103",
+      "en": "What happened",
+      "fr": "À propos de l'affaire"
+    },
+    {
+      "id": "104",
+      "en": "Unforgivable lies",
+      "fr": "La pire des menteuses"
+    },
+    {
+      "id": "105",
+      "en": "The trial two months ago",
+      "fr": "Le procès d'il y a deux mois"
+    },
+    {
+      "id": "106",
+      "en": "What you saw",
+      "fr": "Ce que tu as vu"
+    },
+    {
+      "id": "107",
+      "en": "What you heard",
+      "fr": "Ce que tu as entendu"
+    },
+    {
+      "id": "108",
+      "en": "After the event",
+      "fr": "Après avoir \"découvert\" le crime"
+    },
+    {
+      "id": "109",
+      "en": "McGilded's conditions",
+      "fr": "La condition de Fortune"
+    },
+    {
+      "id": "110",
+      "en": "Pair of photographs",
+      "fr": "Le secret des deux photos"
+    },
+    {
+      "id": "111",
+      "en": "How stereoscopic prints work",
+      "fr": "La vision stéréoscopique"
+    },
+    {
+      "id": "112",
+      "en": "How to view stereoscopic prints",
+      "fr": "Voir des images en 3D"
+    },
+    {
+      "id": "113",
+      "en": "The scene of the crime",
+      "fr": "Situation du lieu du crime"
+    },
+    {
+      "id": "114",
+      "en": "Sholmes's operation",
+      "fr": "Concernant Holmes"
+    },
+    {
+      "id": "115",
+      "en": "The second redemption ticket",
+      "fr": "Un deuxième récépissé"
+    },
+    {
+      "id": "116",
+      "en": "What we've uncovered",
+      "fr": "Les résultats de l'enquête"
+    },
+    {
+      "id": "117",
+      "en": "Representation in court",
+      "fr": "Demande d'assurer la défense"
+    },
+    {
+      "id": "118",
+      "en": "Iris's manuscript",
+      "fr": "Le manuscrit d'Iris"
+    },
+    {
+      "id": "119",
+      "en": "Reason for breaking in",
+      "fr": "Le but du cambriolage"
+    },
+    {
+      "id": "120",
+      "en": "The truth of the omnibus case",
+      "fr": "La vérité sur le procès de Fortune"
+    },
+    {
+      "id": "121",
+      "en": "A lawyer's weapon",
+      "fr": "L'arme des avocats"
+    },
+    {
+      "id": "122",
+      "en": "Going back to Japan",
+      "fr": "Le \"Retour au pays\""
+    },
+    {
+      "id": "123",
+      "en": "Tomorrow's departure",
+      "fr": "Le départ du lendemain"
+    },
+    {
+      "id": "124",
+      "en": "One final task",
+      "fr": "L'ultime mission"
+    },
+    {
+      "id": "125",
+      "en": "What to do",
+      "fr": "Converser"
+    },
+    {
+      "id": "126",
+      "en": "What to do",
+      "fr": "Converser"
+    }
+  ],
+  "txtcut0_eng": [
+    {
+      "id": "001",
+      "en": "Victim\r\n  John H. Wilson\r\n  Male, British\r\n\r\nTime of Death\r\n  19th November, shortly after 2 p.m.",
+      "fr": "■Victime :\r\n   John H. Watson\r\n   Homme, citoyen britannique\r\n\r\n■Heure estimée du décès :\r\n   19 novembre\r\n   peu après 14 heures"
+    },
+    {
+      "id": "002",
+      "en": "Cause of Death\r\n  Single bullet fired at close range.\r\n  Fatal haemorrhage from pectoral ballistic trauma.\r\n  No exit wound. Bullet did not pass through the body.",
+      "fr": "■Cause du décès :\r\n   Hémorragie après une plaie par balle.\r\n   Abattu d'un tir dans la poitrine.\r\n   Pas de plaie de sortie de la balle."
+    },
+    {
+      "id": "003",
+      "en": "Synopsis",
+      "fr": "◎Résumé◎"
+    },
+    {
+      "id": "004",
+      "en": "A poison made from the bark of certain trees in the jungles of\r\nSouth America.\r\n\r\nThe hunters of the region have used it since ancient times to\r\nincapacitate their prey.",
+      "fr": "Extrait d'une plante d'Amérique du Sud, qui\r\npousse uniquement dans la forêt amazonienne,\r\net appelée Strychnos toxifera.\r\n\r\nLes indigènes de ces territoires d'Amazonie\r\ns'en servent pour la chasse depuis des\r\ntemps immémoriaux."
+    },
+    {
+      "id": "005",
+      "en": "Special Characteristics",
+      "fr": "◎Propriétés◎"
+    },
+    {
+      "id": "006",
+      "en": "Effects\r\n  Instant paralysis of the entire body and subsequent death,\r\n  even in minute doses.\r\n\r\nRoute of Entry\r\n  The above-mentioned effects occur when the poison enters\r\n  the body through a wound, such as that inflicted by a\r\n  blowpipe dart.",
+      "fr": "Effet : Même à faible dose, paralysie totale et\r\ninstantanée de tous les muscles. Poison mortel.\r\n\r\nConditions particulières : le poison n'est effi-\r\ncace qu'en entrant dans le corps par une plaie,\r\ncomme par exemple celle infligée par\r\nprojectile de sarbacane."
+    },
+    {
+      "id": "007",
+      "en": "Practical Applications",
+      "fr": "◎Utilisation◎"
+    },
+    {
+      "id": "008",
+      "en": "Due to its ability to render the human body paralytic,\r\nit's believed that the toxin could have application as an\r\nanaesthetic.\r\n\r\nHowever, a solution for the respiratory arrest caused\r\nas a result of the full-body paralysis must be found first,\r\nor patients would die of suffocation.",
+      "fr": "Puisqu'il paralyse tous les muscles du corps,\r\non envisage de s'en servir comme anesthésiant.\r\n\r\nLe fait que les muscles respiratoires soient eux\r\naussi paralysés est un problème qu'il faudra\r\nsurmonter, afin de permettre aux patients de\r\nne pas cesser de respirer lors de l'anesthésie."
+    }
+  ],
+  "txtcut1_eng": [
+    {
+      "id": "001",
+      "en": "Kazuma's Diary",
+      "fr": "Journal de Kiyô"
+    },
+    {
+      "id": "002",
+      "en": "\r\n1:23 a.m.\r\nI can hear a faint whistling sound.\r\n\r\n1:35 a.m.\r\nWhat looks like some sort of speckled band is dangling from\r\nthe ventilator grille.",
+      "fr": "Une heure et vingt-trois minutes après minuit :\r\nj'ai entendu comme un sifflement.\r\n\r\nUne heure et trente-cinq minutes après minuit :\r\nj'ai vu comme une bande mouchetée\r\ndans le conduit d'aération."
+    },
+    {
+      "id": "003",
+      "en": "Victim\r\n  Male, Far Eastern\r\nTime of Death\r\n  Sometime between 1 a.m. and a little past 2 a.m.\r\nCause of Death\r\n  Damage to the cervical vertebrae resulting in instant death.\r\n  The victim's neck was almost certainly broken as a result\r\n  of a strong blow to the area. No obvious external injuries or\r\n  traces of poison.",
+      "fr": "■Victime : Homme asiatique\r\n■Heure estimée du décès :\r\n   Entre 1 heure et 2 heures du matin\r\n■Cause de la mort :\r\n  Choc aux vertèbres cervicales. Un coup violent\r\n  semble lui avoir mortellement brisé la nuque.\r\n  Mort probablement instantanée. Aucun signe\r\n  d'autres blessures, ni d'empoisonnement."
+    },
+    {
+      "id": "004",
+      "en": "9th January\r\nDuty Crewman: Bif Strogenov\r\n\r\n  0:00 Nothing to report　　　　0:30 Nothing to report\r\n  1:00 Nothing to report　　　　 1:30 Nothing to report\r\n  2:00 　　　　　　　　　　 2:30\r\n  3:00 　　　　　　　　　　 3:30\r\n  4:00 　　　　　　　　　　 4:30\r\n  5:00 　　　　　　　　　　 5:30",
+      "fr": "■9 janvier\r\n  Ronde de nuit : Metdebov Stroganov\r\n    ＢhＢＢ : R.A.S.                   ＢhＥＢ : R.A.S.\r\n    ＣhＢＢ : R.A.S.                   ＣhＥＢ : R.A.S\r\n    ＤhＢＢ :                             ＤhＥＢ : \r\n    ＥhＢＢ :                             ＥhＥＢ : \r\n    ＦhＢＢ :                             ＦhＥＢ : \r\n    ＧhＢＢ :                             ＧhＥＢ : "
+    }
+  ],
+  "txtcut2_eng": [
+    {
+      "id": "001",
+      "en": "Victim\r\n  Name: ‘Thrice-Fired’ Mason (Male)\r\n  Age: 54\r\n  Occupation: Brickmaker\r\n\r\nTime and Cause of Death\r\n  15th February, 10 p.m. – 11 p.m.\r\n  Stabbed once in the abdomen with a knife whilst journeying\r\n  in an omnibus. Died due to internal haemorrhaging resulting\r\n  from the trauma.",
+      "fr": "■Victime\r\n  Surnom : Morty \"est cuit trois fois\", âgé de\r\n  54 ans. Homme, maçon de profession.\r\n■Cause et heure du décès :\r\n  Le 15 février entre 22 heures et 23 heures.\r\n  Durant un trajet en <RUBY><RB>diligence</RB><RT><COL f9e041ff> </COL></RT></RUBY>, la victime a\r\n  été poignardée à l'abdomen et l'hémorragie\r\n  interne a entraîné sa mort."
+    }
+  ],
+  "txtcut3_eng": [
+    {
+      "id": "001",
+      "en": "                   YORE BOOKS, 17th February, 4:45 p.m.\r\n\r\nCustomer: Mr Natsume\r\n\r\nThe sum of 2 shillings tendered in receipt of:\r\n     - ‘The Picture of Monsieur Lecoq’\r\n     - ‘A Meal for Gaboriau’\r\n     - ‘Canterbury Yearnings’\r\n",
+      "fr": "Reçu de M. Natsumé Sôsséki : 2 Shillings\r\n<SIZE 4> \r\n</SIZE>Pour les ouvrages suivants :\r\n   \"Portrait de M. Lecoq\", \"Gaboriau et la Mer\"\r\n   et \"Les Contes de Canterbury\" qui lui ont\r\n   été remis en main propre.\r\n<SIZE 4> \r\n</SIZE>Fait le 17 février 1888, à 16h45\r\n  à Borrow Books, librairie de livres d'occasion."
+    },
+    {
+      "id": "002",
+      "en": "                                     Incident Report\r\n\r\nDetails: Young woman rendered unconscious following\r\n             a stab wound to the back.\r\nVictim: Olive Green, female, stout build, early 20s\r\nLocation: Pavement of Briar Road (East side)\r\nReporting Officer: Roly Beate",
+      "fr": "Résumé de l'affaire\r\n■Victime :\r\n  Nom : Olive Greene (probablement)\r\n  Femme de 20 ans environ, un peu enrobée.\r\n■Situation :\r\n  Pronostic vital engagé après coup de couteau\r\n■Lieu du crime : trottoir à l'est de Briar Road\r\n■Crime signalé par : Lisa Cademy"
+    },
+    {
+      "id": "003",
+      "en": "                                    Additional Notes\r\n\r\n- The victim remains unconscious – her name was gleaned\r\nfrom her personal effects. Other details are unknown.\r\n- Apart from the single stab wound from the large knife, no\r\nother signs of injury were observed.\r\n- The assailant was seen running away by the reporting\r\nofficer and was successfully arrested the following day.",
+      "fr": "                                   Notes\r\n◎Comme la victime n'a pour l'instant pas\r\n  encore repris connaissance, son nom a été\r\n  relevé sur ses affaires, mais reste incertain.\r\n◎Elle a reçu une plaie profonde d'un couteau\r\n dans le dos. Elle n'a pas d'autres plaies visibles.\r\n◎Le coupable qui aurait été vu fuyant le lieu\r\n du crime a été arrêté le lendemain."
+    },
+    {
+      "id": "004",
+      "en": "Principles of Policing",
+      "fr": "\"Les trucs à savoir pour un policier à <RUBY><RB>London</RB><RT><COL 1b0894ff> Ｌｏｎｄｒｅｓ</COL></RT></RUBY>\""
+    },
+    {
+      "id": "005",
+      "en": "\r\nItem #1: A policeman will strive to preserve the peace within\r\nhis allotted beat.\r\n\r\nItem #2: A patrolling officer is expected to walk twenty miles\r\naround his beat every day for the furtherance of community\r\nrelations.\r\n",
+      "fr": "\r\n◎Préserver la paix et l'ordre public dans\r\n  la zone désignée comme juridiction\r\n  et district de patrouille.\r\n◎Chaque jour, faire une ronde de 20 miles\r\n  pour s'assurer de la tranquillité de\r\n  nos concitoyens."
+    },
+    {
+      "id": "006",
+      "en": "Metropolitan Police Regulations",
+      "fr": "Règlement de la <RUBY><RB>London Police</RB><RT><COL 1b0894ff> ｐｏｌｉｃｅ ｄｅ Ｌｏｎｄｒｅｓ</COL></RT></RUBY>"
+    },
+    {
+      "id": "007",
+      "en": "\r\nItem #1: Any crimes fall under the jurisdiction of the beat in\r\nwhich they are discovered.\r\n\r\nItem #2: When a crime is discovered on his beat, a policeman\r\nmust assist with initial investigations and help detectives.",
+      "fr": "\r\n◎Si lors d'une ronde une affaire survient,\r\n  l'agent en service doit se charger de l'enquête.\r\n\r\n◎Si un agent découvre une affaire sur\r\n  le district de sa ronde, il doit aider et\r\n  participer à l'enquête sur cette affaire."
+    }
+  ],
+  "txtcut4_eng": [
+    {
+      "id": "001",
+      "en": "Representation Writ",
+      "fr": "Demande d'assurer la défense"
+    },
+    {
+      "id": "002",
+      "en": "\r\n           I, the undersigned, agree to legal representation \r\n           by the lawyer named hereunder in regard to the\r\n           following incident.\r\n\r\nDefendant: Gina Lestrade\r\nAlleged Offence: Murder of Baker Street Pawnbroker\r\nDate of Trial: 17th April, 10 a.m.\r\nAttorney in Law: Ryunosuke Naruhodo",
+      "fr": "Cliente : Gina Lestrade\r\n  Je soussignée accepte que l'avocat mentionné\r\nci-après me représente et défende au procès.\r\nAvocat : Maître Hikari Yûno\r\nAffaire : meurtre à la boutique de prêt sur gage\r\n               située sur Baker Street\r\nDate du procès : 17 avril 1888, 10 heures"
+    },
+    {
+      "id": "003",
+      "en": "Omnibus Murder",
+      "fr": "Affaire <RUBY><RB>du meurtre</RB><RT><COL f9e041ff> </COL></RT></RUBY> de la diligence"
+    },
+    {
+      "id": "004",
+      "en": "Case Summary\r\n  Victim found deceased on the last scheduled omnibus\r\n  of the day after a stab wound to the abdomen.\r\n\r\nDetails of Victim\r\n  Name: Mason Milverton (Male)\r\n  Occupation: Brickmaker\r\n  Domicile: East End of London",
+      "fr": "■Résumé de l'affaire :\r\n  La victime est morte poignardée en\r\n  pleine poitrine lors d'un trajet de nuit\r\n  à bord d'une diligence.\r\n■Informations sur la victime :\r\n  Nom : Morty Milverton\r\n  Homme, <RUBY><RB>maçon</RB><RT><COL f9e041ff> </COL></RT></RUBY>, vivait dans l'East End."
+    },
+    {
+      "id": "005",
+      "en": "Trial Summary\r\n  Defendant: Magnus McGilded\r\n  Prosecution Attorney: Lord Barok van Zieks\r\n  Defence Attorney: Ryunosuke Naruhodo\r\n\r\nConviction was assured with three eyewitness testimonies.\r\nHowever, a surprise fourth witness's testimony resulted in\r\nacquittal due to insufficient evidence.",
+      "fr": "■Résumé du procès :\r\n  Accusé : Jeffrey Fortune\r\n  Procureur : Maître Drake Van Peers\r\n  Avocat : Maître Hikari Yûno\r\nD'après trois témoignages, on pouvait penser\r\nque l'affaire était simple, mais un quatrième\r\ntémoin a conduit à l'acquittement, faute\r\nde preuves."
+    },
+    {
+      "id": "006",
+      "en": "Autopsy Report",
+      "fr": "Rapport d'autopsie par le Dr Gyste"
+    },
+    {
+      "id": "007",
+      "en": "                                                                 Coroner: Dr Stevens\r\nDetails of Victim\r\n  Name: Pop Windibank (Male)\r\n  Occupation: Pawnbroker on Baker Street\r\nTime of Death\r\n  16th April, 1:00 – 1:30 a.m.\r\nReporting Party\r\n  Ryunosuke Naruhodo",
+      "fr": "■Victime :\r\nNom : Gage Pressure\r\n  Homme, prêteur sur gages à Baker Street\r\n■Heure estimée du décès :\r\n  Le 16 avril, entre 1h et 1h30 du matin\r\n■Personne ayant signalé le crime :\r\n  Hikari Yûno"
+    },
+    {
+      "id": "008",
+      "en": "Post-Mortem Findings\r\n  Single bullet wound in upper half of victim's back.\r\n  No other visible signs of trauma.\r\n\r\nAutopsy Findings\r\n  Instant death from a posteroanterior bullet wound to\r\n  the heart. The bullet entered the body from the back\r\n  on a gently rising diagonal trajectory.",
+      "fr": "■Examen du corps :\r\n  Une plaie par balle dans le haut du dos.\r\n  Pas d'autres blessures externes.\r\n■Constations à l'autopsie :\r\n  La balle lui a transpercé le cœur par l'arrière.\r\n  Le décès était probablement instantané.\r\n  D'après la plaie d'entrée, la balle avait\r\n  un léger angle vers le haut."
+    }
+  ],
+  "chapter0_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "003",
+      "en": "Recess",
+      "fr": "Suspension d'audience"
+    },
+    {
+      "id": "004",
+      "en": "Miss Brett's Appearance",
+      "fr": "Gizelle fait son entrée"
+    },
+    {
+      "id": "005",
+      "en": "Susato's Sudden Entrance",
+      "fr": "Amimo s'immisce"
+    },
+    {
+      "id": "006",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "007",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "008",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "009",
+      "en": "Recess",
+      "fr": "Suspension d'audience"
+    },
+    {
+      "id": "010",
+      "en": "Miss Brett's Appearance",
+      "fr": "Gizelle fait son entrée"
+    },
+    {
+      "id": "011",
+      "en": "Susato's Sudden Entrance",
+      "fr": "Amimo s'immisce"
+    },
+    {
+      "id": "012",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter1_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Sholmes's Appearance",
+      "fr": "Holmes entre en scène"
+    },
+    {
+      "id": "003",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement, 1er acte"
+    },
+    {
+      "id": "004",
+      "en": "Further Investigation",
+      "fr": "Reprise de l'enquête"
+    },
+    {
+      "id": "005",
+      "en": "Second Dance of Deduction",
+      "fr": "Raisonnement, 2ème acte"
+    },
+    {
+      "id": "006",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "007",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "008",
+      "en": "Sholmes's Appearance",
+      "fr": "Holmes entre en scène"
+    },
+    {
+      "id": "009",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement, 1er acte"
+    },
+    {
+      "id": "010",
+      "en": "Further Investigation",
+      "fr": "Reprise de l'enquête"
+    },
+    {
+      "id": "011",
+      "en": "Second Dance of Deduction",
+      "fr": "Raisonnement, 2ème acte"
+    },
+    {
+      "id": "012",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter2_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "003",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "004",
+      "en": "Summation Examination",
+      "fr": "Ultime plaidoyer"
+    },
+    {
+      "id": "005",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "006",
+      "en": "Gina's Entrance",
+      "fr": "Gina entre en scène"
+    },
+    {
+      "id": "007",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "008",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "009",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "011",
+      "en": "Summation Examination",
+      "fr": "Ultime plaidoyer"
+    },
+    {
+      "id": "012",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "013",
+      "en": "Gina's Entrance",
+      "fr": "Gina entre en scène"
+    },
+    {
+      "id": "014",
+      "en": "Conclusion",
+      "fr": "Fin"
+    }
+  ],
+  "chapter3_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Investigation Start",
+      "fr": "Enquête - début"
+    },
+    {
+      "id": "003",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Vers chez Sôsséki"
+    },
+    {
+      "id": "004",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "005",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "006",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "007",
+      "en": "The Beates' Entrance",
+      "fr": "Le couple Cademy"
+    },
+    {
+      "id": "008",
+      "en": "Second Summation Examination",
+      "fr": "Ultime plaidoyer, acte 2"
+    },
+    {
+      "id": "009",
+      "en": "Mrs Garrideb Testifies",
+      "fr": "<HD>Mrs Garrideb appelée à la barre</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "011",
+      "en": "New Office",
+      "fr": "Notre nouveau cabinet"
+    },
+    {
+      "id": "012",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "013",
+      "en": "Investigation Start",
+      "fr": "Enquête - début"
+    },
+    {
+      "id": "014",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Vers chez Sôsséki"
+    },
+    {
+      "id": "015",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "016",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "017",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "018",
+      "en": "The Beates' Entrance",
+      "fr": "Le couple Cademy"
+    },
+    {
+      "id": "019",
+      "en": "Second Summation Examination",
+      "fr": "Ultime plaidoyer, acte 2"
+    },
+    {
+      "id": "020",
+      "en": "Mrs Garrideb Testifies",
+      "fr": "<HD>Mrs Garrideb appelée à la barre</HD>"
+    },
+    {
+      "id": "021",
+      "en": "Conclusion",
+      "fr": "Fin"
+    },
+    {
+      "id": "022",
+      "en": "New Office",
+      "fr": "Notre nouveau cabinet"
+    }
+  ],
+  "chapter4_eng": [
+    {
+      "id": "001",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "002",
+      "en": "Office Morning",
+      "fr": "Matinée au cabinet Yûno"
+    },
+    {
+      "id": "003",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "004",
+      "en": "After the Pawnbrokery",
+      "fr": "Après le prêteur sur gages"
+    },
+    {
+      "id": "005",
+      "en": "Shocking Incident!",
+      "fr": "Un nouveau meurtre !"
+    },
+    {
+      "id": "006",
+      "en": "The Following Day",
+      "fr": "L'aube"
+    },
+    {
+      "id": "007",
+      "en": "To the Crime Scene",
+      "fr": "Vers le lieu du crime"
+    },
+    {
+      "id": "008",
+      "en": "Eve of Susato's Departure",
+      "fr": "<HD>Le soir avant le retour au pays</HD>"
+    },
+    {
+      "id": "009",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "010",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "011",
+      "en": "Eyewitness Testimony",
+      "fr": "<HD>Témoignage sur la nuit du crime</HD>"
+    },
+    {
+      "id": "012",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "013",
+      "en": "Graydon is Subpoenaed",
+      "fr": "<HD>Greynoir appelé à comparaître</HD>"
+    },
+    {
+      "id": "014",
+      "en": "New Evidence",
+      "fr": "Nouvelle pièce à conviction"
+    },
+    {
+      "id": "015",
+      "en": "Final Cross-Examination",
+      "fr": "Contre-interrogatoire final"
+    },
+    {
+      "id": "016",
+      "en": "Grand Finale",
+      "fr": "Conclusion"
+    },
+    {
+      "id": "017",
+      "en": "Farewell For Now",
+      "fr": "Jusqu'à nos retrouvailles..."
+    },
+    {
+      "id": "018",
+      "en": "Opening",
+      "fr": "Au commencement"
+    },
+    {
+      "id": "019",
+      "en": "Office Morning",
+      "fr": "Matinée au cabinet Yûno"
+    },
+    {
+      "id": "020",
+      "en": "Dance of Deduction",
+      "fr": "Raisonnement"
+    },
+    {
+      "id": "021",
+      "en": "After the Pawnbrokery",
+      "fr": "Après le prêteur sur gages"
+    },
+    {
+      "id": "022",
+      "en": "Shocking Incident!",
+      "fr": "Un nouveau meurtre !"
+    },
+    {
+      "id": "023",
+      "en": "The Following Day",
+      "fr": "L'aube"
+    },
+    {
+      "id": "024",
+      "en": "To the Crime Scene",
+      "fr": "Vers le lieu du crime"
+    },
+    {
+      "id": "025",
+      "en": "Eve of Susato's Departure",
+      "fr": "<HD>Le soir avant le retour au pays</HD>"
+    },
+    {
+      "id": "026",
+      "en": "Pre-Trial",
+      "fr": "<HD>Avant procès - Salle d'attente</HD>"
+    },
+    {
+      "id": "027",
+      "en": "Trial Start",
+      "fr": "Début du procès"
+    },
+    {
+      "id": "028",
+      "en": "Eyewitness Testimony",
+      "fr": "<HD>Témoignage sur la nuit du crime</HD>"
+    },
+    {
+      "id": "029",
+      "en": "Recess",
+      "fr": "<HD>Suspension - Salle d'attente</HD>"
+    },
+    {
+      "id": "030",
+      "en": "Graydon is Subpoenaed",
+      "fr": "<HD>Greynoir appelé à comparaître</HD>"
+    },
+    {
+      "id": "031",
+      "en": "New Evidence",
+      "fr": "Nouvelle pièce à conviction"
+    },
+    {
+      "id": "032",
+      "en": "Final Cross-Examination",
+      "fr": "Contre-interrogatoire final"
+    },
+    {
+      "id": "033",
+      "en": "Grand Finale",
+      "fr": "Conclusion"
+    },
+    {
+      "id": "034",
+      "en": "Farewell For Now",
+      "fr": "Jusqu'à nos retrouvailles..."
+    }
+  ]
+}
