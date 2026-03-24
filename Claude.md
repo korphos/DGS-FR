@@ -1,4 +1,4 @@
-# Recherche Technique - Traduction DGS2 (TGAAC Steam)
+# Recherche Technique - Traduction TGAAC (DGS1 + DGS2, Steam)
 
 ## Documents de référence
 
@@ -9,40 +9,24 @@
 
 ## État actuel du projet
 
-- DGS1 (GO/) : **entièrement traduit** en français, patch Steam fonctionnel
+- DGS1 (GO/) : **entièrement traduit** en français — traductions extraites en JSON dans `traductions/dgs1/`
 - DGS2 (BB/) : **traduction en cours**
   - `sce00_c000.json` : prologue cinématique + antichambre du tribunal (Épisode 1, intro) — **terminé et fonctionnel**
   - Tout le reste : à faire
 
-### Commandes pour régénérer et appliquer le patch DGS2
+### Commande unique pour régénérer et appliquer tout le patch
 
 ```bash
-# 1. Régénérer le patch
-python3 tools/create_patch_dgs2.py \
-    --game-dir /home/korphos/.steam/debian-installation/steamapps/common/TGAAC \
-    --output dgs2_fr_test.aapatch
-
-# 2. Appliquer le patch (Python direct, sans l'UI)
-python3 -c "
-import sys, shutil
-sys.path.insert(0, '/home/korphos/dev/DGS-FR')
-import src.aapatch as aapatch
-
-game_dir = '/home/korphos/.steam/debian-installation/steamapps/common/TGAAC'
-target   = game_dir + '/nativeDX11x64/archive/BB/sce00_eng.arc'
-backup   = target + '.bak'
-patch_path = '/home/korphos/dev/DGS-FR/dgs2_fr_test.aapatch'
-
-shutil.copy2(backup, target)   # OBLIGATOIRE : restaure l'original avant patch
-p = aapatch.AAPatch()
-p.read(patch_path)
-p.patch_all(game_dir, flags=[2])
-print('Patch appliqué.')
-"
+python3 rebuild_and_apply.py
 ```
 
-> ⚠️ **Ne jamais lancer `main.py`** pour appliquer le patch DGS2 — ça ouvre une GUI inutile.
-> ⚠️ **Toujours restaurer le backup avant d'appliquer** : `patch_all` vérifie le hash du fichier original. Le `.bak` est créé automatiquement lors de la première génération du patch.
+Ce script fait tout en une passe :
+1. Applique les assets binaires pré-extraits (polices, UI, textures, sons) depuis `assets/patches/`
+2. Régénère `tgaac_fr.aapatch` depuis les JSON (`traductions/dgs1/` + `traductions/dgs2/`)
+3. Applique le patch de scènes sur les fichiers du jeu
+
+> ⚠️ **Ne jamais lancer `main.py`** — ça ouvre une GUI inutile.
+> ⚠️ Les backups `.arc.bak` sont créés automatiquement à côté des fichiers du jeu lors du premier lancement.
 
 ---
 
@@ -154,7 +138,9 @@ Outils : `tools/gmd_utils.py` — fonctions `read_gmd()`, `get_strings()`, `set_
 
 ### 1. Fichier de traduction JSON
 
-Format : `traductions/dgs2/<scene>.json`
+Format commun DGS1 et DGS2 : `{ "short_gmd_name": [ {id, en, fr}, ... ] }`
+
+#### Format DGS2 — string de dialogue (bloc `<E025>`)
 
 ```json
 {
@@ -168,28 +154,46 @@ Format : `traductions/dgs2/<scene>.json`
 }
 ```
 
-**Conventions importantes :**
-- `"en"` = contenu brut du bloc `<E025>…<E023/PAGE>` en anglais (avec TOUS les codes)
-- `"fr"` = traduction avec les codes **placés manuellement** aux positions sémantiquement équivalentes
-- **Sauts de ligne automatiques** — `wrap_dialogue_line()` est toujours appliqué, même si `"fr"` contient des codes. Le traducteur n'a pas besoin de gérer les retours à la ligne.
-- **Maximum 2 lignes par boîte** — un `⚠ DÉPASSEMENT` est émis si c'est dépassé
-- **Créer une 2ème boîte** : écrire `<PAGE>` dans `"fr"` à l'endroit voulu — le script injecte automatiquement l'opener `<E025 N>` après chaque `<PAGE>`
-- Les entrées où EN visible == FR visible sont ignorées (honorifiques, `...`, noms propres identiques)
+- `"en"` = contenu brut du bloc `<E025>…<E023/PAGE>` (avec tous les codes)
+- `"fr"` = traduction avec codes positionnés manuellement
+- `wrap_dialogue_line()` est appliqué automatiquement
 
-**Pour obtenir le raw EN d'une entrée :**
+#### Format DGS1 — string GMD entière (`<RDFG>`)
+
+```json
+{
+  "_sce00_c001_0000_eng": [
+    {
+      "id": "001",
+      "en": "<RDFG 1318><E800 93>...<E025 7>22nd November, 8:43 a.m.\r\n...<E023>...",
+      "fr": "<RDFG 1318><E800 93>...<E025 7>22 novembre, 8h43\r\n...<E023>..."
+    }
+  ]
+}
+```
+
+- `"en"` = **string GMD complète** (contient `<RDFG>`, `<E800>`, plusieurs blocs `<E025>`)
+- `"fr"` = string traduite complète — les codes sont préservés tels quels
+- `wrap_dialogue_line()` et les validations de codes **ne sont PAS appliqués** (détection automatique via présence de `<RDFG `)
+- La stratégie 1 (remplacement exact) gère ces strings directement
+
+**Conventions communes :**
+- **Sauts de ligne automatiques** (DGS2 seulement) — le traducteur n'a pas besoin de gérer les retours à la ligne
+- **Maximum 2 lignes par boîte** — un `⚠ DÉPASSEMENT` est émis si c'est dépassé (DGS2 seulement)
+- **Créer une 2ème boîte** : écrire `<PAGE>` dans `"fr"` (DGS2) — l'opener `<E025 N>` est injecté automatiquement
+- Les entrées où EN visible == FR visible sont ignorées
+
+**Pour obtenir le raw EN d'une entrée DGS2 :**
 ```bash
 python3 tools/show_raw_blocks.py _sce00_c000_0010_eng "mot clé"
 ```
 
-**Warning à la génération du patch :**
-Si un code présent dans `"en"` est absent de `"fr"` → `⚠ CODES MANQUANTS [gmd #id]: <code>` affiché. Corriger avant de finaliser.
-
 ### 2. Détection et application des traductions
 
-`tools/create_patch_dgs2.py` :
-1. Lit le JSON → construit `dict[en_brut → fr_text]` + `dict[en_visible → fr_text]` (double clé)
+`tools/create_patch.py` :
+1. Lit les JSON → construit `dict[en_brut → fr_text]` + `dict[en_visible → fr_text]` (double clé)
 2. Pour chaque GMD dans l'ARC : appelle `translate_string(s, replacements)` sur chaque string
-3. Avertit (`⚠ NON TRADUIT`) si un bloc anglais connu reste non traduit après patch
+3. Génère un `.aapatch` couvrant DGS1 (GO/) et DGS2 (BB/) en un seul fichier
 
 `translate_string()` dans `tools/gmd_utils.py` utilise 4 stratégies en cascade :
 
@@ -199,12 +203,6 @@ Si un code présent dans `"en"` est absent de `"fr"` → `⚠ CODES MANQUANTS [g
 | 2 | Normalisation CRLF→LF puis match | Différences `\r\n` vs `\n` |
 | 3 | Regex flexible entre les mots (clés visibles seulement, **pas** `<E023>`/`<PAGE>`) | Fallback texte visible sans codes intercalés |
 | 4 | Correspondance sur le texte visible du bloc `<E025>...<E023/PAGE>` | Dernier recours — **ne devrait jamais arriver** si `en_raw` est correct |
-
-**Stratégie 4 — dernier recours :**
-- Grâce à la double clé (`en_raw` + `en_visible`), la stratégie 1 matche directement pour presque tous les cas — la stratégie 4 ne devrait jamais être nécessaire
-- Si elle se déclenche quand même → `⚠ STRATÉGIE 4` est affiché : vérifier que le champ `"en"` correspond exactement au contenu brut du GMD
-- En cas de match : utilise `fr` directement si `'<' in fr` ; si `'<' not in fr` mais que le bloc original contient des codes → **ne remplace pas** (préserve l'original) et émet un warning
-- Si `fr` contient `<PAGE>` : insère automatiquement l'opener `<E025 N>` après chaque `<PAGE>` pour créer une nouvelle boîte
 
 ---
 
@@ -237,7 +235,7 @@ Le script émet `⚠ DÉPASSEMENT` si une boîte dépasse 2 lignes après wrap a
 
 ## Pièges connus — erreurs à ne pas reproduire
 
-### 1. Codes dans `"en"` absents de `"fr"`
+### 1. Codes dans `"en"` absents de `"fr"` (DGS2)
 
 Si un code présent dans `"en"` est absent de `"fr"` → `⚠ CODES MANQUANTS` à la génération. **Toujours corriger avant de finaliser.** Le traducteur doit placer TOUS les codes du bloc EN dans le FR aux positions sémantiquement équivalentes.
 
@@ -253,22 +251,44 @@ La stratégie 3 (regex flexible) ne traverse pas `<E023>` ni `<PAGE>`. Si elle l
 
 ### 4. Backup obligatoire
 
-Le script utilise **toujours** `.arc_backups/sce00_eng.arc` comme source originale (jamais le fichier jeu qui peut être déjà patché). La restauration du backup avant `patch_all` est obligatoire car `patch_all` vérifie le hash.
+Les backups sont créés automatiquement à côté des fichiers du jeu en `.arc.bak` lors du premier `rebuild_and_apply.py`. La restauration du backup avant application est obligatoire car `patch_all` vérifie le hash. `rebuild_and_apply.py` gère cela automatiquement.
 
 ---
 
-## Mapping ARC → fichiers JSON
+## Mapping fichiers → JSON de traduction
 
-| ARC (dans `nativeDX11x64/archive/BB/`) | GMD concernés | Fichier JSON | État |
+### DGS1 (GO/) — un JSON par arc de scène
+
+| ARC (`nativeDX11x64/archive/GO/`) | Fichier JSON | GMDs traduits | État |
 |---|---|---|---|
-| `sce00_eng.arc` | `_sce00_c000_0000_eng`, `_sce00_c000_0010_eng` | `traductions/dgs2/sce00_c000.json` | ✓ Fait |
-| `sce00_eng.arc` | reste des GMD (c001–c009, evidence, etc.) | à créer | |
-| `sce01_eng.arc` | ~150 GMD | à créer | |
-| `sce02_eng.arc` | ~219 GMD | à créer | |
-| `sce03_eng.arc` | ~188 GMD | à créer | |
-| `sce04_eng.arc` | ~111 GMD | à créer | |
+| `sce00_eng.arc` | `traductions/dgs1/sce00.json` | 60 GMDs | ✓ Extrait |
+| `sce01_eng.arc` | `traductions/dgs1/sce01.json` | 58 GMDs | ✓ Extrait |
+| `sce02_eng.arc` | `traductions/dgs1/sce02.json` | 47 GMDs | ✓ Extrait |
+| `sce03_eng.arc` | `traductions/dgs1/sce03.json` | 85 GMDs | ✓ Extrait |
+| `sce04_eng.arc` | `traductions/dgs1/sce04.json` | 158 GMDs | ✓ Extrait |
 
-Pour ajouter une nouvelle scène, éditer `ARC_FILES` et `TRANSLATION_MAP` dans `create_patch_dgs2.py`.
+**Note :** Les traductions DGS1 sont stockées en string GMD entière (format `<RDFG>`). Elles peuvent être éditées mais les codes d'événement `<E800>` ne doivent pas être modifiés.
+
+### DGS2 (BB/) — un JSON par chapitre
+
+| ARC (`nativeDX11x64/archive/BB/`) | Fichier JSON | État |
+|---|---|---|
+| `sce00_eng.arc` | `traductions/dgs2/sce00_c000.json` | ✓ Fait (148 entrées) |
+| `sce00_eng.arc` | reste des GMD (c001–c009, evidence…) | à créer |
+| `sce01_eng.arc` | — | à créer |
+| `sce02_eng.arc` | — | à créer |
+| `sce03_eng.arc` | — | à créer |
+| `sce04_eng.arc` | — | à créer |
+
+Pour ajouter une scène DGS2, ajouter une entrée dans `ARC_TRANSLATIONS` dans `tools/create_patch.py` :
+```python
+'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json'],
+```
+
+### Assets binaires (polices, UI, textures, sons)
+
+Stockés dans `assets/patches/` comme bsdiffs pré-extraits + `manifest.json`.
+Appliqués directement par `rebuild_and_apply.py` sans nécessiter le patch original.
 
 ---
 
@@ -289,24 +309,38 @@ Pour ajouter une nouvelle scène, éditer `ARC_FILES` et `TRANSLATION_MAP` dans 
 
 ```
 tools/
-├── gmd_utils.py       ← lecture/écriture GMD, wrap, translate_string (4 stratégies)
-├── arc_utils.py       ← lecture/écriture ARC (zlib, index 144 bytes)
-└── create_patch_dgs2.py ← pipeline complet : JSON → ARC patché → .aapatch
+├── gmd_utils.py                ← lecture/écriture GMD, wrap, translate_string (4 stratégies)
+├── arc_utils.py                ← lecture/écriture ARC (zlib, index 144 bytes)
+├── create_patch.py             ← pipeline complet DGS1+DGS2 : JSON → ARC patché → .aapatch
+├── extract_translations_dgs1.py ← extraction one-shot : patch_steam → traductions/dgs1/*.json
+├── extract_legacy_patches.py   ← extraction one-shot : patch_steam → assets/patches/ (binaires)
+└── show_raw_blocks.py          ← affiche les blocs EN bruts d'un GMD (debug DGS2)
 
 src/
-└── aapatch.py         ← format .aapatch, patch_all (hash + bsdiff4)
+└── aapatch.py                  ← format .aapatch, patch_all (hash + bsdiff4)
 
 traductions/
+├── dgs1/
+│   ├── sce00.json  …sce04.json ← DGS1 traduit (strings GMD complètes, format <RDFG>)
+│   └── (legacy/)               ← traductions des fichiers msg/chr/evi3d extraites
 └── dgs2/
-    └── sce00_c000.json  ← traductions Épisode 1 intro (148 entrées)
+    └── sce00_c000.json         ← DGS2 Épisode 1 intro (148 entrées, format bloc <E025>)
 
-(dans le dossier jeu, créé automatiquement à la première génération du patch)
-nativeDX11x64/archive/BB/sce00_eng.arc.bak  ← backup original Steam
+assets/
+└── patches/
+    ├── manifest.json           ← hash attendu + taille pour chaque fichier binaire
+    └── nativeDX11x64/…/*.bsdiff ← bsdiffs pré-extraits (polices, UI, textures, sons)
+
+rebuild_and_apply.py            ← script principal : génère + applique tout le patch
+
+(dans le dossier jeu)
+nativeDX11x64/archive/GO/sce*.arc.bak   ← backups originaux DGS1
+nativeDX11x64/archive/BB/sce*.arc.bak   ← backups originaux DGS2
 ```
 
 ---
 
-## Exemple de workflow pour traduire une nouvelle scène
+## Workflow pour traduire une nouvelle scène DGS2
 
 1. **Extraire les GMD** d'un ARC et lister les dialogues :
 ```python
@@ -315,11 +349,12 @@ sys.path.insert(0, '/home/korphos/dev/DGS-FR')
 from tools.arc_utils import read_arc
 from tools.gmd_utils import read_gmd, get_strings, extract_dialogue_lines
 
-with open('.arc_backups/sce01_eng.arc', 'rb') as f:
+# Utiliser le backup comme source
+with open('/home/korphos/.steam/debian-installation/steamapps/common/TGAAC'
+          '/nativeDX11x64/archive/BB/sce01_eng.arc.bak', 'rb') as f:
     arc_data = f.read()
 entries = read_arc(arc_data)
 
-# Lister les dialogues d'un GMD spécifique
 for name, raw in entries:
     if '_sce01_c000_0000_eng' in name:
         gmd = read_gmd(raw)
@@ -330,17 +365,12 @@ for name, raw in entries:
 
 2. **Créer un fichier JSON** `traductions/dgs2/sce01_c000.json` au format `{ "_gmd_name": [ {id, en, fr}, ... ] }`.
 
-3. **Ajouter l'entrée** dans `create_patch_dgs2.py` :
+3. **Ajouter l'entrée** dans `ARC_TRANSLATIONS` de `tools/create_patch.py` :
 ```python
-ARC_FILES = {
-    'sce00': 'nativeDX11x64/archive/BB/sce00_eng.arc',
-    'sce01': 'nativeDX11x64/archive/BB/sce01_eng.arc',  # nouveau
-}
-TRANSLATION_MAP = {
-    'sce01': {
-        'BB\\script\\output\\_sce01_c000_0000_eng': 'traductions/dgs2/sce01_c000.json',
-    }
-}
+'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json'],
 ```
 
-4. Régénérer et appliquer le patch (voir commandes en haut du document).
+4. **Régénérer et appliquer** :
+```bash
+python3 rebuild_and_apply.py
+```

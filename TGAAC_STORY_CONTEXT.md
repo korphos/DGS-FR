@@ -1,5 +1,5 @@
 # Contexte narratif - The Great Ace Attorney Chronicles (TGAAC)
-## Pour usage lors de la traduction DGS2 → français
+## Pour usage lors de la traduction DGS1 + DGS2 → français
 
 > **Note :** Ce document contient des SPOILERS COMPLETS des deux jeux.
 > Il est destiné à guider le traducteur pour choisir les bons mots, maintenir la cohérence des noms propres, et comprendre les enjeux narratifs de chaque réplique.
@@ -61,6 +61,8 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 ---
 
 ## DGS1 — The Great Ace Attorney: Adventures
+
+**État de traduction DGS1 :** Traductions extraites dans `traductions/dgs1/sce00-04.json` (extrait du patch Steam original). Intégrées dans le pipeline via `rebuild_and_apply.py`.
 
 ### Fil conducteur de DGS1
 Ryunosuke Naruhodo, étudiant en droit sans expérience, se retrouve à défendre des cas d'abord au Japon puis à Londres. Le jeu plante des mystères qui ne seront résolus que dans DGS2 : qui est vraiment "le Professeur" ? Pourquoi les clients défendus par van Zieks finissent-ils tous morts ? Quel est le lien entre l'affaire Asogi et Londres ?
@@ -190,7 +192,7 @@ Tous les mystères de DGS1 convergent : qui est le Professeur ? Pourquoi Kazuma 
 **Vrai coupable :** Senshiro Jigoku (révélé plus tard)
 **Défenseur :** Susato Mikotoba, déguisée en "Ryutaro Naruhodo"
 
-**État de traduction :** `sce00_c000.md` terminé (prologue + antichambre du tribunal)
+**État de traduction :** `traductions/dgs2/sce00_c000.json` terminé (prologue + antichambre du tribunal)
 
 #### Scène d'ouverture traduite (sce00_c000_0000 + sce00_c000_0010)
 
