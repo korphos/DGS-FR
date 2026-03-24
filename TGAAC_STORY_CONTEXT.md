@@ -20,43 +20,87 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 
 ---
 
+## Noms des personnages — Correspondances FR (patch DGS1) ↔ EN
+
+> **Contexte :** Le patch FR DGS1 a renommé les personnages japonais avec des noms français à consonance japonaise, conçus comme des jeux de mots phonétiques. Les noms anglais (DGS2) sont différents. Pour la traduction DGS2, **utiliser les noms EN listés ci-dessous**, et **réutiliser les noms FR DGS1** pour tous les personnages récurrents.
+
+### Protagonistes et alliés
+
+| Nom EN (DGS1/DGS2) | Nom FR patch DGS1 | Jeu de mots / Notes |
+|---|---|---|
+| **Ryunosuke Naruhodo** | **Yûno Hikari** (alias **Nick**, **Nicky**) | "Yûno Hikari" = nom japonais inventé pour le FR |
+| **Susato Mikotoba** | **Amiéyama Amimo** (alias **Amimo**) | "assistante juridique" de Nick/Yûno dans DGS1 |
+| **Yujin Mikotoba** | **Amiéyama Amikaru** (**Professeur Amiéyama**) | Père d'Amimo = père de Susato |
+| **Kazuma Asogi** | **Norasompéï Kiyô** (alias **Kiyô**, **M. Kiyô**) | "Qui honora son pays" (lu phonétiquement) |
+| **Herlock Sholmes** | **Sherlock Holmes** / **Sherlockinou** | ⚠ Le patch FR écrit "Sherlock Holmes" — **préférer "Herlock Sholmes"** pour éviter la référence directe. "Sherlockinou" = surnom affectueux utilisé par Iris |
+| **Iris Wilson** | **Iris Watson** | Prénom conservé, Watson au lieu de Wilson (comme en JP) |
+
+### Antagonistes et personnages secondaires (DGS1)
+
+| Nom EN | Nom FR patch DGS1 | Notes |
+|---|---|---|
+| **Barok van Zieks** | **Drake Van Peers** (**Lord Van Peers**) | Procureur à Londres |
+| **Mael Stronghart** | **Lord Caine** | "ministre Caine" dans sce03 — Lord Chief Justice |
+| **Magnus McGilded** | **Jeffrey Fortune** | "Je f'rai fortune" (pun) |
+| **Tobias Gregson** | **Inspecteur Gregson** (**Gregounet**) | Nom conservé, "Gregounet" = surnom affectueux |
+| **Gina Lestrade** | **Gina Lestrade** (**Mlle Gina**) | Nom conservé |
+| **Soseki Natsume** | **Natsumé Sôsséki** (**Sôsséki**) | Prénom/nom inversés à la française |
+| **Jezaille Brett** | **Gizelle Brett** | Prénom légèrement modifié |
+| **John H. Wilson** | **Professeur John H. Watson** | Conservé comme "Watson" (cohérent avec le sous-texte JP) |
+| **Nikomina Borschevic** | **Liliya Sassoupkikvitch** (**Mlle Liliya**) | Renommée |
+| **Dmitri Demiglaski** | **Stroganov** | Pun culinaire (bœuf Stroganov) |
+| **Ashley Graydon** | **Paul Cademy** | Antagoniste ep5 |
+| Victime ep3 ("Thrice-Fired Mason") | **Morty** ("Morty 'est cuit trois fois'") | Pun sur "thrice-fired" |
+| Inspecteur japonais ep1 | **Honédé Rika** (**Inspecteur Honédé**) | Personnage japonais ; nom EN inconnu |
+| Juré/personnage ep3-4 | **Rupert Greynoir** / **Rupert Milverton** | Personnages secondaires |
+
+### Règle pour la traduction DGS2
+
+- **Réutiliser les noms FR DGS1** pour tous les personnages récurrents (Yûno Hikari, Amimo, Kiyô, Van Peers, Amiéyama…)
+- Pour les personnages nouveaux dans DGS2 (Haori Murasame, Enoch Drebber, etc.) : créer des noms FR dans le même esprit
+- **Herlock Sholmes** : toujours "Herlock Sholmes", **jamais** "Sherlock Holmes" (le patch DGS1 avait tort)
+- Dans DGS2-1, Susato se déguise en "Ryutaro Naruhodo" en EN — adapter en FR (ex: "Yûtaro Hikari" ou équivalent)
+- Gregson, Gina Lestrade, Soseki/Sôsséki : conserver les noms FR DGS1
+
+---
+
 ## Personnages principaux (noms canoniques FR/EN/JP)
 
 ### Protagonistes récurrents
 
 | Nom anglais | Nom japonais | Rôle | Notes traduction |
 |---|---|---|---|
-| **Ryunosuke Naruhodo** | 成歩堂 龍ノ介 | Protagoniste, avocat de la défense | Ancêtre de Phoenix Wright. "Naruhodo" = "je comprends" en japonais, jeu de mots conservé en anglais |
-| **Susato Mikotoba** | 御琴羽 寿沙都 | Assistante judiciaire | Fille de Yujin. Se déguise en "Ryutaro Naruhodo" dans DGS2-1 |
-| **Herlock Sholmes** | シャーロック・ホームズ (Sherlock Holmes en JP) | Grand détective, Baker Street | Renommé pour éviter le copyright Conan Doyle en dehors du Japon. Sa "danse de la déduction" est souvent fausse et doit être corrigée par Naruhodo |
-| **Iris Wilson** | アイリス・ワトソン (Iris Watson en JP) | Colocataire de Sholmes, auteure | Enfant prodige, médecin et écrivaine. Auteure des aventures de Sholmes. "Wilson" au lieu de "Watson" pour le copyright |
-| **Kazuma Asogi** | 亜双義 一真 | Ami de Ryunosuke, avocat | Présumé mort dans DGS1-2, réapparaît comme procureur dans DGS2-4/5 sous un faux nom |
-| **Barok van Zieks** | バロック・バンジークス | Procureur principal | Surnommé "le Faucheur du Vieux Bailey". Misanthrope, méfiant envers les Japonais. Son frère Klint était le Professeur |
-| **Yujin Mikotoba** | 御琴羽 悠仁 | Père de Susato, médecin légiste | Ami d'enfance de Genshin Asogi. Cache la vérité sur l'affaire du Professeur |
-| **Gina Lestrade** | ジーナ・レストレード | Pickpocket, puis inspectrice | Personnage récurrent. Introduite dans DGS1-5 |
+| **Ryunosuke Naruhodo** | 成歩堂 龍ノ介 | Protagoniste, avocat de la défense | **FR : Yûno Hikari** (alias **Nick**, **Nicky**) — réutiliser en DGS2 |
+| **Susato Mikotoba** | 御琴羽 寿沙都 | Assistante judiciaire | **FR : Amiéyama Amimo** (alias **Amimo**) — réutiliser en DGS2. Se déguise en "Yûno Hikari" dans DGS2-1 (adapter) |
+| **Herlock Sholmes** | シャーロック・ホームズ | Grand détective, Baker Street | FR DGS1 : **"Sherlock Holmes"** (patch) / **Sherlockinou** (surnom d'Iris). ⚠ **Toujours écrire "Herlock Sholmes"** dans DGS2. Sa "danse de la déduction" est souvent fausse |
+| **Iris Wilson** | アイリス・ワトソン | Colocataire de Sholmes, auteure | **FR : Iris Watson** — réutiliser en DGS2. Enfant prodige, médecin et écrivaine. Auteure des aventures de Sholmes |
+| **Kazuma Asogi** | 亜双義 一真 | Ami de Ryunosuke, avocat | **FR : Norasompéï Kiyô** (alias **Kiyô**) — "Qui honora son pays". Réutiliser en DGS2 (Prosecutor K) |
+| **Barok van Zieks** | バロック・バンジークス | Procureur principal | **FR : Drake Van Peers** (**Lord Van Peers**) — réutiliser en DGS2. "Le Faucheur du Vieux Bailey" |
+| **Yujin Mikotoba** | 御琴羽 悠仁 | Père de Susato, médecin légiste | **FR : Amiéyama Amikaru** (**Professeur Amiéyama**) — réutiliser en DGS2 |
+| **Gina Lestrade** | ジーナ・レストレード | Pickpocket, puis inspectrice | **FR : Gina Lestrade** (alias **Mlle Gina**) — réutiliser en DGS2 |
 
 ### Antagonistes et personnages clés
 
 | Nom anglais | Rôle | Apparition | Note |
 |---|---|---|---|
-| **Jezaille Brett** | Assassine, vraie meurtrière de DGS1-1 | DGS1-1 | Envoyée par Stronghart pour tuer John H. Wilson (= John Watson). Bénéfice de l'extraterritorialité britannique, acquittée au Japon |
-| **Magnus McGilded** | "Philanthrope", riche criminel | DGS1-3 | Défendu par Naruhodo, révélé coupable post-verdict, meurt dans l'incendie de sa voiture. Lié à Milverton et aux secrets d'État |
-| **Tobias Gregson** | Inspecteur de Scotland Yard | DGS1-3 → DGS2-4 | Rival de Sholmes. Corrompu, travaille pour Stronghart. Assassiné par Jigoku dans DGS2-4 |
-| **Ashley Graydon** | Technicien télégraphiste | DGS1-5 | Vendait des secrets d'État codés. A commandité la mort de McGilded |
-| **Mael Stronghart** | Lord Chief Justice | DGS1-3 → DGS2-5 | **Grand antagoniste final**. A utilisé Klint van Zieks comme le Professeur, fait condamner Genshin Asogi à sa place, manipule la justice britannique depuis des années |
-| **Genshin Asogi** | Père de Kazuma, détective | Mentionné DGS1 → révélé DGS2 | A tué Klint van Zieks (le vrai Professeur) en duel. Faussement exécuté comme le Professeur par Stronghart. En réalité tué plus tard par Jigoku |
-| **Klint van Zieks** | Frère de Barok, noble | Révélé DGS2-5 | **Le vrai Professeur** — assassin en série contraint par Stronghart. Tué en duel par Genshin |
-| **Seishiro Jigoku** | Ministre des Affaires étrangères japonais | DGS2-4/5 | Complice de Stronghart. A tué Genshin Asogi sur ordre de Stronghart. Assassine Gregson dans DGS2-4 |
-| **Soseki Natsume** | Écrivain japonais en visite | DGS1-4, DGS2-1/2 | Personnage récurrent comique. Basé sur le vrai auteur Natsume Sōseki (auteur de "Je suis un chat") |
+| **Jezaille Brett** | Assassine, vraie meurtrière de DGS1-1 | DGS1-1 | FR DGS1 : **Gizelle Brett**. Envoyée par Stronghart pour tuer John H. Wilson. Extraterritorialité britannique, acquittée au Japon |
+| **Magnus McGilded** | "Philanthrope", riche criminel | DGS1-3 | FR DGS1 : **Jeffrey Fortune** ("Je f'rai fortune"). Défendu par Naruhodo, révélé coupable, meurt dans l'incendie de son carrosse |
+| **Tobias Gregson** | Inspecteur de Scotland Yard | DGS1-3 → DGS2-4 | **FR : Gregson** (conservé, surnom **Gregounet**) — réutiliser en DGS2. Corrompu, travaille pour Stronghart. Assassiné par Jigoku dans DGS2-4 |
+| **Ashley Graydon** | Technicien télégraphiste | DGS1-5 | FR DGS1 : **Paul Cademy**. Vendait des secrets d'État codés. A commandité la mort de McGilded |
+| **Mael Stronghart** | Lord Chief Justice | DGS1-3 → DGS2-5 | FR DGS1 : **Lord Caine**. **Grand antagoniste final**. A utilisé Klint van Zieks comme le Professeur, fait condamner Genshin Asogi à sa place |
+| **Genshin Asogi** | Père de Kazuma, détective | Mentionné DGS1 → révélé DGS2 | A tué Klint van Zieks en duel. Faussement exécuté comme le Professeur. Tué plus tard par Jigoku |
+| **Klint van Zieks** | Frère de Barok, noble | Révélé DGS2-5 | **Le vrai Professeur** — assassin contraint par Stronghart. Tué en duel par Genshin |
+| **Seishiro Jigoku** | Ministre des Affaires étrangères japonais | DGS2-4/5 | Complice de Stronghart. A tué Genshin Asogi. Assassine Gregson dans DGS2-4 |
+| **Soseki Natsume** | Écrivain japonais en visite | DGS1-4, DGS2-1/2 | **FR : Natsumé Sôsséki** (prénom/nom inversés) — réutiliser en DGS2. Basé sur le vrai auteur Natsume Sōseki |
 | **Enoch Drebber** | Scientifique excentrique | DGS2-3 | Témoin de l'exhumation de Genshin. Inventeur de la "télétransportation" |
 | **Albert Harebrayne** | Inventeur | DGS2-3 | Défendu par Naruhodo lors de l'Exposition Universelle |
 | **William Shamspeare** | Escrot, locataire | DGS1-4, DGS2-2 | Tentative de meurtre sur Soseki. Victime d'empoisonnement dans DGS2-2 |
 | **Olive Green** | Locataire | DGS1-4, DGS2-2 | A tenté d'empoisonner Shamspeare (strychnine) |
 | **Haori Murasame** | Procureure | DGS2-1 | Procureure au Japon pendant l'absence de Naruhodo |
 | **Pop Windibank** | Commerçant, prêteur sur gages | DGS1-5 | Victime dans DGS1-5. Son magasin = lieu du crime |
-| **John H. Wilson** | Professeur britannique visité au Japon | DGS1-1 | = John H. Watson dans la fiction. Assassiné par Jezaille Brett |
-| **Dmitri Demiglaski** | Cuisinier du SS Burya | DGS1-2 | Vrai tueur dans l'affaire du bateau |
-| **Nikomina Borschevic** | Danseuse, SS Burya | DGS1-2 | Accusée du meurtre d'Asogi |
+| **John H. Wilson** | Professeur britannique visité au Japon | DGS1-1 | FR DGS1 : **Professeur John H. Watson** (conservé "Watson"). = John Watson dans la fiction. Assassiné par Jezaille Brett |
+| **Dmitri Demiglaski** | Cuisinier du SS Burya | DGS1-2 | FR DGS1 : **Stroganov** (pun culinaire). Vrai tueur dans l'affaire du bateau |
+| **Nikomina Borschevic** | Danseuse, SS Burya | DGS1-2 | FR DGS1 : **Liliya Sassoupkikvitch** (**Mlle Liliya**). Accusée du meurtre d'Asogi |
 
 ---
 
