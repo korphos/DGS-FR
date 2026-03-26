@@ -173,7 +173,7 @@
     {
       "id": "035",
       "en": "Herlock Sholmes.\r\nI presume...you must have heard of me.",
-      "fr": "... Herlock Sholmes. Se pourrait-il... \r\nque vous ne me connaissiez pas ?"
+      "fr": "... Sherlock Holmes. Se pourrait-il... \r\nque vous ne me connaissiez pas ?"
     },
     {
       "id": "036",
@@ -253,7 +253,7 @@
     {
       "id": "051",
       "en": "And welcome...to the centre of the world:\r\nGreat Britain's mighty capital, London!",
-      "fr": "Bienvenue dans le cœur battant du monde :\r\n<CNTR>Londres, capitale du Grand Empire Britannique !"
+      "fr": "Bienvenue dans le cœur battant du monde :\r\n<CNTR><RUBY><RB>London</RB><RT><COL f9e041ff>Ｌｏｎｄｒｅｓ</COL></RT></RUBY>, capitale du Grand Empire Britannique !"
     },
     {
       "id": "052",
@@ -318,17 +318,17 @@
     {
       "id": "064",
       "en": "This is it...the residence of Mr Herlock Sholmes.",
-      "fr": "Alors c'est ici... l'agence de détective\r\n<CNTR>de Herlock Sholmes, hein ?"
+      "fr": "Alors c'est ici... l'agence de détective\r\n<CNTR>de Sherlock Holmes, hein ?"
     },
     {
       "id": "065",
       "en": "Mr Sholmes!",
-      "fr": "Monsieur Sholmes !"
+      "fr": "Monsieur Holmes !"
     },
     {
       "id": "066",
       "en": "Mr Naruhodo!",
-      "fr": "Naruhodo-san !"
+      "fr": "Monsieur Nick !"
     },
     {
       "id": "067",
@@ -358,7 +358,7 @@
     {
       "id": "072",
       "en": "Somehow we seem to have come to the end of the Adventures\r\nof Ryunosuke Naruhodo. Or the first volume, at least.",
-      "fr": "Et ainsi s'acheva... la toute première\r\n<CNTR>grande aventure de Yuno Naruhodo."
+      "fr": "Et ainsi s'acheva... la toute première\r\n<CNTR>grande aventure de Hikari Yûno."
     },
     {
       "id": "073",

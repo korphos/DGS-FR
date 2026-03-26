@@ -32,37 +32,26 @@ import src.aapatch as aapatch
 
 # ─── Arcs à patcher ─────────────────────────────────────────────────────────
 # Chaque entrée : chemin relatif depuis game_root → liste de JSON de traduction.
-# Les JSON DGS1 sont découverts automatiquement par glob (traductions/dgs1/sceXX_*.json).
+# Les JSON DGS2 sont découverts automatiquement (glob sur traductions/dgs2/).
 # Ajouter une entrée BB/ ici quand une nouvelle scène DGS2 est traduite.
 
 REPO_DIR = Path(__file__).parent.parent
 
-def _dgs1_jsons(scene: str) -> list[str]:
-    """Retourne la liste triée des JSON pour une scène DGS1 (ex: 'sce00')."""
-    return sorted(
-        str(p.relative_to(REPO_DIR))
-        for p in (REPO_DIR / 'traductions' / 'dgs1').glob(f'{scene}_*.json')
-    )
-
 ARC_TRANSLATIONS: dict[str, list[str]] = {
     # ── DGS1 (GO/) ──────────────────────────────────────────────────────────
-    'nativeDX11x64/archive/GO/sce00_eng.arc': _dgs1_jsons('sce00'),
-    'nativeDX11x64/archive/GO/sce01_eng.arc': _dgs1_jsons('sce01'),
-    'nativeDX11x64/archive/GO/sce02_eng.arc': _dgs1_jsons('sce02'),
-    'nativeDX11x64/archive/GO/sce03_eng.arc': _dgs1_jsons('sce03'),
-    'nativeDX11x64/archive/GO/sce04_eng.arc': _dgs1_jsons('sce04'),
+    'nativeDX11x64/archive/GO/sce00_eng.arc': ['traductions/dgs1/sce00.json'],
+    'nativeDX11x64/archive/GO/sce01_eng.arc': ['traductions/dgs1/sce01.json'],
+    'nativeDX11x64/archive/GO/sce02_eng.arc': ['traductions/dgs1/sce02.json'],
+    'nativeDX11x64/archive/GO/sce03_eng.arc': ['traductions/dgs1/sce03.json'],
+    'nativeDX11x64/archive/GO/sce04_eng.arc': ['traductions/dgs1/sce04.json'],
     # ── DGS2 (BB/) ──────────────────────────────────────────────────────────
     'nativeDX11x64/archive/BB/sce00_eng.arc': ['traductions/dgs2/sce00_c000.json'],
     # Ajouter ici au fur et à mesure :
     # 'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json', ...],
-    # ── Noms de personnages / profils (GO/) ─────────────────────────────────
-    # Traités depuis l'anglais original (le bsdiff du fan patch utilise des noms
-    # différents : "Hikari Yûno", "Amimo Amiéyama"…).
-    'nativeDX11x64/archive/GO/msg_title_eng.arc': ['traductions/legacy/archive/GO/msg_title_eng.json'],
 }
 
 
-def load_translations(json_paths: list[str], is_dgs1: bool = False) -> dict[str, dict[str, str]]:
+def load_translations(json_paths: list[str]) -> dict[str, dict[str, str]]:
     """
     Charge une liste de JSON et retourne { gmd_short_name: {en: fr} }.
     Plusieurs JSON peuvent couvrir le même arc (ex: plusieurs chapitres DGS2).
@@ -94,12 +83,9 @@ def load_translations(json_paths: list[str], is_dgs1: bool = False) -> dict[str,
                 # Strings "full GMD" (contiennent <RDFG>) : pas de wrap ni de
                 # validation — le string couvre plusieurs blocs et des codes
                 # d'événement, les checks seraient de faux positifs.
-                # Blocs DGS1 individuels (contiennent <E023>) : déjà formatés
-                # par le patch original, pas de wrap non plus.
                 full_gmd = '<RDFG ' in en_raw
-                dgs1_block = ('<E023>' in en_raw or '<E027>' in en_raw) and not full_gmd
 
-                if full_gmd or dgs1_block:
+                if full_gmd:
                     fr = fr_raw
                 else:
                     fr = wrap_dialogue_line(fr_raw.replace('\r\n', '\n')).replace('\n', '\r\n')
@@ -109,54 +95,22 @@ def load_translations(json_paths: list[str], is_dgs1: bool = False) -> dict[str,
                 if en_vis == fr_vis:
                     continue
 
-                entry_id = entry.get('id', '?')
+                if not full_gmd:
+                    entry_id = entry.get('id', '?')
 
-                # DÉPASSEMENT désactivé pour DGS1 : les boîtes semblent absorber
-                # les débordements sans problème visible.
-                if not is_dgs1 and not full_gmd and not dgs1_block:
                     for box_part in fr.split('<PAGE>'):
                         if box_part.count('\r\n') + 1 > 2:
                             print(f"  ⚠ DÉPASSEMENT [{gmd_short} #{entry_id}]")
                             break
 
-                # Vérification des codes manquants / en trop (DGS2 uniquement).
-                # Désactivé pour DGS1 : le fan patch modifie délibérément les codes
-                # d'expression <E025 N> et de timing <E003 N> dans tout le jeu, ce qui
-                # produirait des milliers de faux positifs.
-                # Les codes de style ruby (<E507>, <E519>, <E516>, <E517>) sont exclus du
-                # check "en trop" car le FR peut en ajouter légitimement.
-                if not is_dgs1 and not full_gmd:
-                    _RUBY = re.compile(r'^<E(?:507|516|517|519)')
                     en_codes = set(re.findall(r'<[^>]+>', en_raw))
                     fr_codes = set(re.findall(r'<[^>]+>', fr_raw))
                     missing = en_codes - fr_codes
-                    extra   = fr_codes - en_codes - {c for c in fr_codes if _RUBY.match(c)}
                     if missing:
                         print(f"  ⚠ CODES MANQUANTS [{gmd_short} #{entry_id}]: {', '.join(sorted(missing))}")
-                    if extra:
-                        print(f"  ⚠ CODES EN TROP   [{gmd_short} #{entry_id}]: {', '.join(sorted(extra))}")
-
-                # Vérification de la cohérence des valeurs E800 (dgs1_block uniquement).
-                # Dans un dgs1_block, les E800 doivent être identiques à l'EN : un
-                # décalage (ex: 1838→1837) crée un doublon dans le script parent et
-                # peut corrompre l'état du jeu (écran beige sur les scènes 3D MCRS
-                # même éloignées). Les full_gmd peuvent avoir des E800 renumératés
-                # intentionnellement par le traducteur — non vérifiés ici.
-                if dgs1_block:
-                    en_e800 = re.findall(r'<E800 (\d+)>', en_raw)
-                    fr_e800 = re.findall(r'<E800 (\d+)>', fr_raw)
-                    if en_e800 != fr_e800:
-                        print(f"  ⚠ E800 INCOHÉRENT [{gmd_short} #{entry_id}]: EN={en_e800} FR={fr_e800}")
 
                 replacements[en_raw] = fr
-                # en_vis (texte sans codes) est ajouté uniquement pour les entrées
-                # DGS2 plain text, où en_raw peut avoir des codes de style et où
-                # en_vis sert de fallback utile.
-                # Pour les dgs1_block et full_gmd, en_vis crée des faux matchs :
-                # ex. '.........' matche à l'intérieur d'un '.............' non traduit
-                # dans le même RDFG → injection de codes → corruption → écran beige.
-                if not dgs1_block and not full_gmd:
-                    replacements[en_vis] = fr
+                replacements[en_vis] = fr
 
             if replacements:
                 if gmd_short not in result:
@@ -239,7 +193,7 @@ def main():
             orig_arc.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(bak_path, orig_arc)
 
-            gmd_translations = load_translations(json_paths, is_dgs1='/GO/' in arc_rel_path)
+            gmd_translations = load_translations(json_paths)
             total = sum(len(v) for v in gmd_translations.values())
             print(f"  Traductions : {len(gmd_translations)} GMD(s), {total} remplacements")
 

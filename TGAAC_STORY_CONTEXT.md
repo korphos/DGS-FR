@@ -22,22 +22,22 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 
 ## Noms des personnages — Correspondances FR (patch DGS1) ↔ EN
 
-> **Contexte :** Le patch FR DGS1 d'origine avait renommé les personnages japonais. Ces noms ont été **révisés** pour garder les noms originaux japonais (plus fidèles à la version EN officielle qui n'a pas occidentalisé les noms), tout en conservant les jeux de mots français là où ils étaient réussis.
+> **Contexte :** Le patch FR DGS1 a renommé les personnages japonais avec des noms français à consonance japonaise, conçus comme des jeux de mots phonétiques. Les noms anglais (DGS2) sont différents. Pour la traduction DGS2, **utiliser les noms EN listés ci-dessous**, et **réutiliser les noms FR DGS1** pour tous les personnages récurrents.
 
 ### Protagonistes et alliés
 
-| Nom EN (DGS1/DGS2) | Nom FR (patch révisé) | Notes |
+| Nom EN (DGS1/DGS2) | Nom FR patch DGS1 | Jeu de mots / Notes |
 |---|---|---|
-| **Ryunosuke Naruhodo** | **Yuno Naruhodo** | Prénom simplifié (Yuno). Susato l'appelle **Naruhodo-san** |
-| **Susato Mikotoba** | **Susato Mikotoba** | Nom original conservé. Iris lui donne le surnom affectueux **Susu** |
-| **Yujin Mikotoba** | **Yujin Mikotoba** (**Professeur Mikotoba**) | Père de Susato |
-| **Kazuma Asogi** | **Norasompei Kiyo** (alias **Kiyo**, **M. Kiyo**) | "Qui honora son pays" (lu phonétiquement) — conservé |
-| **Herlock Sholmes** | **Herlock Sholmes** / **Sholminou** | "Sholminou" = surnom affectueux utilisé par Iris |
-| **Iris Wilson** | **Iris Wilson** | Nom EN conservé. Appelle Yuno **Yuyu** et Susato **Susu** |
+| **Ryunosuke Naruhodo** | **Yûno Hikari** (alias **Nick**, **Nicky**) | "Yûno Hikari" = nom japonais inventé pour le FR |
+| **Susato Mikotoba** | **Amiéyama Amimo** (alias **Amimo**) | "assistante juridique" de Nick/Yûno dans DGS1 |
+| **Yujin Mikotoba** | **Amiéyama Amikaru** (**Professeur Amiéyama**) | Père d'Amimo = père de Susato |
+| **Kazuma Asogi** | **Norasompéï Kiyô** (alias **Kiyô**, **M. Kiyô**) | "Qui honora son pays" (lu phonétiquement) |
+| **Herlock Sholmes** | **Sherlock Holmes** / **Sherlockinou** | ⚠ Le patch FR écrit "Sherlock Holmes" — **préférer "Herlock Sholmes"** pour éviter la référence directe. "Sherlockinou" = surnom affectueux utilisé par Iris |
+| **Iris Wilson** | **Iris Watson** | Prénom conservé, Watson au lieu de Wilson (comme en JP) |
 
 ### Antagonistes et personnages secondaires (DGS1)
 
-| Nom EN | Nom FR (patch révisé) | Notes |
+| Nom EN | Nom FR patch DGS1 | Notes |
 |---|---|---|
 | **Barok van Zieks** | **Drake Van Peers** (**Lord Van Peers**) | Procureur à Londres |
 | **Mael Stronghart** | **Lord Caine** | "ministre Caine" dans sce03 — Lord Chief Justice |
@@ -46,7 +46,7 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 | **Gina Lestrade** | **Gina Lestrade** (**Mlle Gina**) | Nom conservé |
 | **Soseki Natsume** | **Natsumé Sôsséki** (**Sôsséki**) | Prénom/nom inversés à la française |
 | **Jezaille Brett** | **Gizelle Brett** | Prénom légèrement modifié |
-| **John H. Wilson** | **Professeur John H. Wilson** | Wilson (comme EN). = John Watson dans la fiction. Assassiné par Jezaille Brett |
+| **John H. Wilson** | **Professeur John H. Watson** | Conservé comme "Watson" (cohérent avec le sous-texte JP) |
 | **Nikomina Borschevic** | **Liliya Sassoupkikvitch** (**Mlle Liliya**) | Renommée |
 | **Dmitri Demiglaski** | **Stroganov** | Pun culinaire (bœuf Stroganov) |
 | **Ashley Graydon** | **Paul Cademy** | Antagoniste ep5 |
@@ -56,10 +56,10 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 
 ### Règle pour la traduction DGS2
 
-- **Réutiliser les noms FR révisés** pour tous les personnages récurrents (Yuno Naruhodo, Susato, Kiyo, Van Peers, Mikotoba…)
+- **Réutiliser les noms FR DGS1** pour tous les personnages récurrents (Yûno Hikari, Amimo, Kiyô, Van Peers, Amiéyama…)
 - Pour les personnages nouveaux dans DGS2 (Haori Murasame, Enoch Drebber, etc.) : créer des noms FR dans le même esprit
-- **Herlock Sholmes** : toujours "Herlock Sholmes" / "Sholminou"
-- Dans DGS2-1, Susato se déguise en "Ryutaro Naruhodo" en EN — adapter en FR (ex: "Yutaro Naruhodo" ou équivalent)
+- **Herlock Sholmes** : toujours "Herlock Sholmes", **jamais** "Sherlock Holmes" (le patch DGS1 avait tort)
+- Dans DGS2-1, Susato se déguise en "Ryutaro Naruhodo" en EN — adapter en FR (ex: "Yûtaro Hikari" ou équivalent)
 - Gregson, Gina Lestrade, Soseki/Sôsséki : conserver les noms FR DGS1
 
 ---
@@ -70,13 +70,13 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 
 | Nom anglais | Nom japonais | Rôle | Notes traduction |
 |---|---|---|---|
-| **Ryunosuke Naruhodo** | 成歩堂 龍ノ介 | Protagoniste, avocat de la défense | **FR : Yuno Naruhodo** — Susato l'appelle **Naruhodo-san**, Iris l'appelle **Yuyu**. Réutiliser en DGS2 |
-| **Susato Mikotoba** | 御琴羽 寿沙都 | Assistante judiciaire | **FR : Susato Mikotoba** — Iris lui donne le surnom **Susu**. Se déguise en "Yutaro Naruhodo" dans DGS2-1 (adapter) |
-| **Herlock Sholmes** | シャーロック・ホームズ | Grand détective, Baker Street | **FR : Herlock Sholmes** / surnom **Sholminou** (utilisé par Iris). Sa "danse de la déduction" est souvent fausse. Toujours "Herlock Sholmes", jamais "Sherlock Holmes" |
-| **Iris Wilson** | アイリス・ワトソン | Colocataire de Sholmes, auteure | **FR : Iris Wilson** — réutiliser en DGS2. Enfant prodige, médecin et écrivaine. Auteure des aventures de Sholmes. Surnoms affectueux : **Yuyu** (Yuno) et **Susu** (Susato) |
-| **Kazuma Asogi** | 亜双義 一真 | Ami de Ryunosuke, avocat | **FR : Norasompei Kiyo** (alias **Kiyo**) — "Qui honora son pays". Réutiliser en DGS2 (Prosecutor K) |
+| **Ryunosuke Naruhodo** | 成歩堂 龍ノ介 | Protagoniste, avocat de la défense | **FR : Yûno Hikari** (alias **Nick**, **Nicky**) — réutiliser en DGS2 |
+| **Susato Mikotoba** | 御琴羽 寿沙都 | Assistante judiciaire | **FR : Amiéyama Amimo** (alias **Amimo**) — réutiliser en DGS2. Se déguise en "Yûno Hikari" dans DGS2-1 (adapter) |
+| **Herlock Sholmes** | シャーロック・ホームズ | Grand détective, Baker Street | FR DGS1 : **"Sherlock Holmes"** (patch) / **Sherlockinou** (surnom d'Iris). ⚠ **Toujours écrire "Herlock Sholmes"** dans DGS2. Sa "danse de la déduction" est souvent fausse |
+| **Iris Wilson** | アイリス・ワトソン | Colocataire de Sholmes, auteure | **FR : Iris Watson** — réutiliser en DGS2. Enfant prodige, médecin et écrivaine. Auteure des aventures de Sholmes |
+| **Kazuma Asogi** | 亜双義 一真 | Ami de Ryunosuke, avocat | **FR : Norasompéï Kiyô** (alias **Kiyô**) — "Qui honora son pays". Réutiliser en DGS2 (Prosecutor K) |
 | **Barok van Zieks** | バロック・バンジークス | Procureur principal | **FR : Drake Van Peers** (**Lord Van Peers**) — réutiliser en DGS2. "Le Faucheur du Vieux Bailey" |
-| **Yujin Mikotoba** | 御琴羽 悠仁 | Père de Susato, médecin légiste | **FR : Yujin Mikotoba** (**Professeur Mikotoba**) — réutiliser en DGS2 |
+| **Yujin Mikotoba** | 御琴羽 悠仁 | Père de Susato, médecin légiste | **FR : Amiéyama Amikaru** (**Professeur Amiéyama**) — réutiliser en DGS2 |
 | **Gina Lestrade** | ジーナ・レストレード | Pickpocket, puis inspectrice | **FR : Gina Lestrade** (alias **Mlle Gina**) — réutiliser en DGS2 |
 
 ### Antagonistes et personnages clés
@@ -98,7 +98,7 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 | **Olive Green** | Locataire | DGS1-4, DGS2-2 | A tenté d'empoisonner Shamspeare (strychnine) |
 | **Haori Murasame** | Procureure | DGS2-1 | Procureure au Japon pendant l'absence de Naruhodo |
 | **Pop Windibank** | Commerçant, prêteur sur gages | DGS1-5 | Victime dans DGS1-5. Son magasin = lieu du crime |
-| **John H. Wilson** | Professeur britannique visité au Japon | DGS1-1 | FR : **Professeur John H. Wilson** (même nom qu'EN). = John Watson dans la fiction. Assassiné par Jezaille Brett |
+| **John H. Wilson** | Professeur britannique visité au Japon | DGS1-1 | FR DGS1 : **Professeur John H. Watson** (conservé "Watson"). = John Watson dans la fiction. Assassiné par Jezaille Brett |
 | **Dmitri Demiglaski** | Cuisinier du SS Burya | DGS1-2 | FR DGS1 : **Stroganov** (pun culinaire). Vrai tueur dans l'affaire du bateau |
 | **Nikomina Borschevic** | Danseuse, SS Burya | DGS1-2 | FR DGS1 : **Liliya Sassoupkikvitch** (**Mlle Liliya**). Accusée du meurtre d'Asogi |
 

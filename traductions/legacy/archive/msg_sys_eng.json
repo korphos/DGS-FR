@@ -303,12 +303,12 @@
     {
       "id": "061",
       "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 4: In Sholmes's Suite’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
-      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 4 : Chez Sholmes\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 4 : Chez Holmes\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
     },
     {
       "id": "062",
       "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 5: At Naruhodo's Legal Consultancy’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
-      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 5 : Au cabinet d'avocat Yuno\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 5 : Au cabinet d'avocat Yûno\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
     },
     {
       "id": "063",
@@ -464,7 +464,7 @@
     {
       "id": "003",
       "en": "Kazuma's Cabin",
-      "fr": "Cabine de Kiyo"
+      "fr": "Cabine de Kiyô"
     },
     {
       "id": "004",
@@ -494,7 +494,7 @@
     {
       "id": "009",
       "en": "Sholmes's Suite",
-      "fr": "Chez Sholmes"
+      "fr": "Chez Holmes"
     },
     {
       "id": "010",
@@ -519,12 +519,12 @@
     {
       "id": "014",
       "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yuno"
+      "fr": "Cabinet d'avocat Yûno"
     },
     {
       "id": "015",
       "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yuno"
+      "fr": "Cabinet d'avocat Yûno"
     },
     {
       "id": "016",
@@ -549,7 +549,7 @@
     {
       "id": "020",
       "en": "Kazuma's Cabin (At Night)",
-      "fr": "Cabine de Kiyo"
+      "fr": "Cabine de Kiyô"
     },
     {
       "id": "021",
@@ -710,7 +710,7 @@
     {
       "id": "010",
       "en": "The Resolve of Ryunosuke Naruhodo",
-      "fr": "La détermination de Yuno Naruhodo"
+      "fr": "La détermination de Hikari Yûno"
     },
     {
       "id": "011",
@@ -860,12 +860,12 @@
     {
       "id": "040",
       "en": "In Sholmes's Suite",
-      "fr": "Chez Sholmes"
+      "fr": "Chez Holmes"
     },
     {
       "id": "041",
       "en": "At Naruhodo's Legal Consultancy",
-      "fr": "Au cabinet d'avocat Yuno"
+      "fr": "Au cabinet d'avocat Yûno"
     },
     {
       "id": "042",
@@ -1576,7 +1576,7 @@
     {
       "id": "019",
       "en": "The Herlockian",
-      "fr": "Herlockian"
+      "fr": "Sherlockian"
     },
     {
       "id": "020",
@@ -1636,7 +1636,7 @@
     {
       "id": "031",
       "en": "Asogi Clan Appreciator",
-      "fr": "Le clan Norasompei"
+      "fr": "Le clan Norasompéï"
     },
     {
       "id": "032",
@@ -1751,12 +1751,12 @@
     {
       "id": "054",
       "en": "For having examined the violin before\r\ntalking with Iris about the ‘Wilson’\r\ntopic in Episode 4 of The Great Ace\r\nAttorney: Adventures",
-      "fr": "Décernée pour avoir inspecté\r\nle violon avant de parler de\r\nWilson avec Iris\r\n(Aventures - 4e affaire)"
+      "fr": "Décernée pour avoir inspecté\r\nle violon avant de parler de\r\nWatson avec Iris\r\n(Aventures - 4e affaire)"
     },
     {
       "id": "055",
       "en": "For having examined the fireplace\r\nin Mr Sholmes's suite whilst with\r\nSusato in Episode 5 of The Great\r\nAce Attorney: Adventures",
-      "fr": "Décernée pour avoir inspecté\r\nla cheminée de la chambre\r\nde Sholmes\r\n(Aventures - 5e affaire)"
+      "fr": "Décernée pour avoir inspecté\r\nla cheminée de la chambre\r\nde Holmes\r\n(Aventures - 5e affaire)"
     },
     {
       "id": "056",
@@ -1776,7 +1776,7 @@
     {
       "id": "059",
       "en": "For erroneously answering\r\nMr Sholmes's question about who\r\nmight have something that belonged\r\nto the convict in Episode 2 of The\r\nGreat Ace Attorney 2: Resolve",
-      "fr": "Décernée pour avoir répondu\r\nincorrectement à la question\r\nde Sholmes sur la personne qui\r\npossède un échantillon du\r\nprisonnier\r\n(Détermination - 2e affaire)"
+      "fr": "Décernée pour avoir répondu\r\nincorrectement à la question\r\nde Holmes sur la personne qui\r\npossède un échantillon du\r\nprisonnier\r\n(Détermination - 2e affaire)"
     },
     {
       "id": "060",
@@ -1786,7 +1786,7 @@
     {
       "id": "061",
       "en": "For talking with Gina after Ryunosuke\r\nregains consciousness following the\r\nincident with Toby in Episode 4 of\r\nThe Great Ace Attorney 2: Resolve",
-      "fr": "Décernée pour avoir discuté\r\navec Gina après que Yuno\r\ns'est évanoui\r\n(Détermination - 4e affaire)"
+      "fr": "Décernée pour avoir discuté\r\navec Gina après que Yûno\r\ns'est évanoui\r\n(Détermination - 4e affaire)"
     },
     {
       "id": "062",
@@ -1851,47 +1851,47 @@
     {
       "id": "074",
       "en": "Played with Sholmes in his Japanese jumble mix",
-      "fr": "\"Accoutrement japonisant spécial de Herlock\" utilisé"
+      "fr": "\"Accoutrement japonisant spécial de Sherlock\" utilisé"
     },
     {
       "id": "075",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Susato)"
+      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
     },
     {
       "id": "076",
       "en": "Examined the shovel with Iris in Naruhodo's Legal Consultancy\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Iris)"
+      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Iris)"
     },
     {
       "id": "077",
       "en": "Examined the shovel by yourself in Naruhodo's Legal Consultancy\r\nin Episode 2 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Personne)"
+      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Personne)"
     },
     {
       "id": "078",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans les souvenirs du cabinet d'avocat Yuno\r\n(Partenaire : Susato)"
+      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans les souvenirs du cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
     },
     {
       "id": "079",
       "en": "Examined the shovel with Iris in Naruhodo's Legal Consultancy\r\nin Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Iris)"
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Iris)"
     },
     {
       "id": "080",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Susato)"
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
     },
     {
       "id": "081",
       "en": "Examined the shovel with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le musée de cire de Mme Pétrie\r\n(Partenaire : Susato)"
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
     },
     {
       "id": "082",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 4 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 4e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yuno\r\n(Partenaire : Susato)"
+      "fr": "Détermination - 4e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
     },
     {
       "id": "083",
@@ -1901,42 +1901,42 @@
     {
       "id": "084",
       "en": "Examined the ladder with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Susato)"
+      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
     },
     {
       "id": "085",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris\r\nin Episode 4 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris, Susato)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris, Amimo)"
     },
     {
       "id": "086",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris having heard\r\nthe ‘Wilson’ topic in Episode 4 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir après avoir parlé de Wilson\r\n(Partenaire : Iris, Susato)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir après avoir parlé de Watson\r\n(Partenaire : Iris, Amimo)"
     },
     {
       "id": "087",
       "en": "Examined the blackboard in Sholmes's suite with Susato on the first day\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Sholmes lors du 1er jour\r\n(Partenaire : Iris, Susato)"
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes lors du 1er jour\r\n(Partenaire : Iris, Amimo)"
     },
     {
       "id": "088",
       "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris)"
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
     },
     {
       "id": "089",
       "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episodes 2 or 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 2e ou 3e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris)"
+      "fr": "Aventures - 2e ou 3e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
     },
     {
       "id": "090",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir dans les souvenirs de chez Sholmes\r\n(Partenaire : Iris, Susato)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir dans les souvenirs de chez Holmes\r\n(Partenaire : Iris, Amimo)"
     },
     {
       "id": "091",
       "en": "Examined the blackboard in Sholmes's suite with Susato in Episode 3, 4,\r\nor the Final Chapter of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 3, 4 ou 5e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Susato)"
+      "fr": "Aventures - 3, 4 ou 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Amimo)"
     },
     {
       "id": "092",

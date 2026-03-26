@@ -251,6 +251,8 @@ def translate_string(s: bytes, replacements: dict[str, str],
         for en, fr in replacements.items():
             en_norm = re.sub(r'\s+', ' ', en.replace('\r\n', ' ').replace('\n', ' '))
             if en_norm == vis_norm:
+                if strat4_log is not None:
+                    strat4_log.append(vis_norm[:70])
                 if '<' in fr:
                     # FR avec codes — utilisé directement, <PAGE> crée une nouvelle boîte
                     if '<PAGE>' in fr:
@@ -262,13 +264,13 @@ def translate_string(s: bytes, replacements: dict[str, str],
                     # original n'a lui-même aucun code (sinon on perdrait des codes)
                     if re.search(r'<[^>]+>', content):
                         if strat4_log is not None:
-                            strat4_log.append(vis_norm + '  ← UNSAFE: FR sans codes mais EN a des codes, original préservé')
+                            strat4_log[-1] += '  ← UNSAFE: FR sans codes mais EN a des codes, original préservé'
                         return m.group(0)  # original préservé intact
                     return opener + fr + closer
         return m.group(0)  # pas de match : laisse intact
 
     text = re.sub(
-        r'(<E025[^>]*>)(.*?)(<E023>|<PAGE>|<E027>)',
+        r'(<E025[^>]*>)(.*?)(<E023>|<PAGE>)',
         _replace_segment,
         text,
         flags=re.DOTALL
