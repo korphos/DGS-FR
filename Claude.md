@@ -287,21 +287,22 @@ Les backups sont créés automatiquement à côté des fichiers du jeu en `.arc.
 
 ## Mapping fichiers → JSON de traduction
 
-### DGS1 (GO/) — JSON découpés par chapitre
+### DGS1 (GO/) — un JSON monolithique par arc
 
-Chaque arc est découpé en plusieurs fichiers `sceXX_cYYY.json` + `sceXX_misc.json`.
-Les fichiers sont **découverts automatiquement** par glob (`_dgs1_jsons('sceXX')` dans `create_patch.py`).
+Chaque arc est traduit via **un seul fichier JSON** (`sceXX.json`), contenant toutes les entrées de l'arc au format **full-GMD** (`<RDFG N>`).
 
-| ARC (`nativeDX11x64/archive/GO/`) | Fichiers JSON | GMDs | État |
+> ⚠️ **Ne jamais découper en fichiers par chapitre (`sceXX_cYYY.json`).** Le format split perd les décalages `<E800>` intentionnels du patch original, ce qui corrompt les scènes 3D (écran beige). Voir branche `fix-3d-no-split`.
+
+| ARC (`nativeDX11x64/archive/GO/`) | Fichier JSON | GMDs | État |
 |---|---|---|---|
-| `sce00_eng.arc` | `traductions/dgs1/sce00_c000.json` … `sce00_misc.json` | 60 | ✓ |
-| `sce01_eng.arc` | `traductions/dgs1/sce01_c000.json` … `sce01_misc.json` | 58 | ✓ |
-| `sce02_eng.arc` | `traductions/dgs1/sce02_c000.json` … `sce02_misc.json` | 47 | ✓ |
-| `sce03_eng.arc` | `traductions/dgs1/sce03_c000.json` … `sce03_misc.json` | 85 | ✓ |
-| `sce04_eng.arc` | `traductions/dgs1/sce04_c000.json` … `sce04_misc.json` | 158 | ✓ |
+| `sce00_eng.arc` | `traductions/dgs1/sce00.json` | 60 | ✓ |
+| `sce01_eng.arc` | `traductions/dgs1/sce01.json` | 58 | ✓ |
+| `sce02_eng.arc` | `traductions/dgs1/sce02.json` | 47 | ✓ |
+| `sce03_eng.arc` | `traductions/dgs1/sce03.json` | 85 | ✓ |
+| `sce04_eng.arc` | `traductions/dgs1/sce04.json` | 158 | ✓ |
 
-**Format :** majorité des entrées au format bloc `<E025>…<E023>` (lisible en git). Environ 372 entrées restent en format full-GMD `<RDFG>` (blocs EN/FR avec nombre différent).
-**Les codes `<E800>` ne doivent pas être modifiés.**
+**Format :** toutes les entrées au format full-GMD `<RDFG N>` — chaque entrée remplace une string GMD entière.
+**Les codes `<E800>` dans le FR peuvent différer du EN : c'est intentionnel, ne pas "corriger".**
 
 ### DGS2 (BB/) — un JSON par chapitre
 
@@ -319,12 +320,23 @@ Pour ajouter une scène DGS2, ajouter une entrée dans `ARC_TRANSLATIONS` dans `
 'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json'],
 ```
 
+### Noms de personnages / UI (GO/)
+
+`msg_title_eng.arc` est géré via JSON (pas bsdiff), comme les arcs de scènes :
+
+| ARC | Fichier JSON | Contenu |
+|---|---|---|
+| `nativeDX11x64/archive/GO/msg_title_eng.arc` | `traductions/legacy/archive/GO/msg_title_eng.json` | Noms courts (bulles), profils dossier, lieux, topics, cinématiques |
+
+Pour modifier un nom ou une ligne UI de cet arc, éditer directement le JSON.
+
 ### Assets binaires et fichiers UI/legacy
 
 Stockés dans `assets/patches/` comme bsdiffs pré-extraits + `manifest.json`.
 Appliqués directement par `rebuild_and_apply.py` sans nécessiter le patch original.
+`msg_title_eng.arc` est **exclu** de l'application bsdiff (géré par notre JSON ci-dessus).
 
-Pour **modifier du texte** dans ces fichiers (noms de personnages, UI, sous-titres, etc.) :
+Pour **modifier du texte** dans les autres fichiers legacy (sous-titres, polices, etc.) :
 ```bash
 python3 tools/patch_legacy_text.py "ancien texte" "nouveau texte" ["ancien2" "nouveau2" ...]
 ```
