@@ -53,11 +53,38 @@ ARC_TRANSLATIONS: dict[str, list[str]] = {
     'nativeDX11x64/archive/GO/msg_title_eng.arc': ['traductions/legacy/archive/GO/msg_title_eng.json'],
 }
 
+# ─── GMD bruts à patcher (hors ARC) ──────────────────────────────────────────
+# Chemins relatifs depuis game_root → liste de JSON de traduction.
+# Ces fichiers remplacent les bsdiffs du patch legacy pour ces GMDs.
+GMD_TRANSLATIONS: dict[str, list[str]] = {
+    'nativeDX11x64/GO/msg/blood_sample_eng.gmd':                ['traductions/legacy/GO/msg/blood_sample_eng.json'],
+    'nativeDX11x64/GO/msg/eventCutSubtitles_eng.gmd':           ['traductions/legacy/GO/msg/eventCutSubtitles_eng.json'],
+    'nativeDX11x64/GO/msg/explain_content_eng.gmd':             ['traductions/legacy/GO/msg/explain_content_eng.json'],
+    'nativeDX11x64/GO/msg/explain_support_eng.gmd':             ['traductions/legacy/GO/msg/explain_support_eng.json'],
+    'nativeDX11x64/GO/msg/explain_title_eng.gmd':               ['traductions/legacy/GO/msg/explain_title_eng.json'],
+    'nativeDX11x64/GO/msg/item0_03_00_subtitles_eng.gmd':       ['traductions/legacy/GO/msg/item0_03_00_subtitles_eng.json'],
+    'nativeDX11x64/GO/msg/item0_04_00_subtitles_eng.gmd':       ['traductions/legacy/GO/msg/item0_04_00_subtitles_eng.json'],
+    'nativeDX11x64/GO/msg/item0_14_00_subtitles_eng.gmd':       ['traductions/legacy/GO/msg/item0_14_00_subtitles_eng.json'],
+    'nativeDX11x64/GO/msg/item1_10_00_subtitles_eng.gmd':       ['traductions/legacy/GO/msg/item1_10_00_subtitles_eng.json'],
+    'nativeDX11x64/GO/msg/item1_12_00_subtitles_eng.gmd':       ['traductions/legacy/GO/msg/item1_12_00_subtitles_eng.json'],
+    'nativeDX11x64/GO/msg/movie_subtitle_eng.gmd':              ['traductions/legacy/GO/msg/movie_subtitle_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_evidence_name_eng.gmd': ['traductions/legacy/GO/msg/pair_reasoning_evidence_name_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_sce01_eng.gmd':        ['traductions/legacy/GO/msg/pair_reasoning_sce01_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_sce03_eng.gmd':        ['traductions/legacy/GO/msg/pair_reasoning_sce03_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_sce04_eng.gmd':        ['traductions/legacy/GO/msg/pair_reasoning_sce04_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_topic_label_eng.gmd':  ['traductions/legacy/GO/msg/pair_reasoning_topic_label_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_topic_message_eng.gmd': ['traductions/legacy/GO/msg/pair_reasoning_topic_message_eng.json'],
+    'nativeDX11x64/GO/msg/pair_reasoning_topic_title_eng.gmd':  ['traductions/legacy/GO/msg/pair_reasoning_topic_title_eng.json'],
+}
 
-def load_translations(json_paths: list[str]) -> dict[str, dict[str, str]]:
+
+def load_translations(json_paths: list[str],
+                      warn_overflow: bool = True) -> dict[str, dict[str, str]]:
     """
     Charge une liste de JSON et retourne { gmd_short_name: {en: fr} }.
     Plusieurs JSON peuvent couvrir le même arc (ex: plusieurs chapitres DGS2).
+    warn_overflow=False supprime les avertissements de dépassement de ligne
+    (utile pour DGS1 dont les chaînes viennent d'un fan patch pré-formaté).
     """
     result: dict[str, dict[str, str]] = {}
 
@@ -88,7 +115,12 @@ def load_translations(json_paths: list[str]) -> dict[str, dict[str, str]]:
                 # d'événement, les checks seraient de faux positifs.
                 full_gmd = '<RDFG ' in en_raw
 
-                if full_gmd:
+                # Strings sans boîte de dialogue (<E025>) : descriptions d'examen,
+                # titres de lieux, sous-titres, etc. — ne pas re-wrapper ni vérifier
+                # la longueur de ligne (format différent de la boîte de dialogue).
+                dialogue_box = '<E025' in en_raw or '<E025' in fr_raw
+
+                if full_gmd or not dialogue_box:
                     fr = fr_raw
                 else:
                     fr = wrap_dialogue_line(fr_raw.replace('\r\n', '\n')).replace('\n', '\r\n')
@@ -98,13 +130,14 @@ def load_translations(json_paths: list[str]) -> dict[str, dict[str, str]]:
                 if en_vis == fr_vis:
                     continue
 
-                if not full_gmd:
+                if not full_gmd and dialogue_box:
                     entry_id = entry.get('id', '?')
 
-                    for box_part in fr.split('<PAGE>'):
-                        if box_part.count('\r\n') + 1 > 2:
-                            print(f"  ⚠ DÉPASSEMENT [{gmd_short} #{entry_id}]")
-                            break
+                    if warn_overflow:
+                        for box_part in fr.split('<PAGE>'):
+                            if box_part.count('\r\n') + 1 > 2:
+                                print(f"  ⚠ DÉPASSEMENT [{gmd_short} #{entry_id}]")
+                                break
 
                     en_codes = set(re.findall(r'<[^>]+>', en_raw))
                     fr_codes = set(re.findall(r'<[^>]+>', fr_raw))
@@ -121,6 +154,33 @@ def load_translations(json_paths: list[str]) -> dict[str, dict[str, str]]:
                 result[gmd_short].update(replacements)
 
     return result
+
+
+def patch_gmd_file(gmd_source: str, gmd_translations: dict[str, dict[str, str]]) -> bytes:
+    """
+    Applique les traductions à un fichier GMD brut (non encapsulé dans un ARC).
+    Lit le fichier source, remplace les strings, retourne les bytes modifiés.
+    """
+    data = Path(gmd_source).read_bytes()
+    gmd = read_gmd(data)
+    strings = get_strings(gmd)
+
+    # Normalise le nom : retire .bak éventuel puis l'extension .gmd
+    _name = Path(gmd_source).name
+    if _name.endswith('.bak'):
+        _name = _name[:-4]
+    short_noext = Path(_name).stem         # ex: "explain_content_eng"
+    replacements = gmd_translations.get(short_noext, {})
+
+    strat4_log: list[str] = []
+    new_strings = [translate_string(s, replacements, strat4_log) for s in strings]
+    for hit in strat4_log:
+        print(f"  ⚠ STRATÉGIE 4 ({short_noext}): {hit}")
+
+    new_data = set_strings(gmd, new_strings)
+    modified = sum(1 for o, n in zip(strings, new_strings) if o != n)
+    print(f"  ✓ {short_noext} : {modified}/{len(strings)} string(s) modifiée(s)")
+    return new_data
 
 
 def patch_arc(arc_source: str, gmd_translations: dict[str, dict[str, str]]) -> bytes:
@@ -196,7 +256,8 @@ def main():
             orig_arc.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(bak_path, orig_arc)
 
-            gmd_translations = load_translations(json_paths)
+            is_dgs2 = any('dgs2' in p for p in json_paths)
+            gmd_translations = load_translations(json_paths, warn_overflow=is_dgs2)
             total = sum(len(v) for v in gmd_translations.values())
             print(f"  Traductions : {len(gmd_translations)} GMD(s), {total} remplacements")
 

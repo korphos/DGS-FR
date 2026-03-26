@@ -30,7 +30,7 @@
     {
       "id": "001",
       "en": "In a corner of that small, dark room,\r\nSholmes and I waited with bated breath.",
-      "fr": "Dans un recoin sombre de cette pièce exiguë,\r\nHolmes et moi attendions, retenant notre souffle."
+      "fr": "Dans un recoin sombre de cette pièce exiguë,\r\nSholmes et moi attendions, retenant notre souffle."
     },
     {
       "id": "002",
@@ -40,12 +40,12 @@
     {
       "id": "003",
       "en": "Suddenly, Sholmes sprang into action,\r\nlashing furiously with his cane at a point in the darkness.",
-      "fr": "À cet instant, Holmes passa soudain à l'action.\r\nIl visa frénétiquement les ténèbres avec sa canne."
+      "fr": "À cet instant, Sholmes passa soudain à l'action.\r\nIl visa frénétiquement les ténèbres avec sa canne."
     },
     {
       "id": "004",
       "en": "‘You see it, Wilson?’ he yelled,\r\nhis tense voice reverberating through the air.",
-      "fr": "\"Vous le voyez, n'est-ce pas, Watson ?!\"\r\nsonna la voix de Holmes dans l'atmosphère pesante."
+      "fr": "\"Vous le voyez, n'est-ce pas, Wilson ?!\"\r\nsonna la voix de Sholmes dans l'atmosphère pesante."
     },
     {
       "id": "005",
@@ -55,7 +55,7 @@
     {
       "id": "006",
       "en": "Sholmes was staring intently at one particular\r\ncorner when he started whispering to me,",
-      "fr": "Holmes scrutait intensément un angle de la pièce\r\nquand il se tourna vers moi et murmura :"
+      "fr": "Sholmes scrutait intensément un angle de la pièce\r\nquand il se tourna vers moi et murmura :"
     },
     {
       "id": "007",
@@ -65,7 +65,7 @@
     {
       "id": "008",
       "en": "I believe this is the terrible coil\r\nto which she referred, Wilson!’",
-      "fr": "\"Eh bien je pense que ce terrifiant corps\r\nroulé en boule est cette bande, Watson !\""
+      "fr": "\"Eh bien je pense que ce terrifiant corps\r\nroulé en boule est cette bande, Wilson !\""
     },
     {
       "id": "009",
@@ -107,7 +107,7 @@
     {
       "id": "006",
       "en": "My friend, Mr Herlock Sholmes,\r\nonce said of the incident,",
-      "fr": "Et mon ami, Sherlock Holmes,\r\na lui-même dit de cette affaire :"
+      "fr": "Et mon ami, Herlock Sholmes,\r\na lui-même dit de cette affaire :"
     },
     {
       "id": "007",
@@ -124,7 +124,7 @@
     {
       "id": "001",
       "en": "‘I begin to think, Wilson,’ said Sholmes,\r\nturning his head languidly in my direction,",
-      "fr": "\"Vous savez, Watson, je commence à penser,\"\r\ndit Holmes en tournant la tête vers moi,"
+      "fr": "\"Vous savez, Wilson, je commence à penser,\"\r\ndit Sholmes en tournant la tête vers moi,"
     },
     {
       "id": "002",
@@ -139,7 +139,7 @@
     {
       "id": "004",
       "en": "His eyes wandered, following the steam\r\nrising from his cup of herbal tea,",
-      "fr": "Suivant du regard les volutes de vapeur\r\ns'élevant de son thé, Holmes semblait rêveur."
+      "fr": "Suivant du regard les volutes de vapeur\r\ns'élevant de son thé, Sholmes semblait rêveur."
     },
     {
       "id": "005",
@@ -171,7 +171,7 @@
     {
       "id": "002",
       "en": "Sholmes's cry pierced through\r\nthe thick wall of fog around us.",
-      "fr": "La voix de Holmes retentit soudain\r\nà travers l'épais mur de brouillard."
+      "fr": "La voix de Sholmes retentit soudain\r\nà travers l'épais mur de brouillard."
     },
     {
       "id": "003",
@@ -206,7 +206,7 @@
     {
       "id": "009",
       "en": "‘Look well, Wilson!’ Sholmes declared,\r\ngazing upon the mystical beast.",
-      "fr": "\"Attention, Watson, regardez bien !\"\r\ndit Holmes, en contemplant ce monstre."
+      "fr": "\"Attention, Wilson, regardez bien !\"\r\ndit Sholmes, en contemplant ce monstre."
     },
     {
       "id": "010",
@@ -228,7 +228,7 @@
     {
       "id": "003",
       "en": "Kazuma's Cabin",
-      "fr": "Cabine de Kiyô"
+      "fr": "Cabine de Kiyo"
     },
     {
       "id": "004",
@@ -258,7 +258,7 @@
     {
       "id": "009",
       "en": "Sholmes's Suite",
-      "fr": "Chez Holmes"
+      "fr": "Chez Sholmes"
     },
     {
       "id": "010",
@@ -283,12 +283,12 @@
     {
       "id": "014",
       "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yûno"
+      "fr": "Cabinet Naruhodo"
     },
     {
       "id": "015",
       "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yûno"
+      "fr": "Cabinet Naruhodo"
     },
     {
       "id": "016",
@@ -313,7 +313,7 @@
     {
       "id": "020",
       "en": "Kazuma's Cabin (At Night)",
-      "fr": "Cabine de Kiyô"
+      "fr": "Cabine de Kiyo"
     },
     {
       "id": "021",
@@ -405,7 +405,7 @@
     {
       "id": "011",
       "en": "What evidence explains Kazuma's death?",
-      "fr": "Quel élément indique la cause de la mort de Kiyô ?"
+      "fr": "Quel élément indique la cause de la mort de Kiyo ?"
     },
     {
       "id": "012",
@@ -435,7 +435,7 @@
     {
       "id": "017",
       "en": "Where was Kazuma really looking?",
-      "fr": "Qu'est-ce qui était sous le regard de Kiyô ?"
+      "fr": "Qu'est-ce qui était sous le regard de Kiyo ?"
     },
     {
       "id": "018",
@@ -517,12 +517,12 @@
     {
       "id": "002",
       "en": "The judicial assistant of Defence Lawyer\r\nKazuma Asogi.",
-      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de mon avocat,\r\nKiyô Norasompéï."
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de mon avocat,\r\nNorasompei Kiyo."
     },
     {
       "id": "003",
       "en": "A medical school professor at the Imperial\r\nYumei University. He's an authority in\r\nforensic medicine, and Kazuma's mentor.",
-      "fr": "                                             <HD>                Âge : 42 ans\r\n</HD>\r\nProfesseur à l'Université Impériale\r\nYûmeï, en faculté de médecine.\r\nPonte en science médico-légale,\r\nmentor de Kiyô."
+      "fr": "                                             <HD>                Âge : 42 ans\r\n</HD>\r\nProfesseur à l'Université Impériale\r\nYûmeï, en faculté de médecine.\r\nPonte en science médico-légale,\r\nmentor de Kiyo."
     },
     {
       "id": "004",
@@ -577,7 +577,7 @@
     {
       "id": "014",
       "en": "A judicial assistant who was travelling with\r\nKazuma to London for a study tour. She is\r\nthe epitome of a refined Japanese lady.",
-      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de Kiyô qui l'accompagne\r\nà Londres. Elle a l'élégance\r\nde la femme japonaise parfaite."
+      "fr": "                                             <HD>                Âge : 16 ans\r\n</HD>\r\nL'assistante de Kiyo qui l'accompagne\r\nà Londres. Elle a l'élégance\r\nde la femme japonaise parfaite."
     },
     {
       "id": "015",
@@ -592,7 +592,7 @@
     {
       "id": "017",
       "en": "An older Russian gentleman travelling on\r\nthe ship. He's staying in the first-class\r\ncabin next to Kazuma's.",
-      "fr": "                                             <HD>                Âge : ??\r\n</HD>\r\nVieux gentleman russe.\r\nOccupe la cabine voisine\r\nde celle de Kiyô."
+      "fr": "                                             <HD>                Âge : ??\r\n</HD>\r\nVieux gentleman russe.\r\nOccupe la cabine voisine\r\nde celle de Kiyo."
     },
     {
       "id": "018",
@@ -657,7 +657,7 @@
     {
       "id": "030",
       "en": "An extraordinary young girl who lives with\r\nMr Sholmes. She has a degree in medicine\r\nand is the author of a popular series of short\r\nstories.",
-      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Holmes. Une enfant\r\nprodige qui détient un doctorat\r\nen médecine et écrit des romans\r\nà succès."
+      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Sholmes. Une enfant\r\nprodige qui détient un doctorat\r\nen médecine et écrit des romans\r\nà succès."
     },
     {
       "id": "031",
@@ -732,7 +732,7 @@
     {
       "id": "045",
       "en": "An extraordinary young girl who lives with\r\nMr Sholmes. She has a degree in medicine\r\nand is the author of a popular series of short\r\nstories published in a prominent magazine.",
-      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Holmes. Une enfant\r\nprodige qui détient un doctorat en\r\nmédecine et écrit des récits pour\r\nThe Strand Magazine."
+      "fr": "                                             <HD>                Âge : 10 ans\r\n</HD>\r\nLa colocataire de Sholmes. Une enfant\r\nprodige qui détient un doctorat en\r\nmédecine et écrit des récits pour\r\nThe Strand Magazine."
     },
     {
       "id": "046",
@@ -762,12 +762,12 @@
     {
       "id": "051",
       "en": "The proprietor of a pawnbrokery on\r\nBaker Street that is regularly patronised\r\nby Mr Sholmes. He has a very great\r\nsense of responsibility to his clients.",
-      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nHolmes se rend régulièrement.\r\nPossède un grand sens du devoir."
+      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nSholmes se rend régulièrement.\r\nPossède un grand sens du devoir."
     },
     {
       "id": "052",
       "en": "The proprietor of a pawnbrokery on\r\nBaker Street that is regularly patronised\r\nby Mr Sholmes. He was shot dead by an\r\nunknown assailant.",
-      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nHolmes se rend régulièrement.\r\nA été tué, abattu par un inconnu."
+      "fr": "                                             <HD>                Âge : 48 ans\r\n</HD>\r\nPropriétaire d'une échoppe de prêt\r\nsur gages de Baker Street où\r\nSholmes se rend régulièrement.\r\nA été tué, abattu par un inconnu."
     },
     {
       "id": "053",
@@ -802,7 +802,7 @@
     {
       "id": "059",
       "en": "Ryunosuke",
-      "fr": "Hikari Yûno"
+      "fr": "Yuno Naruhodo"
     },
     {
       "id": "060",
@@ -1076,7 +1076,7 @@
     {
       "id": "012",
       "en": "Me",
-      "fr": "Moi, Yûno"
+      "fr": "Moi, Yuno"
     },
     {
       "id": "013",
@@ -1306,7 +1306,7 @@
     {
       "id": "058",
       "en": "It's Miss Susato!",
-      "fr": "Mlle Amimo !"
+      "fr": "Mlle Susato !"
     },
     {
       "id": "059",
@@ -1901,17 +1901,17 @@
     {
       "id": "177",
       "en": "Invalid Message",
-      "fr": "Hikari Yûno"
+      "fr": "Yuno Naruhodo"
     },
     {
       "id": "178",
       "en": "Invalid Message",
-      "fr": "Kiyô Norasompéï"
+      "fr": "Norasompei Kiyo"
     },
     {
       "id": "179",
       "en": "Invalid Message",
-      "fr": "Amimo Amiéyama"
+      "fr": "Susato Mikotoba"
     },
     {
       "id": "180",
@@ -1921,12 +1921,12 @@
     {
       "id": "181",
       "en": "Invalid Message",
-      "fr": "Sherlock Holmes"
+      "fr": "Herlock Sholmes"
     },
     {
       "id": "182",
       "en": "Invalid Message",
-      "fr": "Iris Watson"
+      "fr": "Iris Wilson"
     },
     {
       "id": "183",
@@ -2073,7 +2073,7 @@
     {
       "id": "015",
       "en": "The Russian word for ‘wardrobe’ in purple\r\nink. It would appear to have been written\r\nin the victim's final moments.",
-      "fr": "\r\n<HD>\r\n</HD>Le mot russe signifiant \"armoire\" est\r\nécrit au sol avec de l'encre violette.\r\nOn suppose que Kiyô l'a tracé\r\njuste avant de mourir."
+      "fr": "\r\n<HD>\r\n</HD>Le mot russe signifiant \"armoire\" est\r\nécrit au sol avec de l'encre violette.\r\nOn suppose que Kiyo l'a tracé\r\njuste avant de mourir."
     },
     {
       "id": "016",
@@ -2098,17 +2098,17 @@
     {
       "id": "020",
       "en": "An armband I inherited from Kazuma.\r\nIt identifies the wearer as a defence\r\nlawyer throughout the Empire of Japan.",
-      "fr": "\r\n<HD>\r\n</HD>Le brassard que Kiyô m'a\r\nremis. Il prouve que je suis\r\navocat au Grand Empire du Japon."
+      "fr": "\r\n<HD>\r\n</HD>Le brassard que Kiyo m'a\r\nremis. Il prouve que je suis\r\navocat au Grand Empire du Japon."
     },
     {
       "id": "021",
       "en": "Kazuma would stick this over the doors\r\nof the wardrobe for me. It says ‘Keep\r\nout’ in Japanese, though I'm not sure\r\nthe Russian crew can actually read it.",
-      "fr": "\r\n<HD>\r\n</HD>Un sceau que Kiyô a appliqué sur\r\nla porte du placard. On ignore si\r\nau moins l'un des marins, d'origine\r\nrusse, peut le lire."
+      "fr": "\r\n<HD>\r\n</HD>Un sceau que Kiyo a appliqué sur\r\nla porte du placard. On ignore si\r\nau moins l'un des marins, d'origine\r\nrusse, peut le lire."
     },
     {
       "id": "022",
       "en": "A piece of a small glass object and what\r\nlooks like a scuff mark made by Kazuma's\r\nshoes were found by the victim's body.",
-      "fr": "\r\n<HD>\r\n</HD>Les débris d'un petit objet brisé,\r\nen verre, reposent près de traces\r\nlaissées, on le suppose, par le\r\ncirage des chaussures de Kiyô."
+      "fr": "\r\n<HD>\r\n</HD>Les débris d'un petit objet brisé,\r\nen verre, reposent près de traces\r\nlaissées, on le suppose, par le\r\ncirage des chaussures de Kiyo."
     },
     {
       "id": "023",
@@ -2323,27 +2323,27 @@
     {
       "id": "065",
       "en": "A sample of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
-      "fr": "\r\n<HD>\r\n</HD><HD>Les analyses de sang réalisées avec les\r\nproduits chimiques spéciaux de M. Holmes.\r\nLa couleur de la réaction dépend\r\ndu propriétaire du sang.</HD>"
+      "fr": "\r\n<HD>\r\n</HD><HD>Les analyses de sang réalisées avec les\r\nproduits chimiques spéciaux de M. Sholmes.\r\nLa couleur de la réaction dépend\r\ndu propriétaire du sang.</HD>"
     },
     {
       "id": "066",
       "en": "Two samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
-      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a deux échantillons."
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Sholmes.\r\nPour l'instant, on a deux échantillons."
     },
     {
       "id": "067",
       "en": "Three samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
-      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a trois échantillons."
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Sholmes.\r\nPour l'instant, on a trois échantillons."
     },
     {
       "id": "068",
       "en": "Four samples of blood analysed with a\r\nspecial chemical indicator developed by\r\nMr Sholmes. Different people's blood\r\nturns different colours.",
-      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Holmes.\r\nPour l'instant, on a quatre échantillons."
+      "fr": "\r\n<HD>\r\n</HD>Les analyses de sang réalisées avec\r\nles produits chimiques spéciaux\r\nde M. Sholmes.\r\nPour l'instant, on a quatre échantillons."
     },
     {
       "id": "069",
       "en": "A long, unpublished story that Mr Sholmes\r\ndeposited at the pawnbrokery of the victim,\r\nMr Windibank. It's entitled ‘The Hound of\r\nthe Baskervilles’.",
-      "fr": "\r\n<HD>\r\n</HD>Un roman non publié que Holmes\r\na déposé en gage dans l'échoppe\r\nde la victime. Son titre est\r\n\"Le chien des Baskerville\"."
+      "fr": "\r\n<HD>\r\n</HD>Un roman non publié que Sholmes\r\na déposé en gage dans l'échoppe\r\nde la victime. Son titre est\r\n\"Le chien des Baskerville\"."
     },
     {
       "id": "070",
@@ -2353,7 +2353,7 @@
     {
       "id": "071",
       "en": "Notes collated by Miss Susato about the\r\nMcGilded case that we worked on two\r\nmonths ago.",
-      "fr": "\r\n<HD>\r\n</HD>Les informations sur l'affaire d'il y a\r\ndeux mois, impliquant Jeffrey Fortune,\r\nqu'Amimo a compilées pour moi."
+      "fr": "\r\n<HD>\r\n</HD>Les informations sur l'affaire d'il y a\r\ndeux mois, impliquant Jeffrey Fortune,\r\nqu'Susato a compilées pour moi."
     },
     {
       "id": "072",
@@ -2398,12 +2398,12 @@
     {
       "id": "080",
       "en": "The pouch Mr Sholmes was wearing around\r\nhis waist at the time of the shooting. One of\r\nthe glass phials is smashed and there are\r\nscorch marks around it.",
-      "fr": "\r\n<HD>\r\n</HD>Au moment du crime, Holmes portait\r\nça en bandoulière. Le flacon de verre\r\nsemble avoir explosé en se brisant."
+      "fr": "\r\n<HD>\r\n</HD>Au moment du crime, Sholmes portait\r\nça en bandoulière. Le flacon de verre\r\nsemble avoir explosé en se brisant."
     },
     {
       "id": "081",
       "en": "A projectile we discovered lodged in\r\nMr Sholmes's pouch. It caused one of the\r\nphials to explode, injuring Mr Sholmes.",
-      "fr": "\r\n<HD>\r\n</HD>Retrouvée dans la pochette de Holmes.\r\nIl semblerait que la balle ait fait\r\nexploser un flacon en blessant Holmes."
+      "fr": "\r\n<HD>\r\n</HD>Retrouvée dans la pochette de Sholmes.\r\nIl semblerait que la balle ait fait\r\nexploser un flacon en blessant Sholmes."
     },
     {
       "id": "082",
@@ -2495,7 +2495,7 @@
     {
       "id": "012",
       "en": "Kazuma's Diary",
-      "fr": "Journal de Kiyô"
+      "fr": "Journal de Kiyo"
     },
     {
       "id": "013",
@@ -2735,7 +2735,7 @@
     {
       "id": "060",
       "en": "Sholmes's Pouch",
-      "fr": "Pochette de Holmes"
+      "fr": "Pochette de Sholmes"
     },
     {
       "id": "061",
@@ -3134,7 +3134,7 @@
     {
       "id": "003",
       "en": "Kazuma's death",
-      "fr": "La mort de Kiyô"
+      "fr": "La mort de Kiyo"
     },
     {
       "id": "004",
@@ -3159,7 +3159,7 @@
     {
       "id": "008",
       "en": "Kazuma's death",
-      "fr": "L'affaire de Kiyô"
+      "fr": "L'affaire de Kiyo"
     },
     {
       "id": "009",
@@ -3349,12 +3349,12 @@
     {
       "id": "046",
       "en": "Mr Sholmes",
-      "fr": "Holmes"
+      "fr": "Sholmes"
     },
     {
       "id": "047",
       "en": "‘Wilson’",
-      "fr": "\"Watson\""
+      "fr": "\"Wilson\""
     },
     {
       "id": "048",
@@ -3524,7 +3524,7 @@
     {
       "id": "081",
       "en": "Living with Sholmes",
-      "fr": "Iris et Holmes"
+      "fr": "Iris et Sholmes"
     },
     {
       "id": "082",
@@ -3569,7 +3569,7 @@
     {
       "id": "090",
       "en": "Sholmes's lie",
-      "fr": "Le mensonge de Holmes"
+      "fr": "Le mensonge de Sholmes"
     },
     {
       "id": "091",
@@ -3579,17 +3579,17 @@
     {
       "id": "092",
       "en": "Sholmes's situation",
-      "fr": "Holmes"
+      "fr": "Sholmes"
     },
     {
       "id": "093",
       "en": "Susato's situation",
-      "fr": "Amimo"
+      "fr": "Susato"
     },
     {
       "id": "094",
       "en": "Injured Sholmes",
-      "fr": "Holmes s'est fait tirer dessus"
+      "fr": "Sholmes s'est fait tirer dessus"
     },
     {
       "id": "095",
@@ -3604,7 +3604,7 @@
     {
       "id": "097",
       "en": "Mr Sholmes",
-      "fr": "Holmes"
+      "fr": "Sholmes"
     },
     {
       "id": "098",
@@ -3689,7 +3689,7 @@
     {
       "id": "114",
       "en": "Sholmes's operation",
-      "fr": "Concernant Holmes"
+      "fr": "Concernant Sholmes"
     },
     {
       "id": "115",
@@ -3756,7 +3756,7 @@
     {
       "id": "001",
       "en": "Victim\r\n  John H. Wilson\r\n  Male, British\r\n\r\nTime of Death\r\n  19th November, shortly after 2 p.m.",
-      "fr": "■Victime :\r\n   John H. Watson\r\n   Homme, citoyen britannique\r\n\r\n■Heure estimée du décès :\r\n   19 novembre\r\n   peu après 14 heures"
+      "fr": "■Victime :\r\n   John H. Wilson\r\n   Homme, citoyen britannique\r\n\r\n■Heure estimée du décès :\r\n   19 novembre\r\n   peu après 14 heures"
     },
     {
       "id": "002",
@@ -3798,7 +3798,7 @@
     {
       "id": "001",
       "en": "Kazuma's Diary",
-      "fr": "Journal de Kiyô"
+      "fr": "Journal de Kiyo"
     },
     {
       "id": "002",
@@ -3869,7 +3869,7 @@
     {
       "id": "002",
       "en": "\r\n           I, the undersigned, agree to legal representation \r\n           by the lawyer named hereunder in regard to the\r\n           following incident.\r\n\r\nDefendant: Gina Lestrade\r\nAlleged Offence: Murder of Baker Street Pawnbroker\r\nDate of Trial: 17th April, 10 a.m.\r\nAttorney in Law: Ryunosuke Naruhodo",
-      "fr": "Cliente : Gina Lestrade\r\n  Je soussignée accepte que l'avocat mentionné\r\nci-après me représente et défende au procès.\r\nAvocat : Maître Hikari Yûno\r\nAffaire : meurtre à la boutique de prêt sur gage\r\n               située sur Baker Street\r\nDate du procès : 17 avril 1888, 10 heures"
+      "fr": "Cliente : Gina Lestrade\r\n  Je soussignée accepte que l'avocat mentionné\r\nci-après me représente et défende au procès.\r\nAvocat : Maître Yuno Naruhodo\r\nAffaire : meurtre à la boutique de prêt sur gage\r\n               située sur Baker Street\r\nDate du procès : 17 avril 1888, 10 heures"
     },
     {
       "id": "003",
@@ -3884,7 +3884,7 @@
     {
       "id": "005",
       "en": "Trial Summary\r\n  Defendant: Magnus McGilded\r\n  Prosecution Attorney: Lord Barok van Zieks\r\n  Defence Attorney: Ryunosuke Naruhodo\r\n\r\nConviction was assured with three eyewitness testimonies.\r\nHowever, a surprise fourth witness's testimony resulted in\r\nacquittal due to insufficient evidence.",
-      "fr": "■Résumé du procès :\r\n  Accusé : Jeffrey Fortune\r\n  Procureur : Maître Drake Van Peers\r\n  Avocat : Maître Hikari Yûno\r\nD'après trois témoignages, on pouvait penser\r\nque l'affaire était simple, mais un quatrième\r\ntémoin a conduit à l'acquittement, faute\r\nde preuves."
+      "fr": "■Résumé du procès :\r\n  Accusé : Jeffrey Fortune\r\n  Procureur : Maître Drake Van Peers\r\n  Avocat : Maître Yuno Naruhodo\r\nD'après trois témoignages, on pouvait penser\r\nque l'affaire était simple, mais un quatrième\r\ntémoin a conduit à l'acquittement, faute\r\nde preuves."
     },
     {
       "id": "006",
@@ -3894,7 +3894,7 @@
     {
       "id": "007",
       "en": "                                                                 Coroner: Dr Stevens\r\nDetails of Victim\r\n  Name: Pop Windibank (Male)\r\n  Occupation: Pawnbroker on Baker Street\r\nTime of Death\r\n  16th April, 1:00 – 1:30 a.m.\r\nReporting Party\r\n  Ryunosuke Naruhodo",
-      "fr": "■Victime :\r\nNom : Gage Pressure\r\n  Homme, prêteur sur gages à Baker Street\r\n■Heure estimée du décès :\r\n  Le 16 avril, entre 1h et 1h30 du matin\r\n■Personne ayant signalé le crime :\r\n  Hikari Yûno"
+      "fr": "■Victime :\r\nNom : Gage Pressure\r\n  Homme, prêteur sur gages à Baker Street\r\n■Heure estimée du décès :\r\n  Le 16 avril, entre 1h et 1h30 du matin\r\n■Personne ayant signalé le crime :\r\n  Yuno Naruhodo"
     },
     {
       "id": "008",
@@ -3926,7 +3926,7 @@
     {
       "id": "005",
       "en": "Susato's Sudden Entrance",
-      "fr": "Amimo s'immisce"
+      "fr": "Susato s'immisce"
     },
     {
       "id": "006",
@@ -3956,7 +3956,7 @@
     {
       "id": "011",
       "en": "Susato's Sudden Entrance",
-      "fr": "Amimo s'immisce"
+      "fr": "Susato s'immisce"
     },
     {
       "id": "012",
@@ -3973,7 +3973,7 @@
     {
       "id": "002",
       "en": "Sholmes's Appearance",
-      "fr": "Holmes entre en scène"
+      "fr": "Sholmes entre en scène"
     },
     {
       "id": "003",
@@ -4003,7 +4003,7 @@
     {
       "id": "008",
       "en": "Sholmes's Appearance",
-      "fr": "Holmes entre en scène"
+      "fr": "Sholmes entre en scène"
     },
     {
       "id": "009",
@@ -4219,7 +4219,7 @@
     {
       "id": "002",
       "en": "Office Morning",
-      "fr": "Matinée au cabinet Yûno"
+      "fr": "Matinée au cabinet Naruhodo"
     },
     {
       "id": "003",
@@ -4304,7 +4304,7 @@
     {
       "id": "019",
       "en": "Office Morning",
-      "fr": "Matinée au cabinet Yûno"
+      "fr": "Matinée au cabinet Naruhodo"
     },
     {
       "id": "020",

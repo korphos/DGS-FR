@@ -28,6 +28,9 @@ PATCHES_DIR = REPO_DIR / 'assets' / 'patches'
 # Arcs couverts par notre patch de scènes
 OUR_SCENE_ARCS = set(cp.ARC_TRANSLATIONS.keys())
 
+# GMDs bruts gérés via JSON (exclus du bsdiff legacy)
+OUR_GMD_PATHS = set(cp.GMD_TRANSLATIONS.keys())
+
 
 def file_hash(data: bytes) -> bytes:
     return xxh32_digest(data)
@@ -51,8 +54,8 @@ def apply_non_scene_from_original():
     applied, errors = 0, 0
 
     for rel, meta in manifest.items():
-        # Ignorer nos scènes (sécurité)
-        if rel in OUR_SCENE_ARCS:
+        # Ignorer nos scènes et GMDs gérés via JSON
+        if rel in OUR_SCENE_ARCS or rel in OUR_GMD_PATHS:
             continue
 
         target = GAME_DIR / rel
@@ -97,6 +100,35 @@ def apply_non_scene_from_original():
           + (f", {errors} erreur(s)" if errors else ""))
 
 
+def apply_gmd_translations():
+    """
+    Patche les GMDs bruts de GO/msg/ depuis les JSON de traduction.
+    Remplace le bsdiff legacy pour ces fichiers.
+    Crée les .gmd.bak si absents, repart toujours de l'original.
+    """
+    applied, errors = 0, 0
+
+    for gmd_rel, json_paths in cp.GMD_TRANSLATIONS.items():
+        gmd_abs = GAME_DIR / gmd_rel
+        if not gmd_abs.exists():
+            errors += 1
+            print(f"  ⚠ GMD introuvable : {gmd_rel}")
+            continue
+
+        bak_path = Path(str(gmd_abs) + '.bak')
+        if not bak_path.exists():
+            shutil.copy2(gmd_abs, bak_path)
+
+        is_dgs2 = any('dgs2' in p for p in json_paths)
+        gmd_translations = cp.load_translations(json_paths, warn_overflow=is_dgs2)
+        new_bytes = cp.patch_gmd_file(str(bak_path), gmd_translations)
+        gmd_abs.write_bytes(new_bytes)
+        applied += 1
+
+    print(f"  {applied} GMD(s) patchés depuis JSON"
+          + (f", {errors} erreur(s)" if errors else ""))
+
+
 def build_and_apply_scene_patch():
     """
     Régénère tgaac_fr.aapatch depuis les JSON de traductions
@@ -124,7 +156,8 @@ def build_and_apply_scene_patch():
             orig_arc.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(bak_path, orig_arc)
 
-            gmd_translations = cp.load_translations(json_paths)
+            is_dgs2 = any('dgs2' in p for p in json_paths)
+            gmd_translations = cp.load_translations(json_paths, warn_overflow=is_dgs2)
             total = sum(len(v) for v in gmd_translations.values())
             short = Path(arc_rel_path).name
             print(f"  {short} : {len(gmd_translations)} GMD(s), {total} remplacements")
@@ -160,6 +193,9 @@ def build_and_apply_scene_patch():
 def main():
     print("=== Étape 1 : UI, polices, messages (patch original) ===")
     apply_non_scene_from_original()
+
+    print("\n=== Étape 1b : GMDs GO/msg/ (traductions JSON) ===")
+    apply_gmd_translations()
 
     print("\n=== Étape 2 : dialogues de scènes (nos traductions JSON) ===")
     build_and_apply_scene_patch()
