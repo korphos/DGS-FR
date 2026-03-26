@@ -48,6 +48,9 @@ ARC_TRANSLATIONS: dict[str, list[str]] = {
     'nativeDX11x64/archive/BB/sce00_eng.arc': ['traductions/dgs2/sce00_c000.json'],
     # Ajouter ici au fur et à mesure :
     # 'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json', ...],
+    # ── Noms de personnages / UI (GO/) ──────────────────────────────────────
+    # Traité depuis l'anglais original — noms, profils dossier, lieux, topics.
+    'nativeDX11x64/archive/GO/msg_title_eng.arc': ['traductions/legacy/archive/GO/msg_title_eng.json'],
 }
 
 
