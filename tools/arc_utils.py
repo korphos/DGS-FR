@@ -35,19 +35,24 @@ def read_arc(data: bytes) -> list[tuple[str, bytes]]:
     return entries
 
 
-def write_arc(entries: list[tuple[str, bytes]], original_header: bytes) -> bytes:
+def write_arc(entries: list[tuple[str, bytes]], original_header: bytes,
+              data_start: int | None = None) -> bytes:
     """
     Reconstruit un fichier ARC à partir de la liste [(filename, raw_gmd_bytes)].
     Conserve le magic, la version et le nombre d'entrées de l'en-tête original.
+    data_start : offset où commence la section data (auto-calculé si None).
     """
     count = len(entries)
     magic = original_header[0:4]
     version = original_header[4:6]
 
     # Construit l'index (144 bytes par entrée)
-    # Les données commencent à DATA_SECTION_ALIGN
     index_size = 8 + count * 144
-    data_start = DATA_SECTION_ALIGN  # on garde l'alignement original
+    if data_start is None:
+        data_start = DATA_SECTION_ALIGN
+        # Agrandir si nécessaire (aligner sur la prochaine puissance de 2)
+        while data_start < index_size:
+            data_start *= 2
     assert index_size <= data_start, f"Index trop grand ({index_size} > {data_start})"
 
     # Compresse toutes les données d'abord pour calculer les offsets

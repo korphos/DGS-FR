@@ -70,7 +70,7 @@ Index : nb_entries × 144 bytes :
   [136:140] decompressed_size | 0x40000000 (flag)
   [140:144] absolute_offset dans le fichier
 
-Data section : alignée à 0x8000, chaque entrée = zlib.compress(gmd_data, level=6)
+Data section : alignée à 0x8000 (ou 0x10000 pour les ARCs avec >227 entrées), chaque entrée = zlib.compress(gmd_data, level=6)
 ```
 
 Outils : `tools/arc_utils.py` — fonctions `read_arc()` et `write_arc()`.
@@ -158,27 +158,57 @@ Format commun DGS1 et DGS2 : `{ "short_gmd_name": [ {id, en, fr}, ... ] }`
 - `"fr"` = traduction avec codes positionnés manuellement
 - `wrap_dialogue_line()` est appliqué automatiquement
 
-#### Format DGS1 — string GMD entière (`<RDFG>`)
+#### Format DGS1 — bloc individuel `<E025>`
+
+La majorité des entrées DGS1 sont maintenant au format court (un bloc = une entrée) :
 
 ```json
 {
   "_sce00_c001_0000_eng": [
     {
-      "id": "001",
-      "en": "<RDFG 1318><E800 93>...<E025 7>22nd November, 8:43 a.m.\r\n...<E023>...",
-      "fr": "<RDFG 1318><E800 93>...<E025 7>22 novembre, 8h43\r\n...<E023>..."
+      "id": "003",
+      "en": "<E025 3>If I may...?<E023>",
+      "fr": "<E025 4>Ahem, excusez-moi, jeune homme... ?<E023>"
     }
   ]
 }
 ```
 
-- `"en"` = **string GMD complète** (contient `<RDFG>`, `<E800>`, plusieurs blocs `<E025>`)
-- `"fr"` = string traduite complète — les codes sont préservés tels quels
-- `wrap_dialogue_line()` et les validations de codes **ne sont PAS appliqués** (détection automatique via présence de `<RDFG `)
-- La stratégie 1 (remplacement exact) gère ces strings directement
+- `"en"` = **un seul bloc** `<E025 N>text<E023>` (peut contenir `<PAGE>` pour blocs multi-pages)
+- `"fr"` = déjà formaté (extrait du patch original) — **pas de `wrap_dialogue_line()`**
+- Détection automatique : `('<E023>' in en_raw or '<E027>' in en_raw) and '<RDFG ' not in en_raw`
+- La stratégie 1 cherche ce sous-string dans la grande string GMD et le remplace
+
+**Cas spécial — blocs `<E027>` (monologue jury) :**
+Les examens de jury utilisent `<E025 N>...<E027>` au lieu de `<E025 N>...<E023>`. Ces blocs contiennent la pensée intérieure de Ryunosuke pendant la sélection de la pièce à conviction. Format identique au bloc DGS1 mais avec `<E027>` comme terminateur :
+```json
+{
+  "en": "<E025 2><E007>(Did the two witnesses see two <E006>different<E007> moments of the\r\nsame crime?)<E027>",
+  "fr": "<E025 2><E007>(Les deux témoins auraient-ils vu deux <E006>moments différents<E007> du même crime ?)<E027>"
+}
+```
+Conserver les codes `<E007>` (couleur bleue) et `<E006>` (surligné orange) dans `"fr"` — sans codes, la stratégie 4 préserverait l'anglais (unsafe).
+
+#### Format DGS1 — string GMD entière (`<RDFG>`) — fallback
+
+Environ 372 entrées (EN/FR avec compte de blocs différent) restent en format full-GMD :
+
+```json
+{
+  "_sce00_c000_0001_eng": [
+    {
+      "id": "001",
+      "en": "<RDFG 1318><E800 93>...<E025 7>22nd November...<E023>...",
+      "fr": "<RDFG 1318><E800 93>...<E025 7>22 novembre...<E023>..."
+    }
+  ]
+}
+```
+
+- `wrap_dialogue_line()` et validations **ne sont PAS appliqués** (détection via `<RDFG `)
 
 **Conventions communes :**
-- **Sauts de ligne automatiques** (DGS2 seulement) — le traducteur n'a pas besoin de gérer les retours à la ligne
+- **Sauts de ligne automatiques** (DGS2 seulement et blocs DGS2-style) — le traducteur n'a pas besoin de gérer les retours à la ligne
 - **Maximum 2 lignes par boîte** — un `⚠ DÉPASSEMENT` est émis si c'est dépassé (DGS2 seulement)
 - **Créer une 2ème boîte** : écrire `<PAGE>` dans `"fr"` (DGS2) — l'opener `<E025 N>` est injecté automatiquement
 - Les entrées où EN visible == FR visible sont ignorées
@@ -202,7 +232,7 @@ python3 tools/show_raw_blocks.py _sce00_c000_0010_eng "mot clé"
 | 1 | Correspondance exacte dans le texte brut | Prioritaire — matche via la clé brute `en_raw` |
 | 2 | Normalisation CRLF→LF puis match | Différences `\r\n` vs `\n` |
 | 3 | Regex flexible entre les mots (clés visibles seulement, **pas** `<E023>`/`<PAGE>`) | Fallback texte visible sans codes intercalés |
-| 4 | Correspondance sur le texte visible du bloc `<E025>...<E023/PAGE>` | Dernier recours — **ne devrait jamais arriver** si `en_raw` est correct |
+| 4 | Correspondance sur le texte visible du bloc `<E025>...<E023/PAGE/E027>` | Dernier recours — **ne devrait jamais arriver** si `en_raw` est correct |
 
 ---
 
@@ -257,17 +287,21 @@ Les backups sont créés automatiquement à côté des fichiers du jeu en `.arc.
 
 ## Mapping fichiers → JSON de traduction
 
-### DGS1 (GO/) — un JSON par arc de scène
+### DGS1 (GO/) — JSON découpés par chapitre
 
-| ARC (`nativeDX11x64/archive/GO/`) | Fichier JSON | GMDs traduits | État |
+Chaque arc est découpé en plusieurs fichiers `sceXX_cYYY.json` + `sceXX_misc.json`.
+Les fichiers sont **découverts automatiquement** par glob (`_dgs1_jsons('sceXX')` dans `create_patch.py`).
+
+| ARC (`nativeDX11x64/archive/GO/`) | Fichiers JSON | GMDs | État |
 |---|---|---|---|
-| `sce00_eng.arc` | `traductions/dgs1/sce00.json` | 60 GMDs | ✓ Extrait |
-| `sce01_eng.arc` | `traductions/dgs1/sce01.json` | 58 GMDs | ✓ Extrait |
-| `sce02_eng.arc` | `traductions/dgs1/sce02.json` | 47 GMDs | ✓ Extrait |
-| `sce03_eng.arc` | `traductions/dgs1/sce03.json` | 85 GMDs | ✓ Extrait |
-| `sce04_eng.arc` | `traductions/dgs1/sce04.json` | 158 GMDs | ✓ Extrait |
+| `sce00_eng.arc` | `traductions/dgs1/sce00_c000.json` … `sce00_misc.json` | 60 | ✓ |
+| `sce01_eng.arc` | `traductions/dgs1/sce01_c000.json` … `sce01_misc.json` | 58 | ✓ |
+| `sce02_eng.arc` | `traductions/dgs1/sce02_c000.json` … `sce02_misc.json` | 47 | ✓ |
+| `sce03_eng.arc` | `traductions/dgs1/sce03_c000.json` … `sce03_misc.json` | 85 | ✓ |
+| `sce04_eng.arc` | `traductions/dgs1/sce04_c000.json` … `sce04_misc.json` | 158 | ✓ |
 
-**Note :** Les traductions DGS1 sont stockées en string GMD entière (format `<RDFG>`). Elles peuvent être éditées mais les codes d'événement `<E800>` ne doivent pas être modifiés.
+**Format :** majorité des entrées au format bloc `<E025>…<E023>` (lisible en git). Environ 372 entrées restent en format full-GMD `<RDFG>` (blocs EN/FR avec nombre différent).
+**Les codes `<E800>` ne doivent pas être modifiés.**
 
 ### DGS2 (BB/) — un JSON par chapitre
 
@@ -285,10 +319,18 @@ Pour ajouter une scène DGS2, ajouter une entrée dans `ARC_TRANSLATIONS` dans `
 'nativeDX11x64/archive/BB/sce01_eng.arc': ['traductions/dgs2/sce01_c000.json'],
 ```
 
-### Assets binaires (polices, UI, textures, sons)
+### Assets binaires et fichiers UI/legacy
 
 Stockés dans `assets/patches/` comme bsdiffs pré-extraits + `manifest.json`.
 Appliqués directement par `rebuild_and_apply.py` sans nécessiter le patch original.
+
+Pour **modifier du texte** dans ces fichiers (noms de personnages, UI, sous-titres, etc.) :
+```bash
+python3 tools/patch_legacy_text.py "ancien texte" "nouveau texte" ["ancien2" "nouveau2" ...]
+```
+Le script parcourt tous les bsdiffs, décompresse + patche + recompresse automatiquement, et met à jour `manifest.json` et les JSONs de `traductions/legacy/`.
+
+> Les paires sont appliquées dans l'ordre longueur décroissante (évite les remplacements partiels).
 
 ---
 
@@ -310,10 +352,13 @@ Appliqués directement par `rebuild_and_apply.py` sans nécessiter le patch orig
 ```
 tools/
 ├── gmd_utils.py                ← lecture/écriture GMD, wrap, translate_string (4 stratégies)
-├── arc_utils.py                ← lecture/écriture ARC (zlib, index 144 bytes)
+├── arc_utils.py                ← lecture/écriture ARC (zlib, index 144 bytes, data_start auto)
 ├── create_patch.py             ← pipeline complet DGS1+DGS2 : JSON → ARC patché → .aapatch
+├── patch_legacy_text.py        ← applique des remplacements texte aux bsdiffs legacy + JSONs
 ├── extract_translations_dgs1.py ← extraction one-shot : patch_steam → traductions/dgs1/*.json
 ├── extract_legacy_patches.py   ← extraction one-shot : patch_steam → assets/patches/ (binaires)
+├── convert_dgs1_format.py      ← convertit full-GMD → format bloc par bloc (one-shot, déjà fait)
+├── split_dgs1_by_chapter.py    ← découpe sceXX.json en sceXX_cYYY.json (one-shot, déjà fait)
 └── show_raw_blocks.py          ← affiche les blocs EN bruts d'un GMD (debug DGS2)
 
 src/
@@ -321,10 +366,12 @@ src/
 
 traductions/
 ├── dgs1/
-│   ├── sce00.json  …sce04.json ← DGS1 traduit (strings GMD complètes, format <RDFG>)
-│   └── (legacy/)               ← traductions des fichiers msg/chr/evi3d extraites
-└── dgs2/
-    └── sce00_c000.json         ← DGS2 Épisode 1 intro (148 entrées, format bloc <E025>)
+│   ├── sceXX_cYYY.json         ← DGS1 traduit, découpé par chapitre (format bloc <E025>)
+│   └── sceXX_misc.json         ← DGS1 : fichiers bg/chr/evidence/macro par arc
+├── dgs2/
+│   └── sce00_c000.json         ← DGS2 Épisode 1 intro (148 entrées, format bloc <E025>)
+└── legacy/
+    └── GO/msg/*.json           ← paires EN/FR extraites des fichiers UI/msg (documentation)
 
 assets/
 └── patches/

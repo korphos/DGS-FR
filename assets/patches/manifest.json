@@ -13,11 +13,11 @@
   },
   "nativeDX11x64/archive/msg_sys_eng.arc": {
     "hash": "58b7dd9e",
-    "bsdiff_size": 16293
+    "bsdiff_size": 16290
   },
   "nativeDX11x64/archive/special_cmn_eng.arc": {
     "hash": "e89cba25",
-    "bsdiff_size": 2092912
+    "bsdiff_size": 2092946
   },
   "nativeDX11x64/archive/title_launcher_eng.arc": {
     "hash": "dd797113",
@@ -41,7 +41,7 @@
   },
   "nativeDX11x64/msgCommon/title_slot_eng.gmd": {
     "hash": "f95b47b5",
-    "bsdiff_size": 619
+    "bsdiff_size": 621
   },
   "nativeDX11x64/UI/5_guide/50_tutorial_BB/tex/guide_sce3_bb_BM_NOMIP_eng.tex": {
     "hash": "3bb30ac9",
@@ -309,15 +309,15 @@
   },
   "nativeDX11x64/GO/msg/explain_content_eng.gmd": {
     "hash": "adb24ff8",
-    "bsdiff_size": 2079
+    "bsdiff_size": 2099
   },
   "nativeDX11x64/GO/msg/explain_support_eng.gmd": {
     "hash": "3ae3994f",
-    "bsdiff_size": 2168
+    "bsdiff_size": 2160
   },
   "nativeDX11x64/GO/msg/explain_title_eng.gmd": {
     "hash": "87e36993",
-    "bsdiff_size": 560
+    "bsdiff_size": 561
   },
   "nativeDX11x64/GO/msg/item0_03_00_subtitles_eng.gmd": {
     "hash": "e8771228",
@@ -333,7 +333,7 @@
   },
   "nativeDX11x64/GO/msg/item1_10_00_subtitles_eng.gmd": {
     "hash": "6d45dbe9",
-    "bsdiff_size": 196
+    "bsdiff_size": 187
   },
   "nativeDX11x64/GO/msg/item1_12_00_subtitles_eng.gmd": {
     "hash": "18c67b25",
@@ -341,11 +341,11 @@
   },
   "nativeDX11x64/GO/msg/movie_subtitle_eng.gmd": {
     "hash": "08c26377",
-    "bsdiff_size": 2465
+    "bsdiff_size": 2390
   },
   "nativeDX11x64/GO/msg/pair_reasoning_evidence_name_eng.gmd": {
     "hash": "c2bbe45e",
-    "bsdiff_size": 407
+    "bsdiff_size": 405
   },
   "nativeDX11x64/GO/msg/pair_reasoning_sce01_eng.gmd": {
     "hash": "edd23708",
@@ -373,7 +373,7 @@
   },
   "nativeDX11x64/GO/script/output/_macro00_eng.gmd": {
     "hash": "b69327d1",
-    "bsdiff_size": 6484
+    "bsdiff_size": 6224
   },
   "nativeDX11x64/GO/script/output/_macro01_eng.gmd": {
     "hash": "b1655060",
@@ -381,15 +381,15 @@
   },
   "nativeDX11x64/GO/script/output/_macro02_eng.gmd": {
     "hash": "97c30bb5",
-    "bsdiff_size": 6562
+    "bsdiff_size": 6262
   },
   "nativeDX11x64/GO/script/output/_macro03_eng.gmd": {
     "hash": "8dee743a",
-    "bsdiff_size": 6541
+    "bsdiff_size": 6351
   },
   "nativeDX11x64/GO/script/output/_macro04_eng.gmd": {
     "hash": "16366143",
-    "bsdiff_size": 8627
+    "bsdiff_size": 8496
   },
   "nativeDX11x64/GO/script/output/_sce00_pair_eng.gmd": {
     "hash": "eec021d1",
@@ -401,35 +401,35 @@
   },
   "nativeDX11x64/GO/script/output/_sce07_c001_0000_eng.gmd": {
     "hash": "cd3a13c9",
-    "bsdiff_size": 8299
+    "bsdiff_size": 8115
   },
   "nativeDX11x64/GO/script/output/_sce07_c002_0000_eng.gmd": {
     "hash": "1b53aacc",
-    "bsdiff_size": 10425
+    "bsdiff_size": 10086
   },
   "nativeDX11x64/GO/script/output/_sce07_c003_0000_eng.gmd": {
     "hash": "bb6252a5",
-    "bsdiff_size": 8621
+    "bsdiff_size": 8496
   },
   "nativeDX11x64/GO/script/output/_sce07_c004_0000_eng.gmd": {
     "hash": "34909875",
-    "bsdiff_size": 9769
+    "bsdiff_size": 9540
   },
   "nativeDX11x64/GO/script/output/_sce07_c005_0000_eng.gmd": {
     "hash": "4860fcc7",
-    "bsdiff_size": 9985
+    "bsdiff_size": 9849
   },
   "nativeDX11x64/GO/script/output/_sce07_c006_0000_eng.gmd": {
     "hash": "6ca66e24",
-    "bsdiff_size": 11506
+    "bsdiff_size": 10612
   },
   "nativeDX11x64/GO/script/output/_sce07_c007_0000_eng.gmd": {
     "hash": "1ec33920",
-    "bsdiff_size": 10730
+    "bsdiff_size": 10723
   },
   "nativeDX11x64/GO/script/output/_sce07_c008_0000_eng.gmd": {
     "hash": "6e7d1ce5",
-    "bsdiff_size": 10384
+    "bsdiff_size": 10375
   },
   "nativeDX11x64/BB/scene/lock/dial_0_BM_NOMIP.tex": {
     "hash": "4596d61e",
@@ -557,7 +557,7 @@
   },
   "nativeDX11x64/archive/GO/msg_title_eng.arc": {
     "hash": "46b87b61",
-    "bsdiff_size": 41914
+    "bsdiff_size": 41425
   },
   "nativeDX11x64/archive/GO/snd_script_eng.arc": {
     "hash": "5967faa4",
