@@ -51,7 +51,7 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 | **Dmitri Demiglaski** | **Stroganov** | Pun culinaire (bœuf Stroganov) |
 | **Ashley Graydon** | **Paul Cademy** | Antagoniste ep5 |
 | Victime ep3 ("Thrice-Fired Mason") | **Morty** ("Morty 'est cuit trois fois'") | Pun sur "thrice-fired" |
-| Inspecteur japonais ep1 | **Honédé Rika** (**Inspecteur Honédé**) | Personnage japonais ; nom EN inconnu |
+| Inspecteur japonais ep1 | **Kachi Topei** (**Inspecteur Kachi**) | Pun : "Taupe" (espion) + "Kachi" (caché/victoire) ; nom EN : Satoru Hosonaga |
 | Juré/personnage ep3-4 | **Rupert Greynoir** / **Rupert Milverton** | Personnages secondaires |
 
 ### Règle pour la traduction DGS2
