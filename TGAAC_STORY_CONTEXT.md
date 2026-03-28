@@ -44,7 +44,7 @@ Le jeu suit **Ryunosuke Naruhodo**, étudiant japonais et ancêtre de Phoenix Wr
 | **Magnus McGilded** | **Jeffrey Fortune** | "Je f'rai fortune" (pun) |
 | **Tobias Gregson** | **Inspecteur Gregson** (**Gregounet**) | Nom conservé, "Gregounet" = surnom affectueux |
 | **Gina Lestrade** | **Gina Lestrade** (**Mlle Gina**) | Nom conservé |
-| **Soseki Natsume** | **Natsumé Sôsséki** (**Sôsséki**) | Prénom/nom inversés à la française |
+| **Soseki Natsume** | **Koman Sasekeri** (**Sasekeri**) | Jeu de mots "Comment ça s'écrit" — écrivain japonais |
 | **Jezaille Brett** | **Gizelle Brett** | Prénom légèrement modifié |
 | **John H. Wilson** | **Professeur John H. Wilson** | Wilson (comme EN). = John Watson dans la fiction. Assassiné par Jezaille Brett |
 | **Nikomina Borschevic** | **Liliya Sassoupkikvitch** (**Mlle Liliya**) | Renommée |

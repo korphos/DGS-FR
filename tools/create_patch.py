@@ -51,6 +51,10 @@ ARC_TRANSLATIONS: dict[str, list[str]] = {
     # ── Noms de personnages / UI (GO/) ──────────────────────────────────────
     # Traité depuis l'anglais original — noms, profils dossier, lieux, topics.
     'nativeDX11x64/archive/GO/msg_title_eng.arc': ['traductions/legacy/archive/GO/msg_title_eng.json'],
+    # ── UI / menus communs ──────────────────────────────────────────────────
+    'nativeDX11x64/archive/msg_cmn_eng.arc':     ['traductions/legacy/archive/msg_cmn_eng.json'],
+    'nativeDX11x64/archive/msg_sys_eng.arc':     ['traductions/legacy/archive/msg_sys_eng.json'],
+    'nativeDX11x64/archive/special_cmn_eng.arc': ['traductions/legacy/archive/special_cmn_eng.json'],
 }
 
 # ─── GMD bruts à patcher (hors ARC) ──────────────────────────────────────────
@@ -75,6 +79,7 @@ GMD_TRANSLATIONS: dict[str, list[str]] = {
     'nativeDX11x64/GO/msg/pair_reasoning_topic_label_eng.gmd':  ['traductions/legacy/GO/msg/pair_reasoning_topic_label_eng.json'],
     'nativeDX11x64/GO/msg/pair_reasoning_topic_message_eng.gmd': ['traductions/legacy/GO/msg/pair_reasoning_topic_message_eng.json'],
     'nativeDX11x64/GO/msg/pair_reasoning_topic_title_eng.gmd':  ['traductions/legacy/GO/msg/pair_reasoning_topic_title_eng.json'],
+    'nativeDX11x64/msgCommon/title_slot_eng.gmd':               ['traductions/legacy/msgCommon/title_slot_eng.json'],
 }
 
 

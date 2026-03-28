@@ -263,7 +263,7 @@
     {
       "id": "010",
       "en": "Mr Natsume's Room",
-      "fr": "Chambre de Natsumé Sôsséki"
+      "fr": "Chambre de Koman Sasekeri"
     },
     {
       "id": "011",
@@ -333,7 +333,7 @@
     {
       "id": "024",
       "en": "Mr Natsume's Lodgings",
-      "fr": "Appartement de Natsumé Sôsséki"
+      "fr": "Appartement de Koman Sasekeri"
     },
     {
       "id": "025",
@@ -682,12 +682,12 @@
     {
       "id": "035",
       "en": "A retired army man who's the landlord\r\nof the lodgings rented by the defendant,\r\nMr Natsume. An old knee injury means\r\nhe's confined to a chair most of the time.",
-      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sôsséki. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
+      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sasekeri. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
     },
     {
       "id": "036",
       "en": "A retired army man who's the landlord of\r\nthe lodgings rented by the defendant,\r\nMr Natsume. An old knee injury means he's\r\nconfined to a chair most of the time.",
-      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sôsséki. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
+      "fr": "                                             <HD>                Âge : 46 ans\r\n</HD>\r\nPropriétaire de l'appartement loué\r\npar M. Sasekeri. Militaire à la retraite.\r\nUne blessure au genou le cloue\r\nen fauteuil roulant."
     },
     {
       "id": "037",
@@ -944,7 +944,7 @@
     {
       "id": "026",
       "en": "Soseki Natsume<BLCT></BLCT> (33)",
-      "fr": "Natsumé Sôsséki<BLCT></BLCT> (33)"
+      "fr": "Koman Sasekeri<BLCT></BLCT> (33)"
     },
     {
       "id": "027",
@@ -1941,7 +1941,7 @@
     {
       "id": "185",
       "en": "Invalid Message",
-      "fr": "Natsumé Sôsséki"
+      "fr": "Koman Sasekeri"
     },
     {
       "id": "186",
@@ -2178,7 +2178,7 @@
     {
       "id": "036",
       "en": "A receipt discovered in Mr Natsume's\r\nroom for some books that he had\r\npurchased from a secondhand bookshop\r\nbefore the incident occurred.",
-      "fr": "\r\n<HD>\r\n</HD>Une facture d'une librairie de livres\r\nd'occasion, preuve que M. Sôsséki\r\ny a acheté des livres avant le\r\ncrime. Retrouvée chez M. Sôsséki."
+      "fr": "\r\n<HD>\r\n</HD>Une facture d'une librairie de livres\r\nd'occasion, preuve que M. Sasekeri\r\ny a acheté des livres avant le\r\ncrime. Retrouvée chez M. Sasekeri."
     },
     {
       "id": "037",
@@ -2952,7 +2952,7 @@
     {
       "id": "036",
       "en": "Soseki",
-      "fr": "Sôsséki"
+      "fr": "Sasekeri"
     },
     {
       "id": "037",
@@ -3309,7 +3309,7 @@
     {
       "id": "038",
       "en": "Soseki Natsume",
-      "fr": "Natsumé Sôsséki"
+      "fr": "Koman Sasekeri"
     },
     {
       "id": "039",
@@ -3369,7 +3369,7 @@
     {
       "id": "050",
       "en": "About Mr Natsume",
-      "fr": "Sôsséki"
+      "fr": "Sasekeri"
     },
     {
       "id": "051",
@@ -3384,12 +3384,12 @@
     {
       "id": "053",
       "en": "Mr Natsume's room",
-      "fr": "La chambre de Sôsséki"
+      "fr": "La chambre de Sasekeri"
     },
     {
       "id": "054",
       "en": "Mr Natsume's arrest",
-      "fr": "L'arrestation de Sôsséki"
+      "fr": "L'arrestation de Sasekeri"
     },
     {
       "id": "055",
@@ -3429,7 +3429,7 @@
     {
       "id": "062",
       "en": "Soseki-san",
-      "fr": "Sôsséki"
+      "fr": "Sasekeri"
     },
     {
       "id": "063",
@@ -3827,7 +3827,7 @@
     {
       "id": "001",
       "en": "                   YORE BOOKS, 17th February, 4:45 p.m.\r\n\r\nCustomer: Mr Natsume\r\n\r\nThe sum of 2 shillings tendered in receipt of:\r\n     - ‘The Picture of Monsieur Lecoq’\r\n     - ‘A Meal for Gaboriau’\r\n     - ‘Canterbury Yearnings’\r\n",
-      "fr": "Reçu de M. Natsumé Sôsséki : 2 Shillings\r\n<SIZE 4> \r\n</SIZE>Pour les ouvrages suivants :\r\n   \"Portrait de M. Lecoq\", \"Gaboriau et la Mer\"\r\n   et \"Les Contes de Canterbury\" qui lui ont\r\n   été remis en main propre.\r\n<SIZE 4> \r\n</SIZE>Fait le 17 février 1888, à 16h45\r\n  à Borrow Books, librairie de livres d'occasion."
+      "fr": "Reçu de M. Koman Sasekeri : 2 Shillings\r\n<SIZE 4> \r\n</SIZE>Pour les ouvrages suivants :\r\n   \"Portrait de M. Lecoq\", \"Gaboriau et la Mer\"\r\n   et \"Les Contes de Canterbury\" qui lui ont\r\n   été remis en main propre.\r\n<SIZE 4> \r\n</SIZE>Fait le 17 février 1888, à 16h45\r\n  à Borrow Books, librairie de livres d'occasion."
     },
     {
       "id": "002",
@@ -4112,7 +4112,7 @@
     {
       "id": "003",
       "en": "Mr Natsume's Lodgings",
-      "fr": "Vers chez Sôsséki"
+      "fr": "Vers chez Sasekeri"
     },
     {
       "id": "004",
@@ -4167,7 +4167,7 @@
     {
       "id": "014",
       "en": "Mr Natsume's Lodgings",
-      "fr": "Vers chez Sôsséki"
+      "fr": "Vers chez Sasekeri"
     },
     {
       "id": "015",

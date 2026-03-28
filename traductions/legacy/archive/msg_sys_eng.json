@@ -1,4 +1,141 @@
 {
+  "place_eng": [
+    {
+      "id": "001",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "002",
+      "en": "Supreme Court Courtroom",
+      "fr": "Tribunal Impérial - Salle d'audience"
+    },
+    {
+      "id": "003",
+      "en": "Kazuma's Cabin",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "004",
+      "en": "Miss Pavlova's Cabin",
+      "fr": "Cabine de Liliya"
+    },
+    {
+      "id": "005",
+      "en": "First-Class Passageway",
+      "fr": "Navire - couloir"
+    },
+    {
+      "id": "006",
+      "en": "Lord Chief Justice's Office",
+      "fr": "Bureau du Ministre de la Justice"
+    },
+    {
+      "id": "007",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "008",
+      "en": "The Old Bailey",
+      "fr": "Tribunal Old Bailey"
+    },
+    {
+      "id": "009",
+      "en": "Sholmes's Suite",
+      "fr": "Chez Holmes"
+    },
+    {
+      "id": "010",
+      "en": "Mr Natsume's Room",
+      "fr": "Chambre de Koman Sasekeri"
+    },
+    {
+      "id": "011",
+      "en": "The Garridebs' Room",
+      "fr": "Chez Mr Garrideb"
+    },
+    {
+      "id": "012",
+      "en": "St Bartholomew's Hospital, Olive's Bed",
+      "fr": "Hôp. St Bartholomew, chambre de Ms Greene"
+    },
+    {
+      "id": "013",
+      "en": "Shamspeare's Room",
+      "fr": "Chez Jakespeare"
+    },
+    {
+      "id": "014",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "015",
+      "en": "Naruhodo's Legal Consultancy",
+      "fr": "Cabinet d'avocat Yûno"
+    },
+    {
+      "id": "016",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "017",
+      "en": "Windibank's Storeroom",
+      "fr": "Boutique de Pressure - Entrepôt"
+    },
+    {
+      "id": "018",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    },
+    {
+      "id": "019",
+      "en": "Windibank's Pawnbrokery",
+      "fr": "Boutique de Pressure Gage"
+    },
+    {
+      "id": "020",
+      "en": "Kazuma's Cabin (At Night)",
+      "fr": "Cabine de Kiyô"
+    },
+    {
+      "id": "021",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "022",
+      "en": "Backup Cabin",
+      "fr": "Cabine de secours"
+    },
+    {
+      "id": "023",
+      "en": "Mr Roylott's Cabin",
+      "fr": "Cabine de Roylott"
+    },
+    {
+      "id": "024",
+      "en": "Mr Natsume's Lodgings",
+      "fr": "Appartement de Koman Sasekeri"
+    },
+    {
+      "id": "025",
+      "en": "Windibank's Main Shop",
+      "fr": "Boutique de Pressure - Intérieur"
+    },
+    {
+      "id": "026",
+      "en": "St Synner's Hospital",
+      "fr": "Saint Andrew's Hospital"
+    },
+    {
+      "id": "027",
+      "en": "Port of Dover",
+      "fr": "Port de Dover (Douvres)"
+    }
+  ],
   "system_eng": [
     {
       "id": "001",
@@ -313,7 +450,7 @@
     {
       "id": "063",
       "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 6: In Mr Natsume's Room’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
-      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 6 : Dans la chambre de Sôsséki\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 6 : Dans la chambre de Sasekeri\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
     },
     {
       "id": "064",
@@ -448,143 +585,6 @@
       "id": "003",
       "en": "<CHOI 2 1 1><CLS>Do you want to stop watching the video?",
       "fr": "<CHOI 2 1 1><CLS>Arrêter la vidéo ?"
-    }
-  ],
-  "place_eng": [
-    {
-      "id": "001",
-      "en": "Supreme Court Courtroom",
-      "fr": "Tribunal Impérial - Salle d'audience"
-    },
-    {
-      "id": "002",
-      "en": "Supreme Court Courtroom",
-      "fr": "Tribunal Impérial - Salle d'audience"
-    },
-    {
-      "id": "003",
-      "en": "Kazuma's Cabin",
-      "fr": "Cabine de Kiyô"
-    },
-    {
-      "id": "004",
-      "en": "Miss Pavlova's Cabin",
-      "fr": "Cabine de Liliya"
-    },
-    {
-      "id": "005",
-      "en": "First-Class Passageway",
-      "fr": "Navire - couloir"
-    },
-    {
-      "id": "006",
-      "en": "Lord Chief Justice's Office",
-      "fr": "Bureau du Ministre de la Justice"
-    },
-    {
-      "id": "007",
-      "en": "The Old Bailey",
-      "fr": "Tribunal Old Bailey"
-    },
-    {
-      "id": "008",
-      "en": "The Old Bailey",
-      "fr": "Tribunal Old Bailey"
-    },
-    {
-      "id": "009",
-      "en": "Sholmes's Suite",
-      "fr": "Chez Holmes"
-    },
-    {
-      "id": "010",
-      "en": "Mr Natsume's Room",
-      "fr": "Chambre de Natsumé Sôsséki"
-    },
-    {
-      "id": "011",
-      "en": "The Garridebs' Room",
-      "fr": "Chez Mr Garrideb"
-    },
-    {
-      "id": "012",
-      "en": "St Bartholomew's Hospital, Olive's Bed",
-      "fr": "Hôp. St Bartholomew, chambre de Ms Greene"
-    },
-    {
-      "id": "013",
-      "en": "Shamspeare's Room",
-      "fr": "Chez Jakespeare"
-    },
-    {
-      "id": "014",
-      "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yûno"
-    },
-    {
-      "id": "015",
-      "en": "Naruhodo's Legal Consultancy",
-      "fr": "Cabinet d'avocat Yûno"
-    },
-    {
-      "id": "016",
-      "en": "Windibank's Pawnbrokery",
-      "fr": "Boutique de Pressure Gage"
-    },
-    {
-      "id": "017",
-      "en": "Windibank's Storeroom",
-      "fr": "Boutique de Pressure - Entrepôt"
-    },
-    {
-      "id": "018",
-      "en": "Port of Dover",
-      "fr": "Port de Dover (Douvres)"
-    },
-    {
-      "id": "019",
-      "en": "Windibank's Pawnbrokery",
-      "fr": "Boutique de Pressure Gage"
-    },
-    {
-      "id": "020",
-      "en": "Kazuma's Cabin (At Night)",
-      "fr": "Cabine de Kiyô"
-    },
-    {
-      "id": "021",
-      "en": "St Synner's Hospital",
-      "fr": "Saint Andrew's Hospital"
-    },
-    {
-      "id": "022",
-      "en": "Backup Cabin",
-      "fr": "Cabine de secours"
-    },
-    {
-      "id": "023",
-      "en": "Mr Roylott's Cabin",
-      "fr": "Cabine de Roylott"
-    },
-    {
-      "id": "024",
-      "en": "Mr Natsume's Lodgings",
-      "fr": "Appartement de Natsumé Sôsséki"
-    },
-    {
-      "id": "025",
-      "en": "Windibank's Main Shop",
-      "fr": "Boutique de Pressure - Intérieur"
-    },
-    {
-      "id": "026",
-      "en": "St Synner's Hospital",
-      "fr": "Saint Andrew's Hospital"
-    },
-    {
-      "id": "027",
-      "en": "Port of Dover",
-      "fr": "Port de Dover (Douvres)"
     }
   ],
   "title_launcher_eng": [
@@ -870,7 +870,7 @@
     {
       "id": "042",
       "en": "In Mr Natsume's Room",
-      "fr": "Dans la chambre de Sôsséki"
+      "fr": "Dans la chambre de Sasekeri"
     },
     {
       "id": "043",

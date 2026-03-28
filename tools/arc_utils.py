@@ -45,10 +45,9 @@ def write_arc(entries: list[tuple[str, bytes]], original_header: bytes) -> bytes
     version = original_header[4:6]
 
     # Construit l'index (144 bytes par entrée)
-    # Les données commencent à DATA_SECTION_ALIGN
+    # Les données commencent à 0x8000, ou 0x10000 si l'index ne tient pas
     index_size = 8 + count * 144
-    data_start = DATA_SECTION_ALIGN  # on garde l'alignement original
-    assert index_size <= data_start, f"Index trop grand ({index_size} > {data_start})"
+    data_start = 0x10000 if index_size > DATA_SECTION_ALIGN else DATA_SECTION_ALIGN
 
     # Compresse toutes les données d'abord pour calculer les offsets
     compressed_blobs = []

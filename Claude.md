@@ -322,27 +322,32 @@ Pour ajouter une scène DGS2, ajouter une entrée dans `ARC_TRANSLATIONS` dans `
 
 ### Noms de personnages / UI (GO/)
 
-`msg_title_eng.arc` est géré via JSON (pas bsdiff), comme les arcs de scènes :
+Ces ARCs sont gérés via JSON (pas bsdiff) :
 
 | ARC | Fichier JSON | Contenu |
 |---|---|---|
 | `nativeDX11x64/archive/GO/msg_title_eng.arc` | `traductions/legacy/archive/GO/msg_title_eng.json` | Noms courts (bulles), profils dossier, lieux, topics, cinématiques |
+| `nativeDX11x64/archive/msg_cmn_eng.arc` | `traductions/legacy/archive/msg_cmn_eng.json` | Menus communs, titres chapitres, noms lieux |
+| `nativeDX11x64/archive/msg_sys_eng.arc` | `traductions/legacy/archive/msg_sys_eng.json` | UI système, sauvegarde, options |
+| `nativeDX11x64/archive/special_cmn_eng.arc` | `traductions/legacy/archive/special_cmn_eng.json` | Contenus spéciaux, galerie, musique, crédits |
 
-Pour modifier un nom ou une ligne UI de cet arc, éditer directement le JSON.
+Pour modifier du texte UI, éditer directement le JSON correspondant.
 
 ### Assets binaires et fichiers UI/legacy
 
-Stockés dans `assets/patches/` comme bsdiffs pré-extraits + `manifest.json`.
-Appliqués directement par `rebuild_and_apply.py` sans nécessiter le patch original.
-`msg_title_eng.arc` est **exclu** de l'application bsdiff (géré par notre JSON ci-dessus).
+Les fichiers de **texte UI** sont gérés via JSON (comme les scènes), dans `ARC_TRANSLATIONS` :
 
-Pour **modifier du texte** dans les autres fichiers legacy (sous-titres, polices, etc.) :
-```bash
-python3 tools/patch_legacy_text.py "ancien texte" "nouveau texte" ["ancien2" "nouveau2" ...]
-```
-Le script parcourt tous les bsdiffs, décompresse + patche + recompresse automatiquement, et met à jour `manifest.json` et les JSONs de `traductions/legacy/`.
+| ARC | Fichier JSON | Contenu |
+|---|---|---|
+| `nativeDX11x64/archive/msg_cmn_eng.arc` | `traductions/legacy/archive/msg_cmn_eng.json` | Menus communs, titres chapitres, noms lieux |
+| `nativeDX11x64/archive/msg_sys_eng.arc` | `traductions/legacy/archive/msg_sys_eng.json` | UI système, sauvegarde, options |
+| `nativeDX11x64/archive/special_cmn_eng.arc` | `traductions/legacy/archive/special_cmn_eng.json` | Contenus spéciaux, galerie, musique, crédits |
 
-> Les paires sont appliquées dans l'ordre longueur décroissante (évite les remplacements partiels).
+Ces ARCs sont **exclus du pipeline bsdiff** automatiquement (ils sont dans `OUR_SCENE_ARCS`).
+
+Pour modifier du texte UI, éditer directement le JSON correspondant.
+
+Les assets **binaires** (polices, textures, sons) restent dans `assets/patches/` comme bsdiffs.
 
 ---
 
