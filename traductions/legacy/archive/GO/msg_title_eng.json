@@ -349,6 +349,21 @@
       "id": "027",
       "en": "Port of Dover",
       "fr": "Port de Dover (Douvres)"
+    },
+    {
+      "id": "028",
+      "en": "Prison",
+      "fr": "Prison de Newgate"
+    },
+    {
+      "id": "029",
+      "en": "Briar Road",
+      "fr": "Briar Road"
+    },
+    {
+      "id": "030",
+      "en": "Baker Street",
+      "fr": "Baker Street"
     }
   ],
   "Caption_eng": [

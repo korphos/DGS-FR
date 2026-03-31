@@ -43,7 +43,7 @@
     {
       "id": "009",
       "en": "Sholmes's Suite",
-      "fr": "Chez Holmes"
+      "fr": "Chez Sholmes"
     },
     {
       "id": "010",
@@ -440,7 +440,7 @@
     {
       "id": "061",
       "en": "<CHOI 2 0 1><CLS>You're about to play the escapade entitled\r\n‘Episode 4: In Sholmes's Suite’.\r\n<RGB AA0B0B>This escapade includes spoilers about the\r\nfirst game's story.</RGB>\r\nContinue?",
-      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 4 : Chez Holmes\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
+      "fr": "<CHOI 2 0 1><CLS>Vous aller jouer à l'escapade intitulée\r\n\"Épisode 4 : Chez Sholmes\".\r\n<RGB AA0B0B>Cette escapade comporte des spoilers sur\r\nl'histoire du premier jeu.</RGB>\r\nContinuer ?"
     },
     {
       "id": "062",
@@ -860,7 +860,7 @@
     {
       "id": "040",
       "en": "In Sholmes's Suite",
-      "fr": "Chez Holmes"
+      "fr": "Chez Sholmes"
     },
     {
       "id": "041",
@@ -1856,7 +1856,7 @@
     {
       "id": "075",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+      "fr": "Aventures - 5e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Susato)"
     },
     {
       "id": "076",
@@ -1871,7 +1871,7 @@
     {
       "id": "078",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans les souvenirs du cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+      "fr": "Détermination - 2e affaire\r\nInspecter la pelle dans les souvenirs du cabinet d'avocat Yûno\r\n(Partenaire : Susato)"
     },
     {
       "id": "079",
@@ -1881,17 +1881,17 @@
     {
       "id": "080",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Susato)"
     },
     {
       "id": "081",
       "en": "Examined the shovel with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
+      "fr": "Détermination - 3e affaire\r\nInspecter la pelle dans le musée de cire de Mme Pétrie\r\n(Partenaire : Susato)"
     },
     {
       "id": "082",
       "en": "Examined the shovel with Susato in Naruhodo's Legal Consultancy\r\nin Episode 4 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 4e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Amimo)"
+      "fr": "Détermination - 4e affaire\r\nInspecter la pelle dans le cabinet d'avocat Yûno\r\n(Partenaire : Susato)"
     },
     {
       "id": "083",
@@ -1901,42 +1901,42 @@
     {
       "id": "084",
       "en": "Examined the ladder with Susato in Madame Tusspells Museum of\r\nWaxwork in Episode 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Amimo)"
+      "fr": "Détermination - 3e affaire\r\nInspecter l'escabeau dans le musée de cire de Mme Pétrie\r\n(Partenaire : Susato)"
     },
     {
       "id": "085",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris\r\nin Episode 4 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris, Amimo)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris, Susato)"
     },
     {
       "id": "086",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris having heard\r\nthe ‘Wilson’ topic in Episode 4 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir après avoir parlé de Watson\r\n(Partenaire : Iris, Amimo)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir après avoir parlé de Watson\r\n(Partenaire : Iris, Susato)"
     },
     {
       "id": "087",
       "en": "Examined the blackboard in Sholmes's suite with Susato on the first day\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes lors du 1er jour\r\n(Partenaire : Iris, Amimo)"
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Sholmes lors du 1er jour\r\n(Partenaire : Iris, Susato)"
     },
     {
       "id": "088",
       "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episode 5 of The Great Ace Attorney: Adventures",
-      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
+      "fr": "Aventures - 5e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris)"
     },
     {
       "id": "089",
       "en": "Examined the blackboard in Sholmes's suite with Iris\r\nin Episodes 2 or 3 of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 2e ou 3e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Iris)"
+      "fr": "Aventures - 2e ou 3e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Iris)"
     },
     {
       "id": "090",
       "en": "Examined the blackboard in Sholmes's suite with Susato and Iris during\r\nthe flashback in Episode 2 of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir dans les souvenirs de chez Holmes\r\n(Partenaire : Iris, Amimo)"
+      "fr": "Aventures - 4e affaire\r\nInspecter le tableau noir dans les souvenirs de chez Sholmes\r\n(Partenaire : Iris, Susato)"
     },
     {
       "id": "091",
       "en": "Examined the blackboard in Sholmes's suite with Susato in Episode 3, 4,\r\nor the Final Chapter of The Great Ace Attorney 2: Resolve",
-      "fr": "Aventures - 3, 4 ou 5e affaire\r\nInspecter le tableau noir chez Holmes\r\n(Partenaire : Amimo)"
+      "fr": "Aventures - 3, 4 ou 5e affaire\r\nInspecter le tableau noir chez Sholmes\r\n(Partenaire : Susato)"
     },
     {
       "id": "092",
